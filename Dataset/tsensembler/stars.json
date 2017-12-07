@@ -1,0 +1,68 @@
+[
+    {
+        "starred_at": "2017-06-21T16:54:41Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/marciadboliveira/following{/other_user}", 
+            "events_url": "https://api.github.com/users/marciadboliveira/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/marciadboliveira/orgs", 
+            "url": "https://api.github.com/users/marciadboliveira", 
+            "gists_url": "https://api.github.com/users/marciadboliveira/gists{/gist_id}", 
+            "html_url": "https://github.com/marciadboliveira", 
+            "subscriptions_url": "https://api.github.com/users/marciadboliveira/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/15105878?v=4", 
+            "repos_url": "https://api.github.com/users/marciadboliveira/repos", 
+            "received_events_url": "https://api.github.com/users/marciadboliveira/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/marciadboliveira/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "marciadboliveira", 
+            "type": "User", 
+            "id": 15105878, 
+            "followers_url": "https://api.github.com/users/marciadboliveira/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-09-07T16:06:04Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/flostracke/following{/other_user}", 
+            "events_url": "https://api.github.com/users/flostracke/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/flostracke/orgs", 
+            "url": "https://api.github.com/users/flostracke", 
+            "gists_url": "https://api.github.com/users/flostracke/gists{/gist_id}", 
+            "html_url": "https://github.com/flostracke", 
+            "subscriptions_url": "https://api.github.com/users/flostracke/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/10338084?v=4", 
+            "repos_url": "https://api.github.com/users/flostracke/repos", 
+            "received_events_url": "https://api.github.com/users/flostracke/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/flostracke/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "flostracke", 
+            "type": "User", 
+            "id": 10338084, 
+            "followers_url": "https://api.github.com/users/flostracke/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-10-16T06:06:40Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/talegari/following{/other_user}", 
+            "events_url": "https://api.github.com/users/talegari/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/talegari/orgs", 
+            "url": "https://api.github.com/users/talegari", 
+            "gists_url": "https://api.github.com/users/talegari/gists{/gist_id}", 
+            "html_url": "https://github.com/talegari", 
+            "subscriptions_url": "https://api.github.com/users/talegari/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/10041819?v=4", 
+            "repos_url": "https://api.github.com/users/talegari/repos", 
+            "received_events_url": "https://api.github.com/users/talegari/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/talegari/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "talegari", 
+            "type": "User", 
+            "id": 10041819, 
+            "followers_url": "https://api.github.com/users/talegari/followers"
+        }
+    }
+]

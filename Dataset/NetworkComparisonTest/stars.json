@@ -1,0 +1,46 @@
+[
+    {
+        "starred_at": "2015-07-04T15:26:23Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/joaovissoci/following{/other_user}", 
+            "events_url": "https://api.github.com/users/joaovissoci/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/joaovissoci/orgs", 
+            "url": "https://api.github.com/users/joaovissoci", 
+            "gists_url": "https://api.github.com/users/joaovissoci/gists{/gist_id}", 
+            "html_url": "https://github.com/joaovissoci", 
+            "subscriptions_url": "https://api.github.com/users/joaovissoci/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/1192533?v=4", 
+            "repos_url": "https://api.github.com/users/joaovissoci/repos", 
+            "received_events_url": "https://api.github.com/users/joaovissoci/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/joaovissoci/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "joaovissoci", 
+            "type": "User", 
+            "id": 1192533, 
+            "followers_url": "https://api.github.com/users/joaovissoci/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-09-14T18:26:33Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/ehealthgr/following{/other_user}", 
+            "events_url": "https://api.github.com/users/ehealthgr/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/ehealthgr/orgs", 
+            "url": "https://api.github.com/users/ehealthgr", 
+            "gists_url": "https://api.github.com/users/ehealthgr/gists{/gist_id}", 
+            "html_url": "https://github.com/ehealthgr", 
+            "subscriptions_url": "https://api.github.com/users/ehealthgr/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/10967465?v=4", 
+            "repos_url": "https://api.github.com/users/ehealthgr/repos", 
+            "received_events_url": "https://api.github.com/users/ehealthgr/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/ehealthgr/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "ehealthgr", 
+            "type": "User", 
+            "id": 10967465, 
+            "followers_url": "https://api.github.com/users/ehealthgr/followers"
+        }
+    }
+]

@@ -9,9 +9,10 @@ if ! [ $# -eq 1 ]
     exit
 fi
 
-echo "[Script] Collecting contributors first contribution date! It'll be saved in the root folder of the repository."
+echo "[Script] Collecting repository newcomers..."
 
 folder=$1
+echo "$folder"
 cd $folder
 git log --format='%aN' | sort -u > ../raw_contributors.txt
 cat ../raw_contributors.txt | while read line
@@ -19,10 +20,10 @@ do
     contributor=$line
     echo "$contributor"
     first_contribution=$(git log --reverse  --date=short --pretty='format:%cd' -E --author="^${contributor}\s<(.+)>$" | head -1)
-    echo "$contributor, $first_contribution" >> ../raw_first_contributions.txt
+    echo "$contributor, $first_contribution" >> ../raw_newcomers.txt
 done
-cat ../raw_first_contributions.txt | sort -rn > ../first_contributions.txt
+cat ../raw_newcomers.txt | sort -rn > ../newcomers.csv
 
 # If you want to keep with the files not merged, just remove these lines below 
-rm -rf ../raw_first_contributions.txt
+rm -rf ../raw_newcomers.txt
 rm -rf ../raw_contributors.txt

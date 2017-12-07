@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2017-06-29T10:42:59Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/nbunne/following{/other_user}", 
+            "events_url": "https://api.github.com/users/nbunne/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/nbunne/orgs", 
+            "url": "https://api.github.com/users/nbunne", 
+            "gists_url": "https://api.github.com/users/nbunne/gists{/gist_id}", 
+            "html_url": "https://github.com/nbunne", 
+            "subscriptions_url": "https://api.github.com/users/nbunne/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/23521791?v=4", 
+            "repos_url": "https://api.github.com/users/nbunne/repos", 
+            "received_events_url": "https://api.github.com/users/nbunne/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/nbunne/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "nbunne", 
+            "type": "User", 
+            "id": 23521791, 
+            "followers_url": "https://api.github.com/users/nbunne/followers"
+        }
+    }
+]

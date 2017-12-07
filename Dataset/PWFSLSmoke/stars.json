@@ -1,0 +1,68 @@
+[
+    {
+        "starred_at": "2016-09-07T17:55:02Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/rschigas/following{/other_user}", 
+            "events_url": "https://api.github.com/users/rschigas/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/rschigas/orgs", 
+            "url": "https://api.github.com/users/rschigas", 
+            "gists_url": "https://api.github.com/users/rschigas/gists{/gist_id}", 
+            "html_url": "https://github.com/rschigas", 
+            "subscriptions_url": "https://api.github.com/users/rschigas/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/4665395?v=4", 
+            "repos_url": "https://api.github.com/users/rschigas/repos", 
+            "received_events_url": "https://api.github.com/users/rschigas/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/rschigas/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "rschigas", 
+            "type": "User", 
+            "id": 4665395, 
+            "followers_url": "https://api.github.com/users/rschigas/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-02-10T17:56:46Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/rexthompson/following{/other_user}", 
+            "events_url": "https://api.github.com/users/rexthompson/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/rexthompson/orgs", 
+            "url": "https://api.github.com/users/rexthompson", 
+            "gists_url": "https://api.github.com/users/rexthompson/gists{/gist_id}", 
+            "html_url": "https://github.com/rexthompson", 
+            "subscriptions_url": "https://api.github.com/users/rexthompson/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/25443789?v=4", 
+            "repos_url": "https://api.github.com/users/rexthompson/repos", 
+            "received_events_url": "https://api.github.com/users/rexthompson/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/rexthompson/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "rexthompson", 
+            "type": "User", 
+            "id": 25443789, 
+            "followers_url": "https://api.github.com/users/rexthompson/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-03-13T22:46:39Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/brolin/following{/other_user}", 
+            "events_url": "https://api.github.com/users/brolin/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/brolin/orgs", 
+            "url": "https://api.github.com/users/brolin", 
+            "gists_url": "https://api.github.com/users/brolin/gists{/gist_id}", 
+            "html_url": "https://github.com/brolin", 
+            "subscriptions_url": "https://api.github.com/users/brolin/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/45384?v=4", 
+            "repos_url": "https://api.github.com/users/brolin/repos", 
+            "received_events_url": "https://api.github.com/users/brolin/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/brolin/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "brolin", 
+            "type": "User", 
+            "id": 45384, 
+            "followers_url": "https://api.github.com/users/brolin/followers"
+        }
+    }
+]

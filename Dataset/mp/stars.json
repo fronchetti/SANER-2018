@@ -1,0 +1,46 @@
+[
+    {
+        "starred_at": "2016-08-13T10:30:11Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/fadel/following{/other_user}", 
+            "events_url": "https://api.github.com/users/fadel/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/fadel/orgs", 
+            "url": "https://api.github.com/users/fadel", 
+            "gists_url": "https://api.github.com/users/fadel/gists{/gist_id}", 
+            "html_url": "https://github.com/fadel", 
+            "subscriptions_url": "https://api.github.com/users/fadel/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/343881?v=4", 
+            "repos_url": "https://api.github.com/users/fadel/repos", 
+            "received_events_url": "https://api.github.com/users/fadel/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/fadel/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "fadel", 
+            "type": "User", 
+            "id": 343881, 
+            "followers_url": "https://api.github.com/users/fadel/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-10-30T15:19:46Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/fatore/following{/other_user}", 
+            "events_url": "https://api.github.com/users/fatore/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/fatore/orgs", 
+            "url": "https://api.github.com/users/fatore", 
+            "gists_url": "https://api.github.com/users/fatore/gists{/gist_id}", 
+            "html_url": "https://github.com/fatore", 
+            "subscriptions_url": "https://api.github.com/users/fatore/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/1120981?v=4", 
+            "repos_url": "https://api.github.com/users/fatore/repos", 
+            "received_events_url": "https://api.github.com/users/fatore/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/fatore/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "fatore", 
+            "type": "User", 
+            "id": 1120981, 
+            "followers_url": "https://api.github.com/users/fatore/followers"
+        }
+    }
+]

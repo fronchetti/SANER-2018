@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2017-02-04T16:42:44Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/kancheng/following{/other_user}", 
+            "events_url": "https://api.github.com/users/kancheng/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/kancheng/orgs", 
+            "url": "https://api.github.com/users/kancheng", 
+            "gists_url": "https://api.github.com/users/kancheng/gists{/gist_id}", 
+            "html_url": "https://github.com/kancheng", 
+            "subscriptions_url": "https://api.github.com/users/kancheng/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/6993715?v=4", 
+            "repos_url": "https://api.github.com/users/kancheng/repos", 
+            "received_events_url": "https://api.github.com/users/kancheng/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/kancheng/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "kancheng", 
+            "type": "User", 
+            "id": 6993715, 
+            "followers_url": "https://api.github.com/users/kancheng/followers"
+        }
+    }
+]

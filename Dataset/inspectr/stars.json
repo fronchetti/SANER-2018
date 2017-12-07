@@ -1,0 +1,46 @@
+[
+    {
+        "starred_at": "2017-01-27T09:06:26Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/maelle/following{/other_user}", 
+            "events_url": "https://api.github.com/users/maelle/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/maelle/orgs", 
+            "url": "https://api.github.com/users/maelle", 
+            "gists_url": "https://api.github.com/users/maelle/gists{/gist_id}", 
+            "html_url": "https://github.com/maelle", 
+            "subscriptions_url": "https://api.github.com/users/maelle/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/8360597?v=4", 
+            "repos_url": "https://api.github.com/users/maelle/repos", 
+            "received_events_url": "https://api.github.com/users/maelle/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/maelle/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "maelle", 
+            "type": "User", 
+            "id": 8360597, 
+            "followers_url": "https://api.github.com/users/maelle/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-02-21T15:09:43Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/abmathewks/following{/other_user}", 
+            "events_url": "https://api.github.com/users/abmathewks/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/abmathewks/orgs", 
+            "url": "https://api.github.com/users/abmathewks", 
+            "gists_url": "https://api.github.com/users/abmathewks/gists{/gist_id}", 
+            "html_url": "https://github.com/abmathewks", 
+            "subscriptions_url": "https://api.github.com/users/abmathewks/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/755620?v=4", 
+            "repos_url": "https://api.github.com/users/abmathewks/repos", 
+            "received_events_url": "https://api.github.com/users/abmathewks/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/abmathewks/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "abmathewks", 
+            "type": "User", 
+            "id": 755620, 
+            "followers_url": "https://api.github.com/users/abmathewks/followers"
+        }
+    }
+]

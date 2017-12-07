@@ -1,0 +1,46 @@
+[
+    {
+        "starred_at": "2017-03-09T21:26:37Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/AdamSpannbauer/following{/other_user}", 
+            "events_url": "https://api.github.com/users/AdamSpannbauer/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/AdamSpannbauer/orgs", 
+            "url": "https://api.github.com/users/AdamSpannbauer", 
+            "gists_url": "https://api.github.com/users/AdamSpannbauer/gists{/gist_id}", 
+            "html_url": "https://github.com/AdamSpannbauer", 
+            "subscriptions_url": "https://api.github.com/users/AdamSpannbauer/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/16326083?v=4", 
+            "repos_url": "https://api.github.com/users/AdamSpannbauer/repos", 
+            "received_events_url": "https://api.github.com/users/AdamSpannbauer/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/AdamSpannbauer/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "AdamSpannbauer", 
+            "type": "User", 
+            "id": 16326083, 
+            "followers_url": "https://api.github.com/users/AdamSpannbauer/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-03-10T15:51:53Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/maelle/following{/other_user}", 
+            "events_url": "https://api.github.com/users/maelle/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/maelle/orgs", 
+            "url": "https://api.github.com/users/maelle", 
+            "gists_url": "https://api.github.com/users/maelle/gists{/gist_id}", 
+            "html_url": "https://github.com/maelle", 
+            "subscriptions_url": "https://api.github.com/users/maelle/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/8360597?v=4", 
+            "repos_url": "https://api.github.com/users/maelle/repos", 
+            "received_events_url": "https://api.github.com/users/maelle/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/maelle/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "maelle", 
+            "type": "User", 
+            "id": 8360597, 
+            "followers_url": "https://api.github.com/users/maelle/followers"
+        }
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "starred_at": "2017-08-08T08:47:33Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/iamsniffles/following{/other_user}", 
+            "events_url": "https://api.github.com/users/iamsniffles/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/iamsniffles/orgs", 
+            "url": "https://api.github.com/users/iamsniffles", 
+            "gists_url": "https://api.github.com/users/iamsniffles/gists{/gist_id}", 
+            "html_url": "https://github.com/iamsniffles", 
+            "subscriptions_url": "https://api.github.com/users/iamsniffles/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/12268435?v=4", 
+            "repos_url": "https://api.github.com/users/iamsniffles/repos", 
+            "received_events_url": "https://api.github.com/users/iamsniffles/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/iamsniffles/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "iamsniffles", 
+            "type": "User", 
+            "id": 12268435, 
+            "followers_url": "https://api.github.com/users/iamsniffles/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-08-08T10:04:15Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/silverstone1903/following{/other_user}", 
+            "events_url": "https://api.github.com/users/silverstone1903/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/silverstone1903/orgs", 
+            "url": "https://api.github.com/users/silverstone1903", 
+            "gists_url": "https://api.github.com/users/silverstone1903/gists{/gist_id}", 
+            "html_url": "https://github.com/silverstone1903", 
+            "subscriptions_url": "https://api.github.com/users/silverstone1903/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/9806827?v=4", 
+            "repos_url": "https://api.github.com/users/silverstone1903/repos", 
+            "received_events_url": "https://api.github.com/users/silverstone1903/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/silverstone1903/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "silverstone1903", 
+            "type": "User", 
+            "id": 9806827, 
+            "followers_url": "https://api.github.com/users/silverstone1903/followers"
+        }
+    }
+]

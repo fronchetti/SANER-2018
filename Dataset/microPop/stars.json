@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2017-08-22T17:28:43Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/jjborrelli/following{/other_user}", 
+            "events_url": "https://api.github.com/users/jjborrelli/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/jjborrelli/orgs", 
+            "url": "https://api.github.com/users/jjborrelli", 
+            "gists_url": "https://api.github.com/users/jjborrelli/gists{/gist_id}", 
+            "html_url": "https://github.com/jjborrelli", 
+            "subscriptions_url": "https://api.github.com/users/jjborrelli/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/5286496?v=4", 
+            "repos_url": "https://api.github.com/users/jjborrelli/repos", 
+            "received_events_url": "https://api.github.com/users/jjborrelli/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/jjborrelli/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "jjborrelli", 
+            "type": "User", 
+            "id": 5286496, 
+            "followers_url": "https://api.github.com/users/jjborrelli/followers"
+        }
+    }
+]

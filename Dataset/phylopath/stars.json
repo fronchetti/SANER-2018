@@ -1,0 +1,68 @@
+[
+    {
+        "starred_at": "2016-10-05T09:37:25Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/zx8754/following{/other_user}", 
+            "events_url": "https://api.github.com/users/zx8754/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/zx8754/orgs", 
+            "url": "https://api.github.com/users/zx8754", 
+            "gists_url": "https://api.github.com/users/zx8754/gists{/gist_id}", 
+            "html_url": "https://github.com/zx8754", 
+            "subscriptions_url": "https://api.github.com/users/zx8754/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/5212915?v=4", 
+            "repos_url": "https://api.github.com/users/zx8754/repos", 
+            "received_events_url": "https://api.github.com/users/zx8754/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/zx8754/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "zx8754", 
+            "type": "User", 
+            "id": 5212915, 
+            "followers_url": "https://api.github.com/users/zx8754/followers"
+        }
+    }, 
+    {
+        "starred_at": "2016-10-05T13:20:23Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/brodieG/following{/other_user}", 
+            "events_url": "https://api.github.com/users/brodieG/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/brodieG/orgs", 
+            "url": "https://api.github.com/users/brodieG", 
+            "gists_url": "https://api.github.com/users/brodieG/gists{/gist_id}", 
+            "html_url": "https://github.com/brodieG", 
+            "subscriptions_url": "https://api.github.com/users/brodieG/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/6105908?v=4", 
+            "repos_url": "https://api.github.com/users/brodieG/repos", 
+            "received_events_url": "https://api.github.com/users/brodieG/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/brodieG/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "brodieG", 
+            "type": "User", 
+            "id": 6105908, 
+            "followers_url": "https://api.github.com/users/brodieG/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-10-06T01:46:13Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/lzhangss/following{/other_user}", 
+            "events_url": "https://api.github.com/users/lzhangss/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/lzhangss/orgs", 
+            "url": "https://api.github.com/users/lzhangss", 
+            "gists_url": "https://api.github.com/users/lzhangss/gists{/gist_id}", 
+            "html_url": "https://github.com/lzhangss", 
+            "subscriptions_url": "https://api.github.com/users/lzhangss/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/19653461?v=4", 
+            "repos_url": "https://api.github.com/users/lzhangss/repos", 
+            "received_events_url": "https://api.github.com/users/lzhangss/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/lzhangss/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "lzhangss", 
+            "type": "User", 
+            "id": 19653461, 
+            "followers_url": "https://api.github.com/users/lzhangss/followers"
+        }
+    }
+]

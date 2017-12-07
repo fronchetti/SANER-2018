@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2016-09-10T16:51:19Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/j-chao/following{/other_user}", 
+            "events_url": "https://api.github.com/users/j-chao/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/j-chao/orgs", 
+            "url": "https://api.github.com/users/j-chao", 
+            "gists_url": "https://api.github.com/users/j-chao/gists{/gist_id}", 
+            "html_url": "https://github.com/j-chao", 
+            "subscriptions_url": "https://api.github.com/users/j-chao/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/17502184?v=4", 
+            "repos_url": "https://api.github.com/users/j-chao/repos", 
+            "received_events_url": "https://api.github.com/users/j-chao/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/j-chao/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "j-chao", 
+            "type": "User", 
+            "id": 17502184, 
+            "followers_url": "https://api.github.com/users/j-chao/followers"
+        }
+    }
+]

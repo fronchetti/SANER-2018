@@ -1,0 +1,46 @@
+[
+    {
+        "starred_at": "2012-06-21T13:14:35Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/gsk3/following{/other_user}", 
+            "events_url": "https://api.github.com/users/gsk3/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/gsk3/orgs", 
+            "url": "https://api.github.com/users/gsk3", 
+            "gists_url": "https://api.github.com/users/gsk3/gists{/gist_id}", 
+            "html_url": "https://github.com/gsk3", 
+            "subscriptions_url": "https://api.github.com/users/gsk3/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/975494?v=4", 
+            "repos_url": "https://api.github.com/users/gsk3/repos", 
+            "received_events_url": "https://api.github.com/users/gsk3/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/gsk3/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "gsk3", 
+            "type": "User", 
+            "id": 975494, 
+            "followers_url": "https://api.github.com/users/gsk3/followers"
+        }
+    }, 
+    {
+        "starred_at": "2015-02-11T18:30:41Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/arturochian/following{/other_user}", 
+            "events_url": "https://api.github.com/users/arturochian/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/arturochian/orgs", 
+            "url": "https://api.github.com/users/arturochian", 
+            "gists_url": "https://api.github.com/users/arturochian/gists{/gist_id}", 
+            "html_url": "https://github.com/arturochian", 
+            "subscriptions_url": "https://api.github.com/users/arturochian/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/4960935?v=4", 
+            "repos_url": "https://api.github.com/users/arturochian/repos", 
+            "received_events_url": "https://api.github.com/users/arturochian/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/arturochian/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "arturochian", 
+            "type": "User", 
+            "id": 4960935, 
+            "followers_url": "https://api.github.com/users/arturochian/followers"
+        }
+    }
+]

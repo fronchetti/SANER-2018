@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2015-04-26T20:20:13Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/tzerk/following{/other_user}", 
+            "events_url": "https://api.github.com/users/tzerk/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/tzerk/orgs", 
+            "url": "https://api.github.com/users/tzerk", 
+            "gists_url": "https://api.github.com/users/tzerk/gists{/gist_id}", 
+            "html_url": "https://github.com/tzerk", 
+            "subscriptions_url": "https://api.github.com/users/tzerk/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/8055781?v=4", 
+            "repos_url": "https://api.github.com/users/tzerk/repos", 
+            "received_events_url": "https://api.github.com/users/tzerk/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/tzerk/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "tzerk", 
+            "type": "User", 
+            "id": 8055781, 
+            "followers_url": "https://api.github.com/users/tzerk/followers"
+        }
+    }
+]

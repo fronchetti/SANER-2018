@@ -1,0 +1,68 @@
+[
+    {
+        "starred_at": "2017-08-08T13:14:44Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/johnypark/following{/other_user}", 
+            "events_url": "https://api.github.com/users/johnypark/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/johnypark/orgs", 
+            "url": "https://api.github.com/users/johnypark", 
+            "gists_url": "https://api.github.com/users/johnypark/gists{/gist_id}", 
+            "html_url": "https://github.com/johnypark", 
+            "subscriptions_url": "https://api.github.com/users/johnypark/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/17522132?v=4", 
+            "repos_url": "https://api.github.com/users/johnypark/repos", 
+            "received_events_url": "https://api.github.com/users/johnypark/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/johnypark/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "johnypark", 
+            "type": "User", 
+            "id": 17522132, 
+            "followers_url": "https://api.github.com/users/johnypark/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-08-30T13:49:03Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/MirzaCengic/following{/other_user}", 
+            "events_url": "https://api.github.com/users/MirzaCengic/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/MirzaCengic/orgs", 
+            "url": "https://api.github.com/users/MirzaCengic", 
+            "gists_url": "https://api.github.com/users/MirzaCengic/gists{/gist_id}", 
+            "html_url": "https://github.com/MirzaCengic", 
+            "subscriptions_url": "https://api.github.com/users/MirzaCengic/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/19353225?v=4", 
+            "repos_url": "https://api.github.com/users/MirzaCengic/repos", 
+            "received_events_url": "https://api.github.com/users/MirzaCengic/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/MirzaCengic/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "MirzaCengic", 
+            "type": "User", 
+            "id": 19353225, 
+            "followers_url": "https://api.github.com/users/MirzaCengic/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-12-06T20:06:39Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/DinoBiancolini/following{/other_user}", 
+            "events_url": "https://api.github.com/users/DinoBiancolini/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/DinoBiancolini/orgs", 
+            "url": "https://api.github.com/users/DinoBiancolini", 
+            "gists_url": "https://api.github.com/users/DinoBiancolini/gists{/gist_id}", 
+            "html_url": "https://github.com/DinoBiancolini", 
+            "subscriptions_url": "https://api.github.com/users/DinoBiancolini/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/29005099?v=4", 
+            "repos_url": "https://api.github.com/users/DinoBiancolini/repos", 
+            "received_events_url": "https://api.github.com/users/DinoBiancolini/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/DinoBiancolini/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "DinoBiancolini", 
+            "type": "User", 
+            "id": 29005099, 
+            "followers_url": "https://api.github.com/users/DinoBiancolini/followers"
+        }
+    }
+]

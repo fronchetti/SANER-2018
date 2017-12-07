@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2017-03-14T23:51:13Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/rrichard1/following{/other_user}", 
+            "events_url": "https://api.github.com/users/rrichard1/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/rrichard1/orgs", 
+            "url": "https://api.github.com/users/rrichard1", 
+            "gists_url": "https://api.github.com/users/rrichard1/gists{/gist_id}", 
+            "html_url": "https://github.com/rrichard1", 
+            "subscriptions_url": "https://api.github.com/users/rrichard1/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/2001039?v=4", 
+            "repos_url": "https://api.github.com/users/rrichard1/repos", 
+            "received_events_url": "https://api.github.com/users/rrichard1/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/rrichard1/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "rrichard1", 
+            "type": "User", 
+            "id": 2001039, 
+            "followers_url": "https://api.github.com/users/rrichard1/followers"
+        }
+    }
+]

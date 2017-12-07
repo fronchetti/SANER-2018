@@ -1,0 +1,46 @@
+[
+    {
+        "starred_at": "2015-06-30T22:45:22Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/andrechalom/following{/other_user}", 
+            "events_url": "https://api.github.com/users/andrechalom/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/andrechalom/orgs", 
+            "url": "https://api.github.com/users/andrechalom", 
+            "gists_url": "https://api.github.com/users/andrechalom/gists{/gist_id}", 
+            "html_url": "https://github.com/andrechalom", 
+            "subscriptions_url": "https://api.github.com/users/andrechalom/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/1994997?v=4", 
+            "repos_url": "https://api.github.com/users/andrechalom/repos", 
+            "received_events_url": "https://api.github.com/users/andrechalom/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/andrechalom/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "andrechalom", 
+            "type": "User", 
+            "id": 1994997, 
+            "followers_url": "https://api.github.com/users/andrechalom/followers"
+        }
+    }, 
+    {
+        "starred_at": "2016-11-04T14:40:19Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/th1460/following{/other_user}", 
+            "events_url": "https://api.github.com/users/th1460/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/th1460/orgs", 
+            "url": "https://api.github.com/users/th1460", 
+            "gists_url": "https://api.github.com/users/th1460/gists{/gist_id}", 
+            "html_url": "https://github.com/th1460", 
+            "subscriptions_url": "https://api.github.com/users/th1460/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/7317985?v=4", 
+            "repos_url": "https://api.github.com/users/th1460/repos", 
+            "received_events_url": "https://api.github.com/users/th1460/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/th1460/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "th1460", 
+            "type": "User", 
+            "id": 7317985, 
+            "followers_url": "https://api.github.com/users/th1460/followers"
+        }
+    }
+]

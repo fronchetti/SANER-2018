@@ -1,0 +1,46 @@
+[
+    {
+        "starred_at": "2017-11-11T23:00:13Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/guilbran/following{/other_user}", 
+            "events_url": "https://api.github.com/users/guilbran/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/guilbran/orgs", 
+            "url": "https://api.github.com/users/guilbran", 
+            "gists_url": "https://api.github.com/users/guilbran/gists{/gist_id}", 
+            "html_url": "https://github.com/guilbran", 
+            "subscriptions_url": "https://api.github.com/users/guilbran/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/29049910?v=4", 
+            "repos_url": "https://api.github.com/users/guilbran/repos", 
+            "received_events_url": "https://api.github.com/users/guilbran/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/guilbran/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "guilbran", 
+            "type": "User", 
+            "id": 29049910, 
+            "followers_url": "https://api.github.com/users/guilbran/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-11-24T04:11:53Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/haginile/following{/other_user}", 
+            "events_url": "https://api.github.com/users/haginile/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/haginile/orgs", 
+            "url": "https://api.github.com/users/haginile", 
+            "gists_url": "https://api.github.com/users/haginile/gists{/gist_id}", 
+            "html_url": "https://github.com/haginile", 
+            "subscriptions_url": "https://api.github.com/users/haginile/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/3156368?v=4", 
+            "repos_url": "https://api.github.com/users/haginile/repos", 
+            "received_events_url": "https://api.github.com/users/haginile/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/haginile/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "haginile", 
+            "type": "User", 
+            "id": 3156368, 
+            "followers_url": "https://api.github.com/users/haginile/followers"
+        }
+    }
+]

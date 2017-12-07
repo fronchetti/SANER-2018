@@ -1,0 +1,68 @@
+[
+    {
+        "starred_at": "2016-03-16T03:55:29Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/942kid/following{/other_user}", 
+            "events_url": "https://api.github.com/users/942kid/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/942kid/orgs", 
+            "url": "https://api.github.com/users/942kid", 
+            "gists_url": "https://api.github.com/users/942kid/gists{/gist_id}", 
+            "html_url": "https://github.com/942kid", 
+            "subscriptions_url": "https://api.github.com/users/942kid/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/501168?v=4", 
+            "repos_url": "https://api.github.com/users/942kid/repos", 
+            "received_events_url": "https://api.github.com/users/942kid/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/942kid/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "942kid", 
+            "type": "User", 
+            "id": 501168, 
+            "followers_url": "https://api.github.com/users/942kid/followers"
+        }
+    }, 
+    {
+        "starred_at": "2016-03-27T04:19:17Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/alma2004/following{/other_user}", 
+            "events_url": "https://api.github.com/users/alma2004/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/alma2004/orgs", 
+            "url": "https://api.github.com/users/alma2004", 
+            "gists_url": "https://api.github.com/users/alma2004/gists{/gist_id}", 
+            "html_url": "https://github.com/alma2004", 
+            "subscriptions_url": "https://api.github.com/users/alma2004/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/1681969?v=4", 
+            "repos_url": "https://api.github.com/users/alma2004/repos", 
+            "received_events_url": "https://api.github.com/users/alma2004/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/alma2004/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "alma2004", 
+            "type": "User", 
+            "id": 1681969, 
+            "followers_url": "https://api.github.com/users/alma2004/followers"
+        }
+    }, 
+    {
+        "starred_at": "2016-04-02T14:45:48Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/elong0527/following{/other_user}", 
+            "events_url": "https://api.github.com/users/elong0527/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/elong0527/orgs", 
+            "url": "https://api.github.com/users/elong0527", 
+            "gists_url": "https://api.github.com/users/elong0527/gists{/gist_id}", 
+            "html_url": "https://github.com/elong0527", 
+            "subscriptions_url": "https://api.github.com/users/elong0527/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/465246?v=4", 
+            "repos_url": "https://api.github.com/users/elong0527/repos", 
+            "received_events_url": "https://api.github.com/users/elong0527/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/elong0527/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "elong0527", 
+            "type": "User", 
+            "id": 465246, 
+            "followers_url": "https://api.github.com/users/elong0527/followers"
+        }
+    }
+]

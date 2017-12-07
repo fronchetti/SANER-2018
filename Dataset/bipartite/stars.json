@@ -1,0 +1,46 @@
+[
+    {
+        "starred_at": "2017-03-20T21:16:24Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/pedroj/following{/other_user}", 
+            "events_url": "https://api.github.com/users/pedroj/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/pedroj/orgs", 
+            "url": "https://api.github.com/users/pedroj", 
+            "gists_url": "https://api.github.com/users/pedroj/gists{/gist_id}", 
+            "html_url": "https://github.com/pedroj", 
+            "subscriptions_url": "https://api.github.com/users/pedroj/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/1200554?v=4", 
+            "repos_url": "https://api.github.com/users/pedroj/repos", 
+            "received_events_url": "https://api.github.com/users/pedroj/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/pedroj/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "pedroj", 
+            "type": "User", 
+            "id": 1200554, 
+            "followers_url": "https://api.github.com/users/pedroj/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-03-24T17:33:04Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/sjbeckett/following{/other_user}", 
+            "events_url": "https://api.github.com/users/sjbeckett/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/sjbeckett/orgs", 
+            "url": "https://api.github.com/users/sjbeckett", 
+            "gists_url": "https://api.github.com/users/sjbeckett/gists{/gist_id}", 
+            "html_url": "https://github.com/sjbeckett", 
+            "subscriptions_url": "https://api.github.com/users/sjbeckett/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/4902758?v=4", 
+            "repos_url": "https://api.github.com/users/sjbeckett/repos", 
+            "received_events_url": "https://api.github.com/users/sjbeckett/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/sjbeckett/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "sjbeckett", 
+            "type": "User", 
+            "id": 4902758, 
+            "followers_url": "https://api.github.com/users/sjbeckett/followers"
+        }
+    }
+]

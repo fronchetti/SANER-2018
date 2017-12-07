@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2017-05-09T13:56:16Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/pekkakohonen/following{/other_user}", 
+            "events_url": "https://api.github.com/users/pekkakohonen/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/pekkakohonen/orgs", 
+            "url": "https://api.github.com/users/pekkakohonen", 
+            "gists_url": "https://api.github.com/users/pekkakohonen/gists{/gist_id}", 
+            "html_url": "https://github.com/pekkakohonen", 
+            "subscriptions_url": "https://api.github.com/users/pekkakohonen/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/3082295?v=4", 
+            "repos_url": "https://api.github.com/users/pekkakohonen/repos", 
+            "received_events_url": "https://api.github.com/users/pekkakohonen/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/pekkakohonen/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "pekkakohonen", 
+            "type": "User", 
+            "id": 3082295, 
+            "followers_url": "https://api.github.com/users/pekkakohonen/followers"
+        }
+    }
+]

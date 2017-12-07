@@ -1,0 +1,68 @@
+[
+    {
+        "starred_at": "2017-07-07T07:00:34Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/R-kicker/following{/other_user}", 
+            "events_url": "https://api.github.com/users/R-kicker/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/R-kicker/orgs", 
+            "url": "https://api.github.com/users/R-kicker", 
+            "gists_url": "https://api.github.com/users/R-kicker/gists{/gist_id}", 
+            "html_url": "https://github.com/R-kicker", 
+            "subscriptions_url": "https://api.github.com/users/R-kicker/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/7314264?v=4", 
+            "repos_url": "https://api.github.com/users/R-kicker/repos", 
+            "received_events_url": "https://api.github.com/users/R-kicker/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/R-kicker/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "R-kicker", 
+            "type": "User", 
+            "id": 7314264, 
+            "followers_url": "https://api.github.com/users/R-kicker/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-08-27T16:52:39Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/mkamyab/following{/other_user}", 
+            "events_url": "https://api.github.com/users/mkamyab/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/mkamyab/orgs", 
+            "url": "https://api.github.com/users/mkamyab", 
+            "gists_url": "https://api.github.com/users/mkamyab/gists{/gist_id}", 
+            "html_url": "https://github.com/mkamyab", 
+            "subscriptions_url": "https://api.github.com/users/mkamyab/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/9344928?v=4", 
+            "repos_url": "https://api.github.com/users/mkamyab/repos", 
+            "received_events_url": "https://api.github.com/users/mkamyab/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/mkamyab/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "mkamyab", 
+            "type": "User", 
+            "id": 9344928, 
+            "followers_url": "https://api.github.com/users/mkamyab/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-10-30T17:20:08Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/alexcfleming/following{/other_user}", 
+            "events_url": "https://api.github.com/users/alexcfleming/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/alexcfleming/orgs", 
+            "url": "https://api.github.com/users/alexcfleming", 
+            "gists_url": "https://api.github.com/users/alexcfleming/gists{/gist_id}", 
+            "html_url": "https://github.com/alexcfleming", 
+            "subscriptions_url": "https://api.github.com/users/alexcfleming/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/28660766?v=4", 
+            "repos_url": "https://api.github.com/users/alexcfleming/repos", 
+            "received_events_url": "https://api.github.com/users/alexcfleming/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/alexcfleming/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "alexcfleming", 
+            "type": "User", 
+            "id": 28660766, 
+            "followers_url": "https://api.github.com/users/alexcfleming/followers"
+        }
+    }
+]

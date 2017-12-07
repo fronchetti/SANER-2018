@@ -1,0 +1,46 @@
+[
+    {
+        "starred_at": "2016-09-13T15:07:43Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/Pakillo/following{/other_user}", 
+            "events_url": "https://api.github.com/users/Pakillo/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/Pakillo/orgs", 
+            "url": "https://api.github.com/users/Pakillo", 
+            "gists_url": "https://api.github.com/users/Pakillo/gists{/gist_id}", 
+            "html_url": "https://github.com/Pakillo", 
+            "subscriptions_url": "https://api.github.com/users/Pakillo/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/1597843?v=4", 
+            "repos_url": "https://api.github.com/users/Pakillo/repos", 
+            "received_events_url": "https://api.github.com/users/Pakillo/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/Pakillo/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "Pakillo", 
+            "type": "User", 
+            "id": 1597843, 
+            "followers_url": "https://api.github.com/users/Pakillo/followers"
+        }
+    }, 
+    {
+        "starred_at": "2016-12-02T00:44:51Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/vspinu/following{/other_user}", 
+            "events_url": "https://api.github.com/users/vspinu/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/vspinu/orgs", 
+            "url": "https://api.github.com/users/vspinu", 
+            "gists_url": "https://api.github.com/users/vspinu/gists{/gist_id}", 
+            "html_url": "https://github.com/vspinu", 
+            "subscriptions_url": "https://api.github.com/users/vspinu/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/1363467?v=4", 
+            "repos_url": "https://api.github.com/users/vspinu/repos", 
+            "received_events_url": "https://api.github.com/users/vspinu/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/vspinu/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "vspinu", 
+            "type": "User", 
+            "id": 1363467, 
+            "followers_url": "https://api.github.com/users/vspinu/followers"
+        }
+    }
+]

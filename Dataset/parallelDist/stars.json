@@ -1,0 +1,112 @@
+[
+    {
+        "starred_at": "2017-08-30T11:12:51Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/BruceZhaoR/following{/other_user}", 
+            "events_url": "https://api.github.com/users/BruceZhaoR/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/BruceZhaoR/orgs", 
+            "url": "https://api.github.com/users/BruceZhaoR", 
+            "gists_url": "https://api.github.com/users/BruceZhaoR/gists{/gist_id}", 
+            "html_url": "https://github.com/BruceZhaoR", 
+            "subscriptions_url": "https://api.github.com/users/BruceZhaoR/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/8092534?v=4", 
+            "repos_url": "https://api.github.com/users/BruceZhaoR/repos", 
+            "received_events_url": "https://api.github.com/users/BruceZhaoR/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/BruceZhaoR/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "BruceZhaoR", 
+            "type": "User", 
+            "id": 8092534, 
+            "followers_url": "https://api.github.com/users/BruceZhaoR/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-09-20T10:16:16Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/talegari/following{/other_user}", 
+            "events_url": "https://api.github.com/users/talegari/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/talegari/orgs", 
+            "url": "https://api.github.com/users/talegari", 
+            "gists_url": "https://api.github.com/users/talegari/gists{/gist_id}", 
+            "html_url": "https://github.com/talegari", 
+            "subscriptions_url": "https://api.github.com/users/talegari/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/10041819?v=4", 
+            "repos_url": "https://api.github.com/users/talegari/repos", 
+            "received_events_url": "https://api.github.com/users/talegari/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/talegari/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "talegari", 
+            "type": "User", 
+            "id": 10041819, 
+            "followers_url": "https://api.github.com/users/talegari/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-09-20T13:12:20Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/dselivanov/following{/other_user}", 
+            "events_url": "https://api.github.com/users/dselivanov/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/dselivanov/orgs", 
+            "url": "https://api.github.com/users/dselivanov", 
+            "gists_url": "https://api.github.com/users/dselivanov/gists{/gist_id}", 
+            "html_url": "https://github.com/dselivanov", 
+            "subscriptions_url": "https://api.github.com/users/dselivanov/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/5123805?v=4", 
+            "repos_url": "https://api.github.com/users/dselivanov/repos", 
+            "received_events_url": "https://api.github.com/users/dselivanov/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/dselivanov/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "dselivanov", 
+            "type": "User", 
+            "id": 5123805, 
+            "followers_url": "https://api.github.com/users/dselivanov/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-09-20T15:43:08Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/silverstone1903/following{/other_user}", 
+            "events_url": "https://api.github.com/users/silverstone1903/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/silverstone1903/orgs", 
+            "url": "https://api.github.com/users/silverstone1903", 
+            "gists_url": "https://api.github.com/users/silverstone1903/gists{/gist_id}", 
+            "html_url": "https://github.com/silverstone1903", 
+            "subscriptions_url": "https://api.github.com/users/silverstone1903/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/9806827?v=4", 
+            "repos_url": "https://api.github.com/users/silverstone1903/repos", 
+            "received_events_url": "https://api.github.com/users/silverstone1903/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/silverstone1903/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "silverstone1903", 
+            "type": "User", 
+            "id": 9806827, 
+            "followers_url": "https://api.github.com/users/silverstone1903/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-11-13T08:32:13Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/helske/following{/other_user}", 
+            "events_url": "https://api.github.com/users/helske/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/helske/orgs", 
+            "url": "https://api.github.com/users/helske", 
+            "gists_url": "https://api.github.com/users/helske/gists{/gist_id}", 
+            "html_url": "https://github.com/helske", 
+            "subscriptions_url": "https://api.github.com/users/helske/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/1560448?v=4", 
+            "repos_url": "https://api.github.com/users/helske/repos", 
+            "received_events_url": "https://api.github.com/users/helske/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/helske/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "helske", 
+            "type": "User", 
+            "id": 1560448, 
+            "followers_url": "https://api.github.com/users/helske/followers"
+        }
+    }
+]

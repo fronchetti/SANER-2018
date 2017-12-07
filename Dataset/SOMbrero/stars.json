@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2017-11-17T12:19:31Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/yoch/following{/other_user}", 
+            "events_url": "https://api.github.com/users/yoch/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/yoch/orgs", 
+            "url": "https://api.github.com/users/yoch", 
+            "gists_url": "https://api.github.com/users/yoch/gists{/gist_id}", 
+            "html_url": "https://github.com/yoch", 
+            "subscriptions_url": "https://api.github.com/users/yoch/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/795960?v=4", 
+            "repos_url": "https://api.github.com/users/yoch/repos", 
+            "received_events_url": "https://api.github.com/users/yoch/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/yoch/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "yoch", 
+            "type": "User", 
+            "id": 795960, 
+            "followers_url": "https://api.github.com/users/yoch/followers"
+        }
+    }
+]

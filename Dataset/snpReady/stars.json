@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2016-08-09T20:04:49Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/giovannigalli/following{/other_user}", 
+            "events_url": "https://api.github.com/users/giovannigalli/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/giovannigalli/orgs", 
+            "url": "https://api.github.com/users/giovannigalli", 
+            "gists_url": "https://api.github.com/users/giovannigalli/gists{/gist_id}", 
+            "html_url": "https://github.com/giovannigalli", 
+            "subscriptions_url": "https://api.github.com/users/giovannigalli/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/20892880?v=4", 
+            "repos_url": "https://api.github.com/users/giovannigalli/repos", 
+            "received_events_url": "https://api.github.com/users/giovannigalli/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/giovannigalli/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "giovannigalli", 
+            "type": "User", 
+            "id": 20892880, 
+            "followers_url": "https://api.github.com/users/giovannigalli/followers"
+        }
+    }
+]

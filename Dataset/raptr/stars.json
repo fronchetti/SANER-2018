@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2015-11-06T05:57:03Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/JaszzyJas/following{/other_user}", 
+            "events_url": "https://api.github.com/users/JaszzyJas/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/JaszzyJas/orgs", 
+            "url": "https://api.github.com/users/JaszzyJas", 
+            "gists_url": "https://api.github.com/users/JaszzyJas/gists{/gist_id}", 
+            "html_url": "https://github.com/JaszzyJas", 
+            "subscriptions_url": "https://api.github.com/users/JaszzyJas/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/14189933?v=4", 
+            "repos_url": "https://api.github.com/users/JaszzyJas/repos", 
+            "received_events_url": "https://api.github.com/users/JaszzyJas/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/JaszzyJas/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "JaszzyJas", 
+            "type": "User", 
+            "id": 14189933, 
+            "followers_url": "https://api.github.com/users/JaszzyJas/followers"
+        }
+    }
+]

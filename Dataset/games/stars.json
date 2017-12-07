@@ -1,0 +1,46 @@
+[
+    {
+        "starred_at": "2015-02-23T09:21:14Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/mbojan/following{/other_user}", 
+            "events_url": "https://api.github.com/users/mbojan/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/mbojan/orgs", 
+            "url": "https://api.github.com/users/mbojan", 
+            "gists_url": "https://api.github.com/users/mbojan/gists{/gist_id}", 
+            "html_url": "https://github.com/mbojan", 
+            "subscriptions_url": "https://api.github.com/users/mbojan/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/636574?v=4", 
+            "repos_url": "https://api.github.com/users/mbojan/repos", 
+            "received_events_url": "https://api.github.com/users/mbojan/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/mbojan/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "mbojan", 
+            "type": "User", 
+            "id": 636574, 
+            "followers_url": "https://api.github.com/users/mbojan/followers"
+        }
+    }, 
+    {
+        "starred_at": "2016-12-07T11:19:31Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/bradduthie/following{/other_user}", 
+            "events_url": "https://api.github.com/users/bradduthie/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/bradduthie/orgs", 
+            "url": "https://api.github.com/users/bradduthie", 
+            "gists_url": "https://api.github.com/users/bradduthie/gists{/gist_id}", 
+            "html_url": "https://github.com/bradduthie", 
+            "subscriptions_url": "https://api.github.com/users/bradduthie/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/5550985?v=4", 
+            "repos_url": "https://api.github.com/users/bradduthie/repos", 
+            "received_events_url": "https://api.github.com/users/bradduthie/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/bradduthie/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "bradduthie", 
+            "type": "User", 
+            "id": 5550985, 
+            "followers_url": "https://api.github.com/users/bradduthie/followers"
+        }
+    }
+]

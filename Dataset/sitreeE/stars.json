@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2017-09-14T07:57:06Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/chrik5/following{/other_user}", 
+            "events_url": "https://api.github.com/users/chrik5/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/chrik5/orgs", 
+            "url": "https://api.github.com/users/chrik5", 
+            "gists_url": "https://api.github.com/users/chrik5/gists{/gist_id}", 
+            "html_url": "https://github.com/chrik5", 
+            "subscriptions_url": "https://api.github.com/users/chrik5/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/10208279?v=4", 
+            "repos_url": "https://api.github.com/users/chrik5/repos", 
+            "received_events_url": "https://api.github.com/users/chrik5/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/chrik5/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "chrik5", 
+            "type": "User", 
+            "id": 10208279, 
+            "followers_url": "https://api.github.com/users/chrik5/followers"
+        }
+    }
+]

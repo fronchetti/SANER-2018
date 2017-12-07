@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2015-10-02T03:03:13Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/florianm/following{/other_user}", 
+            "events_url": "https://api.github.com/users/florianm/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/florianm/orgs", 
+            "url": "https://api.github.com/users/florianm", 
+            "gists_url": "https://api.github.com/users/florianm/gists{/gist_id}", 
+            "html_url": "https://github.com/florianm", 
+            "subscriptions_url": "https://api.github.com/users/florianm/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/762815?v=4", 
+            "repos_url": "https://api.github.com/users/florianm/repos", 
+            "received_events_url": "https://api.github.com/users/florianm/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/florianm/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "florianm", 
+            "type": "User", 
+            "id": 762815, 
+            "followers_url": "https://api.github.com/users/florianm/followers"
+        }
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "starred_at": "2016-04-08T16:37:07Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/jsta/following{/other_user}", 
+            "events_url": "https://api.github.com/users/jsta/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/jsta/orgs", 
+            "url": "https://api.github.com/users/jsta", 
+            "gists_url": "https://api.github.com/users/jsta/gists{/gist_id}", 
+            "html_url": "https://github.com/jsta", 
+            "subscriptions_url": "https://api.github.com/users/jsta/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/7844578?v=4", 
+            "repos_url": "https://api.github.com/users/jsta/repos", 
+            "received_events_url": "https://api.github.com/users/jsta/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/jsta/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "jsta", 
+            "type": "User", 
+            "id": 7844578, 
+            "followers_url": "https://api.github.com/users/jsta/followers"
+        }
+    }, 
+    {
+        "starred_at": "2016-04-22T14:06:12Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/nehemie/following{/other_user}", 
+            "events_url": "https://api.github.com/users/nehemie/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/nehemie/orgs", 
+            "url": "https://api.github.com/users/nehemie", 
+            "gists_url": "https://api.github.com/users/nehemie/gists{/gist_id}", 
+            "html_url": "https://github.com/nehemie", 
+            "subscriptions_url": "https://api.github.com/users/nehemie/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/8851345?v=4", 
+            "repos_url": "https://api.github.com/users/nehemie/repos", 
+            "received_events_url": "https://api.github.com/users/nehemie/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/nehemie/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "nehemie", 
+            "type": "User", 
+            "id": 8851345, 
+            "followers_url": "https://api.github.com/users/nehemie/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-01-12T12:06:14Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/d-lorenz/following{/other_user}", 
+            "events_url": "https://api.github.com/users/d-lorenz/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/d-lorenz/orgs", 
+            "url": "https://api.github.com/users/d-lorenz", 
+            "gists_url": "https://api.github.com/users/d-lorenz/gists{/gist_id}", 
+            "html_url": "https://github.com/d-lorenz", 
+            "subscriptions_url": "https://api.github.com/users/d-lorenz/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/6351265?v=4", 
+            "repos_url": "https://api.github.com/users/d-lorenz/repos", 
+            "received_events_url": "https://api.github.com/users/d-lorenz/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/d-lorenz/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "d-lorenz", 
+            "type": "User", 
+            "id": 6351265, 
+            "followers_url": "https://api.github.com/users/d-lorenz/followers"
+        }
+    }
+]

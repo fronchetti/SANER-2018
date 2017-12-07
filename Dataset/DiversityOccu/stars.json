@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2016-06-04T18:04:42Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/dlizcano/following{/other_user}", 
+            "events_url": "https://api.github.com/users/dlizcano/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/dlizcano/orgs", 
+            "url": "https://api.github.com/users/dlizcano", 
+            "gists_url": "https://api.github.com/users/dlizcano/gists{/gist_id}", 
+            "html_url": "https://github.com/dlizcano", 
+            "subscriptions_url": "https://api.github.com/users/dlizcano/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/3753046?v=4", 
+            "repos_url": "https://api.github.com/users/dlizcano/repos", 
+            "received_events_url": "https://api.github.com/users/dlizcano/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/dlizcano/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "dlizcano", 
+            "type": "User", 
+            "id": 3753046, 
+            "followers_url": "https://api.github.com/users/dlizcano/followers"
+        }
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "starred_at": "2016-08-04T14:27:27Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/HaugmardMeric/following{/other_user}", 
+            "events_url": "https://api.github.com/users/HaugmardMeric/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/HaugmardMeric/orgs", 
+            "url": "https://api.github.com/users/HaugmardMeric", 
+            "gists_url": "https://api.github.com/users/HaugmardMeric/gists{/gist_id}", 
+            "html_url": "https://github.com/HaugmardMeric", 
+            "subscriptions_url": "https://api.github.com/users/HaugmardMeric/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/16300043?v=4", 
+            "repos_url": "https://api.github.com/users/HaugmardMeric/repos", 
+            "received_events_url": "https://api.github.com/users/HaugmardMeric/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/HaugmardMeric/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "HaugmardMeric", 
+            "type": "User", 
+            "id": 16300043, 
+            "followers_url": "https://api.github.com/users/HaugmardMeric/followers"
+        }
+    }, 
+    {
+        "starred_at": "2016-11-14T20:06:18Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/EDiLD/following{/other_user}", 
+            "events_url": "https://api.github.com/users/EDiLD/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/EDiLD/orgs", 
+            "url": "https://api.github.com/users/EDiLD", 
+            "gists_url": "https://api.github.com/users/EDiLD/gists{/gist_id}", 
+            "html_url": "https://github.com/EDiLD", 
+            "subscriptions_url": "https://api.github.com/users/EDiLD/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/849616?v=4", 
+            "repos_url": "https://api.github.com/users/EDiLD/repos", 
+            "received_events_url": "https://api.github.com/users/EDiLD/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/EDiLD/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "EDiLD", 
+            "type": "User", 
+            "id": 849616, 
+            "followers_url": "https://api.github.com/users/EDiLD/followers"
+        }
+    }
+]

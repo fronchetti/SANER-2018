@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2015-02-27T12:25:20Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/ktaranov/following{/other_user}", 
+            "events_url": "https://api.github.com/users/ktaranov/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/ktaranov/orgs", 
+            "url": "https://api.github.com/users/ktaranov", 
+            "gists_url": "https://api.github.com/users/ktaranov/gists{/gist_id}", 
+            "html_url": "https://github.com/ktaranov", 
+            "subscriptions_url": "https://api.github.com/users/ktaranov/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/6460726?v=4", 
+            "repos_url": "https://api.github.com/users/ktaranov/repos", 
+            "received_events_url": "https://api.github.com/users/ktaranov/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/ktaranov/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "ktaranov", 
+            "type": "User", 
+            "id": 6460726, 
+            "followers_url": "https://api.github.com/users/ktaranov/followers"
+        }
+    }
+]

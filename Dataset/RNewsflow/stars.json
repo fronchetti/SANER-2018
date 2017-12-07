@@ -1,0 +1,90 @@
+[
+    {
+        "starred_at": "2016-02-28T00:41:09Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/igorbrigadir/following{/other_user}", 
+            "events_url": "https://api.github.com/users/igorbrigadir/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/igorbrigadir/orgs", 
+            "url": "https://api.github.com/users/igorbrigadir", 
+            "gists_url": "https://api.github.com/users/igorbrigadir/gists{/gist_id}", 
+            "html_url": "https://github.com/igorbrigadir", 
+            "subscriptions_url": "https://api.github.com/users/igorbrigadir/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/1164962?v=4", 
+            "repos_url": "https://api.github.com/users/igorbrigadir/repos", 
+            "received_events_url": "https://api.github.com/users/igorbrigadir/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/igorbrigadir/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "igorbrigadir", 
+            "type": "User", 
+            "id": 1164962, 
+            "followers_url": "https://api.github.com/users/igorbrigadir/followers"
+        }
+    }, 
+    {
+        "starred_at": "2016-02-28T05:00:03Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/nimblemachine/following{/other_user}", 
+            "events_url": "https://api.github.com/users/nimblemachine/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/nimblemachine/orgs", 
+            "url": "https://api.github.com/users/nimblemachine", 
+            "gists_url": "https://api.github.com/users/nimblemachine/gists{/gist_id}", 
+            "html_url": "https://github.com/nimblemachine", 
+            "subscriptions_url": "https://api.github.com/users/nimblemachine/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/4275179?v=4", 
+            "repos_url": "https://api.github.com/users/nimblemachine/repos", 
+            "received_events_url": "https://api.github.com/users/nimblemachine/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/nimblemachine/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "nimblemachine", 
+            "type": "User", 
+            "id": 4275179, 
+            "followers_url": "https://api.github.com/users/nimblemachine/followers"
+        }
+    }, 
+    {
+        "starred_at": "2016-08-27T03:14:21Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/cmldyu/following{/other_user}", 
+            "events_url": "https://api.github.com/users/cmldyu/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/cmldyu/orgs", 
+            "url": "https://api.github.com/users/cmldyu", 
+            "gists_url": "https://api.github.com/users/cmldyu/gists{/gist_id}", 
+            "html_url": "https://github.com/cmldyu", 
+            "subscriptions_url": "https://api.github.com/users/cmldyu/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/16018356?v=4", 
+            "repos_url": "https://api.github.com/users/cmldyu/repos", 
+            "received_events_url": "https://api.github.com/users/cmldyu/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/cmldyu/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "cmldyu", 
+            "type": "User", 
+            "id": 16018356, 
+            "followers_url": "https://api.github.com/users/cmldyu/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-05-13T17:27:01Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/smrjan/following{/other_user}", 
+            "events_url": "https://api.github.com/users/smrjan/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/smrjan/orgs", 
+            "url": "https://api.github.com/users/smrjan", 
+            "gists_url": "https://api.github.com/users/smrjan/gists{/gist_id}", 
+            "html_url": "https://github.com/smrjan", 
+            "subscriptions_url": "https://api.github.com/users/smrjan/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/2386239?v=4", 
+            "repos_url": "https://api.github.com/users/smrjan/repos", 
+            "received_events_url": "https://api.github.com/users/smrjan/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/smrjan/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "smrjan", 
+            "type": "User", 
+            "id": 2386239, 
+            "followers_url": "https://api.github.com/users/smrjan/followers"
+        }
+    }
+]

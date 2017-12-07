@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2017-10-31T01:11:07Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/xiaoguozhi/following{/other_user}", 
+            "events_url": "https://api.github.com/users/xiaoguozhi/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/xiaoguozhi/orgs", 
+            "url": "https://api.github.com/users/xiaoguozhi", 
+            "gists_url": "https://api.github.com/users/xiaoguozhi/gists{/gist_id}", 
+            "html_url": "https://github.com/xiaoguozhi", 
+            "subscriptions_url": "https://api.github.com/users/xiaoguozhi/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/8599841?v=4", 
+            "repos_url": "https://api.github.com/users/xiaoguozhi/repos", 
+            "received_events_url": "https://api.github.com/users/xiaoguozhi/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/xiaoguozhi/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "xiaoguozhi", 
+            "type": "User", 
+            "id": 8599841, 
+            "followers_url": "https://api.github.com/users/xiaoguozhi/followers"
+        }
+    }
+]

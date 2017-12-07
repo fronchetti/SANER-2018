@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2017-08-22T07:59:52Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/modricl/following{/other_user}", 
+            "events_url": "https://api.github.com/users/modricl/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/modricl/orgs", 
+            "url": "https://api.github.com/users/modricl", 
+            "gists_url": "https://api.github.com/users/modricl/gists{/gist_id}", 
+            "html_url": "https://github.com/modricl", 
+            "subscriptions_url": "https://api.github.com/users/modricl/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/17903025?v=4", 
+            "repos_url": "https://api.github.com/users/modricl/repos", 
+            "received_events_url": "https://api.github.com/users/modricl/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/modricl/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "modricl", 
+            "type": "User", 
+            "id": 17903025, 
+            "followers_url": "https://api.github.com/users/modricl/followers"
+        }
+    }
+]

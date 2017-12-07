@@ -1,0 +1,46 @@
+[
+    {
+        "starred_at": "2017-06-15T12:08:58Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/patriciamar/following{/other_user}", 
+            "events_url": "https://api.github.com/users/patriciamar/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/patriciamar/orgs", 
+            "url": "https://api.github.com/users/patriciamar", 
+            "gists_url": "https://api.github.com/users/patriciamar/gists{/gist_id}", 
+            "html_url": "https://github.com/patriciamar", 
+            "subscriptions_url": "https://api.github.com/users/patriciamar/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/11688281?v=4", 
+            "repos_url": "https://api.github.com/users/patriciamar/repos", 
+            "received_events_url": "https://api.github.com/users/patriciamar/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/patriciamar/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "patriciamar", 
+            "type": "User", 
+            "id": 11688281, 
+            "followers_url": "https://api.github.com/users/patriciamar/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-07-09T11:58:32Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/dmpe/following{/other_user}", 
+            "events_url": "https://api.github.com/users/dmpe/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/dmpe/orgs", 
+            "url": "https://api.github.com/users/dmpe", 
+            "gists_url": "https://api.github.com/users/dmpe/gists{/gist_id}", 
+            "html_url": "https://github.com/dmpe", 
+            "subscriptions_url": "https://api.github.com/users/dmpe/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/1799661?v=4", 
+            "repos_url": "https://api.github.com/users/dmpe/repos", 
+            "received_events_url": "https://api.github.com/users/dmpe/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/dmpe/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "dmpe", 
+            "type": "User", 
+            "id": 1799661, 
+            "followers_url": "https://api.github.com/users/dmpe/followers"
+        }
+    }
+]

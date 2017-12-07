@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2017-10-11T04:04:48Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/conjugateprior/following{/other_user}", 
+            "events_url": "https://api.github.com/users/conjugateprior/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/conjugateprior/orgs", 
+            "url": "https://api.github.com/users/conjugateprior", 
+            "gists_url": "https://api.github.com/users/conjugateprior/gists{/gist_id}", 
+            "html_url": "https://github.com/conjugateprior", 
+            "subscriptions_url": "https://api.github.com/users/conjugateprior/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/509288?v=4", 
+            "repos_url": "https://api.github.com/users/conjugateprior/repos", 
+            "received_events_url": "https://api.github.com/users/conjugateprior/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/conjugateprior/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "conjugateprior", 
+            "type": "User", 
+            "id": 509288, 
+            "followers_url": "https://api.github.com/users/conjugateprior/followers"
+        }
+    }
+]

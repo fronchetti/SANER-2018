@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2017-06-17T03:34:34Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/njtierney/following{/other_user}", 
+            "events_url": "https://api.github.com/users/njtierney/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/njtierney/orgs", 
+            "url": "https://api.github.com/users/njtierney", 
+            "gists_url": "https://api.github.com/users/njtierney/gists{/gist_id}", 
+            "html_url": "https://github.com/njtierney", 
+            "subscriptions_url": "https://api.github.com/users/njtierney/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/6488485?v=4", 
+            "repos_url": "https://api.github.com/users/njtierney/repos", 
+            "received_events_url": "https://api.github.com/users/njtierney/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/njtierney/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "njtierney", 
+            "type": "User", 
+            "id": 6488485, 
+            "followers_url": "https://api.github.com/users/njtierney/followers"
+        }
+    }
+]

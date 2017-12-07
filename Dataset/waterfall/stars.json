@@ -1,0 +1,46 @@
+[
+    {
+        "starred_at": "2016-06-06T16:26:56Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/nfultz/following{/other_user}", 
+            "events_url": "https://api.github.com/users/nfultz/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/nfultz/orgs", 
+            "url": "https://api.github.com/users/nfultz", 
+            "gists_url": "https://api.github.com/users/nfultz/gists{/gist_id}", 
+            "html_url": "https://github.com/nfultz", 
+            "subscriptions_url": "https://api.github.com/users/nfultz/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/418638?v=4", 
+            "repos_url": "https://api.github.com/users/nfultz/repos", 
+            "received_events_url": "https://api.github.com/users/nfultz/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/nfultz/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "nfultz", 
+            "type": "User", 
+            "id": 418638, 
+            "followers_url": "https://api.github.com/users/nfultz/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-01-29T20:48:17Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/paulponcet/following{/other_user}", 
+            "events_url": "https://api.github.com/users/paulponcet/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/paulponcet/orgs", 
+            "url": "https://api.github.com/users/paulponcet", 
+            "gists_url": "https://api.github.com/users/paulponcet/gists{/gist_id}", 
+            "html_url": "https://github.com/paulponcet", 
+            "subscriptions_url": "https://api.github.com/users/paulponcet/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/7842619?v=4", 
+            "repos_url": "https://api.github.com/users/paulponcet/repos", 
+            "received_events_url": "https://api.github.com/users/paulponcet/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/paulponcet/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "paulponcet", 
+            "type": "User", 
+            "id": 7842619, 
+            "followers_url": "https://api.github.com/users/paulponcet/followers"
+        }
+    }
+]

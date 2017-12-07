@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2016-05-02T12:35:13Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/ldeassis/following{/other_user}", 
+            "events_url": "https://api.github.com/users/ldeassis/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/ldeassis/orgs", 
+            "url": "https://api.github.com/users/ldeassis", 
+            "gists_url": "https://api.github.com/users/ldeassis/gists{/gist_id}", 
+            "html_url": "https://github.com/ldeassis", 
+            "subscriptions_url": "https://api.github.com/users/ldeassis/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/498061?v=4", 
+            "repos_url": "https://api.github.com/users/ldeassis/repos", 
+            "received_events_url": "https://api.github.com/users/ldeassis/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/ldeassis/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "ldeassis", 
+            "type": "User", 
+            "id": 498061, 
+            "followers_url": "https://api.github.com/users/ldeassis/followers"
+        }
+    }
+]

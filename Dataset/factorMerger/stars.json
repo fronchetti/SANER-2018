@@ -1,0 +1,46 @@
+[
+    {
+        "starred_at": "2017-06-01T08:50:55Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/michbur/following{/other_user}", 
+            "events_url": "https://api.github.com/users/michbur/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/michbur/orgs", 
+            "url": "https://api.github.com/users/michbur", 
+            "gists_url": "https://api.github.com/users/michbur/gists{/gist_id}", 
+            "html_url": "https://github.com/michbur", 
+            "subscriptions_url": "https://api.github.com/users/michbur/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/5267317?v=4", 
+            "repos_url": "https://api.github.com/users/michbur/repos", 
+            "received_events_url": "https://api.github.com/users/michbur/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/michbur/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "michbur", 
+            "type": "User", 
+            "id": 5267317, 
+            "followers_url": "https://api.github.com/users/michbur/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-07-27T02:33:03Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/timelyportfolio/following{/other_user}", 
+            "events_url": "https://api.github.com/users/timelyportfolio/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/timelyportfolio/orgs", 
+            "url": "https://api.github.com/users/timelyportfolio", 
+            "gists_url": "https://api.github.com/users/timelyportfolio/gists{/gist_id}", 
+            "html_url": "https://github.com/timelyportfolio", 
+            "subscriptions_url": "https://api.github.com/users/timelyportfolio/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/837910?v=4", 
+            "repos_url": "https://api.github.com/users/timelyportfolio/repos", 
+            "received_events_url": "https://api.github.com/users/timelyportfolio/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/timelyportfolio/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "timelyportfolio", 
+            "type": "User", 
+            "id": 837910, 
+            "followers_url": "https://api.github.com/users/timelyportfolio/followers"
+        }
+    }
+]

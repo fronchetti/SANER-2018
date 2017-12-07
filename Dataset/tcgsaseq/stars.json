@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2016-06-14T19:09:27Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/slowkow/following{/other_user}", 
+            "events_url": "https://api.github.com/users/slowkow/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/slowkow/orgs", 
+            "url": "https://api.github.com/users/slowkow", 
+            "gists_url": "https://api.github.com/users/slowkow/gists{/gist_id}", 
+            "html_url": "https://github.com/slowkow", 
+            "subscriptions_url": "https://api.github.com/users/slowkow/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/209714?v=4", 
+            "repos_url": "https://api.github.com/users/slowkow/repos", 
+            "received_events_url": "https://api.github.com/users/slowkow/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/slowkow/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "slowkow", 
+            "type": "User", 
+            "id": 209714, 
+            "followers_url": "https://api.github.com/users/slowkow/followers"
+        }
+    }
+]

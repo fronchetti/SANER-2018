@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2017-11-13T21:10:06Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/jwbowers/following{/other_user}", 
+            "events_url": "https://api.github.com/users/jwbowers/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/jwbowers/orgs", 
+            "url": "https://api.github.com/users/jwbowers", 
+            "gists_url": "https://api.github.com/users/jwbowers/gists{/gist_id}", 
+            "html_url": "https://github.com/jwbowers", 
+            "subscriptions_url": "https://api.github.com/users/jwbowers/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/569932?v=4", 
+            "repos_url": "https://api.github.com/users/jwbowers/repos", 
+            "received_events_url": "https://api.github.com/users/jwbowers/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/jwbowers/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "jwbowers", 
+            "type": "User", 
+            "id": 569932, 
+            "followers_url": "https://api.github.com/users/jwbowers/followers"
+        }
+    }
+]

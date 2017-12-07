@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2015-04-03T21:54:59Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/dalewsteele/following{/other_user}", 
+            "events_url": "https://api.github.com/users/dalewsteele/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/dalewsteele/orgs", 
+            "url": "https://api.github.com/users/dalewsteele", 
+            "gists_url": "https://api.github.com/users/dalewsteele/gists{/gist_id}", 
+            "html_url": "https://github.com/dalewsteele", 
+            "subscriptions_url": "https://api.github.com/users/dalewsteele/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/281809?v=4", 
+            "repos_url": "https://api.github.com/users/dalewsteele/repos", 
+            "received_events_url": "https://api.github.com/users/dalewsteele/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/dalewsteele/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "dalewsteele", 
+            "type": "User", 
+            "id": 281809, 
+            "followers_url": "https://api.github.com/users/dalewsteele/followers"
+        }
+    }
+]
