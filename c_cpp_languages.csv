@@ -1,5 +1,5 @@
 "","project","url","main_language","languages","age","stars","forks","commits","newcomers","pulls_opened","pulls_closed","pulls_merged"
-"35","somoclu","https://github.com/peterwittek/somoclu","C","['C', 'Shell', 'Python', 'Makefile', 'C++', 'M4', 'Batchfile', 'Cuda', 'R', 'Matlab']",4,123,34,0,0,0,0,16
+"35","somoclu","https://github.com/peterwittek/somoclu","C","['C', 'Shell', 'Python', 'Makefile', 'C++', 'M4', 'Batchfile', 'Cuda', 'R', 'Matlab']",4,123,34,514,13,0,0,16
 "49","libstableR","https://github.com/swihart/libstableR","C","['C', 'R', 'C++']",0,0,1,8,3,0,0,1
 "61","parallelDist","https://github.com/alexeckert/parallelDist","C++","['R', 'C++']",0,5,0,13,1,0,0,0
 "65","fastcluster","https://github.com/dmuellner/fastcluster","C++","['Python', 'Batchfile', 'Shell', 'PowerShell', 'C++']",2,7,5,40,3,1,1,2

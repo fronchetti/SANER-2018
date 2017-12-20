@@ -30,10 +30,19 @@ class Repository():
         repository_folder = self.folder + '/repository'
 
         if not os.path.exists(repository_folder):
-            os.makedirs(repository_folder)
-            print self.url
-            subprocess.call(['git', 'clone', self.url, repository_folder])
 
+	    about_file = self.folder + '/about.json'
+	    if os.path.isfile(about_file):
+		about = json.load(open(self.folder + '/about.json', 'r'))
+		if about:
+			self.url = about['clone_url'] 		
+
+	    try:
+                os.makedirs(repository_folder)
+		subprocess.call(['git', 'clone', self.url, repository_folder])
+	    except:
+		print("Erro ao clonar:" + str(self.url))
+				
     def about(self):
         about_file = self.folder + '/about.json'
 
@@ -42,7 +51,7 @@ class Repository():
 
             with open(about_file, 'w') as file:
                 json.dump(about, file, indent = 4)
-
+	
     def stars(self):
         stars_file = self.folder + '/stars.json'
 
@@ -66,9 +75,18 @@ class Repository():
 
         if not os.path.isfile(pulls_file):
             pull_requests = self.collector.pull_requests(state='all')
-
+	
             with open(pulls_file, 'w') as file:
                 json.dump(pull_requests, file, indent = 4)
+
+    def languages(self):
+	languages_file = self.folder + '/languages.json'
+
+	if not os.path.isfile(languages_file):
+	    languages = self.collector.languages()
+			
+	    with open(languages_file, 'w') as file:
+		json.dump(languages, file, indent = 4)
 
     def commits(self):
         commits_file = self.folder + '/commits.csv'
@@ -95,13 +113,14 @@ def repositories_in_parallel(project):
 
     collector = GitRepository.Repository(organization, name, crawler)
     R = Repository(url, folder, collector)
-    R.clone()  # Clone the repository
     R.about()  # Creates a file with general data about the project
+    R.clone()  # Clone the repository
     R.newcomers()  # Creates a file with all newcomers in the project
     R.pull_requests()  # Creates a file with all the pull requests submmited to the repository
     R.commits()  # Creates a file with all the contributions submmited to the repository
     R.stars()  # Creates a file with all stars evaluated in the repository (Include evaluation date)
     R.forks()  # Creates a file with all the copies created from the repository
+    R.languages() # Creates a file with all languages used in the repository
 
 if __name__ == "__main__":
     dataset_folder = 'Dataset/'
@@ -131,5 +150,7 @@ if __name__ == "__main__":
                     project = {'name': info[1], 'organization': info[0], 'url': line, 'folder': dataset_folder + info[1]}
                     repositories.append(project)
 
-    parallel = multiprocessing.Pool(processes=4)
-    parallel.map(partial(repositories_in_parallel), repositories)
+    for project in repositories:
+	repositories_in_parallel(project)
+    ## parallel = multiprocessing.Pool(processes=1)
+    ## parallel.map(partial(repositories_in_parallel), repositories)

@@ -1,5 +1,26 @@
+
+Found a error in request: 
+https://api.github.com/repos/wencke/wenckehub.ioclient_id=4161a8257efaea420c94&client_secret=d814ec48927a6bd62c55c058cd028a949e5362d4
+Error type: HTTP Error 404: Not Found
+
+Found a error in request: 
+https://api.github.com/repos/wencke/wenckehub.io/pulls?client_id=4161a8257efaea420c94&client_secret=d814ec48927a6bd62c55c058cd028a949e5362d4&state=all&page=1
+Error type: HTTP Error 404: Not Found
+
+Found a error in request: 
+https://api.github.com/repos/wencke/wenckehub.io/stargazers?client_id=4161a8257efaea420c94&client_secret=d814ec48927a6bd62c55c058cd028a949e5362d4&page=1
+Error type: HTTP Error 404: Not Found
+
+Found a error in request: 
+https://api.github.com/repos/wencke/wenckehub.io/forks?client_id=4161a8257efaea420c94&client_secret=d814ec48927a6bd62c55c058cd028a949e5362d4&page=1
+Error type: HTTP Error 404: Not Found
+
 Found a error in request: 
 https://api.github.com/repos/giguerch/client_id=4161a8257efaea420c94&client_secret=d814ec48927a6bd62c55c058cd028a949e5362d4
+Error type: HTTP Error 404: Not Found
+
+Found a error in request: 
+https://api.github.com/repos/dami82/client_id=4161a8257efaea420c94&client_secret=d814ec48927a6bd62c55c058cd028a949e5362d4
 Error type: HTTP Error 404: Not Found
 
 Found a error in request: 
@@ -7,11 +28,19 @@ https://api.github.com/repos/giguerch//pulls?client_id=4161a8257efaea420c94&clie
 Error type: HTTP Error 404: Not Found
 
 Found a error in request: 
+https://api.github.com/repos/jeremyrcoyle//pulls?client_id=4161a8257efaea420c94&client_secret=d814ec48927a6bd62c55c058cd028a949e5362d4&state=all&page=1
+Error type: HTTP Error 404: Not Found
+
+Found a error in request: 
+https://api.github.com/repos/jeremyrcoyle//stargazers?client_id=4161a8257efaea420c94&client_secret=d814ec48927a6bd62c55c058cd028a949e5362d4&page=1
+Error type: HTTP Error 404: Not Found
+
+Found a error in request: 
 https://api.github.com/repos/giguerch//stargazers?client_id=4161a8257efaea420c94&client_secret=d814ec48927a6bd62c55c058cd028a949e5362d4&page=1
 Error type: HTTP Error 404: Not Found
 
 Found a error in request: 
-https://api.github.com/repos/dami82//forks?client_id=4161a8257efaea420c94&client_secret=d814ec48927a6bd62c55c058cd028a949e5362d4&page=1
+https://api.github.com/repos/jeremyrcoyle//forks?client_id=4161a8257efaea420c94&client_secret=d814ec48927a6bd62c55c058cd028a949e5362d4&page=1
 Error type: HTTP Error 404: Not Found
 
 Found a error in request: 
@@ -19,68 +48,24 @@ https://api.github.com/repos/giguerch//forks?client_id=4161a8257efaea420c94&clie
 Error type: HTTP Error 404: Not Found
 
 Found a error in request: 
-https://api.github.com/repos/"   stefanedwards/lemon"client_id=4161a8257efaea420c94&client_secret=d814ec48927a6bd62c55c058cd028a949e5362d4
+https://api.github.com/repos/ngreifer//forks?client_id=4161a8257efaea420c94&client_secret=d814ec48927a6bd62c55c058cd028a949e5362d4&page=1
+Error type: HTTP Error 404: Not Found
+
+Found a error in request: 
+https://api.github.com/repos/giguerch//languagesclient_id=4161a8257efaea420c94&client_secret=d814ec48927a6bd62c55c058cd028a949e5362d4
+Error type: HTTP Error 404: Not Found
+
+Found a error in request: 
+https://api.github.com/repos/spatstat/spatstat.html/languagesclient_id=4161a8257efaea420c94&client_secret=d814ec48927a6bd62c55c058cd028a949e5362d4
+Error type: HTTP Error 404: Not Found
+
+Found a error in request: 
+https://api.github.com/repos/jrnold/smss/languagesclient_id=4161a8257efaea420c94&client_secret=d814ec48927a6bd62c55c058cd028a949e5362d4
+Error type: HTTP Error 404: Not Found
+
+Found a error in request: 
+https://api.github.com/repos/"	stefanedwards/lemon"/languagesclient_id=4161a8257efaea420c94&client_secret=d814ec48927a6bd62c55c058cd028a949e5362d4
 Error type: HTTP Error 400: Bad Request
-
-Found a error in request: 
-https://api.github.com/repos/"   stefanedwards/lemon"/pulls?client_id=4161a8257efaea420c94&client_secret=d814ec48927a6bd62c55c058cd028a949e5362d4&state=all&page=1
-Error type: HTTP Error 400: Bad Request
-
-Found a error in request: 
-https://api.github.com/repos/"   stefanedwards/lemon"/stargazers?client_id=4161a8257efaea420c94&client_secret=d814ec48927a6bd62c55c058cd028a949e5362d4&page=1
-Error type: HTTP Error 400: Bad Request
-
-Found a error in request: 
-https://api.github.com/repos/"   stefanedwards/lemon"/forks?client_id=4161a8257efaea420c94&client_secret=d814ec48927a6bd62c55c058cd028a949e5362d4&page=1
-Error type: HTTP Error 400: Bad Request
-
-Found a error in request: 
-https://api.github.com/repos/spatstat/spatstat.htmlclient_id=4161a8257efaea420c94&client_secret=d814ec48927a6bd62c55c058cd028a949e5362d4
-Error type: HTTP Error 404: Not Found
-
-Found a error in request: 
-https://api.github.com/repos/spatstat/spatstat.html/pulls?client_id=4161a8257efaea420c94&client_secret=d814ec48927a6bd62c55c058cd028a949e5362d4&state=all&page=1
-Error type: HTTP Error 404: Not Found
-
-Found a error in request: 
-https://api.github.com/repos/spatstat/spatstat.html/stargazers?client_id=4161a8257efaea420c94&client_secret=d814ec48927a6bd62c55c058cd028a949e5362d4&page=1
-Error type: HTTP Error 404: Not Found
-
-Found a error in request: 
-https://api.github.com/repos/spatstat/spatstat.html/forks?client_id=4161a8257efaea420c94&client_secret=d814ec48927a6bd62c55c058cd028a949e5362d4&page=1
-Error type: HTTP Error 404: Not Found
-
-Found a error in request: 
-https://api.github.com/repos/jrnold/smssclient_id=4161a8257efaea420c94&client_secret=d814ec48927a6bd62c55c058cd028a949e5362d4
-Error type: HTTP Error 404: Not Found
-
-Found a error in request: 
-https://api.github.com/repos/jrnold/smss/pulls?client_id=4161a8257efaea420c94&client_secret=d814ec48927a6bd62c55c058cd028a949e5362d4&state=all&page=1
-Error type: HTTP Error 404: Not Found
-
-Found a error in request: 
-https://api.github.com/repos/jrnold/smss/stargazers?client_id=4161a8257efaea420c94&client_secret=d814ec48927a6bd62c55c058cd028a949e5362d4&page=1
-Error type: HTTP Error 404: Not Found
-
-Found a error in request: 
-https://api.github.com/repos/jrnold/smss/forks?client_id=4161a8257efaea420c94&client_secret=d814ec48927a6bd62c55c058cd028a949e5362d4&page=1
-Error type: HTTP Error 404: Not Found
-
-Found a error in request: 
-https://api.github.com/repos/guido-s/client_id=4161a8257efaea420c94&client_secret=d814ec48927a6bd62c55c058cd028a949e5362d4
-Error type: HTTP Error 404: Not Found
-
-Found a error in request: 
-https://api.github.com/repos/guido-s//pulls?client_id=4161a8257efaea420c94&client_secret=d814ec48927a6bd62c55c058cd028a949e5362d4&state=all&page=1
-Error type: HTTP Error 404: Not Found
-
-Found a error in request: 
-https://api.github.com/repos/guido-s//stargazers?client_id=4161a8257efaea420c94&client_secret=d814ec48927a6bd62c55c058cd028a949e5362d4&page=1
-Error type: HTTP Error 404: Not Found
-
-Found a error in request: 
-https://api.github.com/repos/guido-s//forks?client_id=4161a8257efaea420c94&client_secret=d814ec48927a6bd62c55c058cd028a949e5362d4&page=1
-Error type: HTTP Error 404: Not Found
 
 Found a error in request: 
 https://api.github.com/repos/css-konstanz/mwa-devclient_id=4161a8257efaea420c94&client_secret=d814ec48927a6bd62c55c058cd028a949e5362d4
@@ -99,10 +84,10 @@ https://api.github.com/repos/css-konstanz/mwa-dev/forks?client_id=4161a8257efaea
 Error type: HTTP Error 404: Not Found
 
 Found a error in request: 
-https://api.github.com/repos/Rekyt/funrarclient_id=4161a8257efaea420c94&client_secret=d814ec48927a6bd62c55c058cd028a949e5362d4
-Error type: <urlopen error [Errno -2] Name or service not known>
+https://api.github.com/repos/css-konstanz/mwa-dev/languagesclient_id=4161a8257efaea420c94&client_secret=d814ec48927a6bd62c55c058cd028a949e5362d4
+Error type: HTTP Error 404: Not Found
 
 Found a error in request: 
-https://api.github.com/repos/jimvine/confinterpretclient_id=4161a8257efaea420c94&client_secret=d814ec48927a6bd62c55c058cd028a949e5362d4
-Error type: <urlopen error [Errno -2] Name or service not known>
+https://api.github.com/repos/wencke/wenckehub.io/languagesclient_id=4161a8257efaea420c94&client_secret=d814ec48927a6bd62c55c058cd028a949e5362d4
+Error type: HTTP Error 404: Not Found
 

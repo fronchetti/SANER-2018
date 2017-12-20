@@ -1,563 +1,606 @@
-project,language,age,stars,forks,commits,newcomers,pulls_opened,pulls_closed,pulls_merged
-powdist,R,0,0,0,63,2,0,0,0
-clust.bin.pair,R,1,1,0,128,1,0,0,0
-milr,R,1,5,5,149,4,0,3,7
-vortexR,R,2,1,2,248,4,0,0,1
-rangeMapper,R,4,3,1,119,5,0,0,4
-pcadapt,R,1,3,1,229,4,0,0,2
-wktmo,HTML,0,0,0,23,3,0,0,0
-biotic,R,1,0,0,77,4,0,0,0
-hyfo,R,2,4,3,168,5,0,0,0
-summariser,R,0,0,0,14,1,0,0,0
-cmfrec,Jupyter Notebook,0,0,1,7,1,0,0,0
-aspi,R,1,0,0,170,2,0,0,0
-prereg,R,2,12,1,25,1,0,0,0
-groupdata2,R,1,0,0,190,1,0,0,2
-dendroTools,R,0,1,0,30,1,0,0,0
-EBASS,R,1,2,0,4,1,0,0,0
-dataMeta,HTML,0,5,1,24,2,0,0,0
-DataExplorer,R,2,53,14,80,3,0,0,2
-uGMAR,R,0,0,0,3,1,0,0,0
-statesRcontiguous,R,1,0,0,72,2,0,0,0
-inctools,R,1,3,1,394,6,0,1,8
-rEDM,HTML,3,36,20,161,8,2,1,7
-far,R,2,0,1,10,1,0,0,0
-wgsea,R,4,0,1,13,2,0,0,1
-MonetDBLite-R,R,0,14,1,80,3,0,0,4
-ggmcmc,R,5,67,21,252,8,2,3,12
-Rphylopars,R,2,13,2,46,2,1,0,18
-utiml,R,2,1,0,225,3,0,0,0
-surveydata,R,6,10,5,97,4,0,0,0
-logmult,R,3,1,2,315,1,0,1,0
-DJL,R,2,0,0,13,1,0,0,0
-rsMove,R,0,7,2,324,3,0,0,1
-eply,R,0,0,1,77,2,0,0,0
-DMMF,Fortran,0,0,0,20,1,0,0,0
-gmapsdistance,R,2,19,13,69,4,1,2,3
-rsolr,R,1,5,1,116,4,0,0,0
-NUCOMBog,TeX,2,0,2,211,4,0,0,0
-condir,HTML,1,0,0,265,2,0,0,0
-logbin,R,2,1,0,89,1,0,0,0
-ImaginR,R,0,0,0,0,0,0,0,0
-rgabriel,R,4,1,0,22,4,0,0,0
-icsw,R,2,0,0,16,1,0,0,0
-DiversityOccu,R,1,1,2,53,3,0,0,0
-RNRCS,R,0,0,0,26,3,0,0,0
-ldbod,R,1,1,0,65,3,0,0,0
-EpiModel,R,3,24,9,1188,7,0,4,50
-prisonbrief,R,0,3,0,47,4,0,0,0
-spectrino,R,2,0,0,1,1,0,0,0
-qmethod,R,3,21,9,225,4,1,6,20
-miRNAss,R,1,0,0,63,2,0,0,0
-BoolFilter,R,0,0,1,49,4,0,0,4
-coxphMIC,R,0,0,0,1,1,0,0,0
-easycsv,R,0,2,0,61,4,0,0,0
-colorplaner,R,1,20,1,124,1,0,0,15
-parallelDist,C++,0,5,0,13,1,0,0,0
-eurostat,R,3,77,20,569,11,0,0,10
-rexpokit,Fortran,3,0,1,64,4,0,0,2
-mbbefd,R,2,3,5,195,4,0,0,0
-MittagLeffleR,R,0,1,0,35,2,0,0,0
-MANOVA.RM,R,0,0,0,8,1,0,0,0
-naptime,R,1,6,3,90,1,1,2,5
-RQGIS,R,1,133,30,1007,13,0,2,29
-STEPCAM,R,1,4,0,65,1,0,0,0
-water,R,2,8,9,474,8,0,0,5
-nimble,C++,3,46,11,2782,14,6,19,231
-mev,R,1,0,0,27,2,0,0,0
-rpostgis,R,2,29,3,278,3,0,2,1
-ggmuller,HTML,1,27,0,108,2,0,0,1
-denoiSeq,R,0,0,0,21,2,0,0,0
-data.tree,R,2,100,19,483,7,0,5,7
-TAR,R,1,0,0,11,2,0,0,0
-admixture_graph,R,2,11,3,390,5,0,1,2
-ecospat,R,3,3,0,122,3,0,0,3
-R-Binding,R,1,5,6,120,12,0,4,24
-weightTAPS,R,2,0,0,19,2,0,0,0
-glm.predict,R,2,0,0,65,2,0,0,0
-ForestTools,R,1,1,4,27,2,0,1,1
-brms,R,2,217,24,2751,9,0,1,25
-Rga4gh,R,1,0,1,1,1,1,0,0
-sNPLS,R,0,0,0,49,1,0,0,0
-GerminaR,R,1,1,0,152,6,0,0,0
-RMallet,R,3,18,5,26,4,1,1,4
-readOffice,R,0,2,1,20,1,0,1,2
-aidar,R,4,0,0,19,1,0,0,0
-snakecase,R,0,28,1,389,2,0,0,3
-manhattanly,R,1,30,11,77,5,0,0,5
-gputools,C++,5,57,27,79,1,0,2,0
-dataPreparation,R,0,5,3,59,3,0,3,22
-nodiv,R,3,1,2,132,3,0,1,0
-passport,R,0,18,0,47,1,0,0,0
-rpsftm,R,2,1,1,138,3,0,0,0
-heplots,R,4,0,0,311,4,0,0,0
-selectr,R,5,12,2,53,2,0,1,2
-LEGIT,R,0,3,0,81,1,0,0,0
-KoNLP,HTML,6,98,43,239,10,1,0,1
-spatialsegregation,C++,2,0,0,4,1,0,0,0
-jmv,R,1,7,6,370,6,1,11,109
-spduration,R,5,2,0,182,4,0,0,0
-easypackages,R,1,5,1,7,1,0,0,0
-sequoia,R,1,1,1,89,1,0,0,0
-STMedianPolish,R,0,0,0,5,2,0,0,0
-multcompview,R,0,0,0,25,3,0,0,0
-MVN,R,2,0,0,65,2,0,0,0
-parsemsf,R,2,0,0,58,3,0,0,0
-flora,R,3,11,4,86,2,0,0,0
-phonR,R,5,9,3,364,2,1,0,1
-blsAPI,R,3,33,6,41,3,0,0,4
-titrationCurves,R,1,1,1,18,1,0,0,0
-Momocs,R,3,22,11,1173,5,0,0,6
-DataClean,R,2,0,0,43,3,0,0,0
-sensus,C#,3,22,24,0,0,3,18,70
-mp,R,3,2,0,92,4,0,0,3
-MIAmaxent,R,1,2,1,320,2,0,0,0
-regexPipes,R,1,3,0,4,2,0,0,0
-datafsm,R,0,2,0,186,5,0,0,0
-vistime,R,0,10,1,111,3,0,0,0
-magclass,R,0,0,0,48,8,0,0,0
-unmarked,R,7,17,17,1447,17,0,4,14
-ProjectTemplate,R,7,493,139,628,20,7,21,82
-Rvcg,C++,4,7,4,692,4,0,2,1
-sglOptim,C++,2,6,0,253,1,0,0,0
-rtimicropem,R,1,8,4,203,4,0,0,3
-vetools,R,3,1,1,65,3,0,0,0
-influenceR,C,2,20,2,104,2,0,1,0
-esvis,R,0,5,0,214,1,0,0,0
-AnglerCreelSurveySimulation,R,2,0,0,34,2,0,0,0
-mapa,R,1,7,0,39,1,0,0,0
-qqplotr,HTML,0,7,0,96,4,0,0,0
-hyper2,R,0,0,0,19,1,0,0,0
-dggridR,C++,1,39,2,304,1,0,0,0
-episensr,R,2,0,0,422,1,0,0,0
-CrossVA,R,1,0,3,60,6,0,0,1
-JuliaCall,R,0,16,0,553,3,0,0,6
-SpecsVerification,R,1,0,0,90,2,0,0,0
-gWQS,HTML,1,0,0,1,1,0,0,0
-musica,R,1,0,1,11,1,0,0,0
-diceR,R,1,8,2,817,6,0,1,21
-wikitaxa,R,1,5,1,58,3,0,0,1
-smoof,R,3,10,10,450,10,0,2,11
-TSMN,R,0,0,0,3,1,0,0,0
-docstring,R,0,15,1,61,2,1,1,1
-nonlinearTseries,C++,0,1,1,84,3,0,0,0
-rwtss,R,3,2,0,22,3,0,0,0
-waver,R,2,2,1,36,2,0,0,0
-sophisthse,HTML,3,1,4,96,1,0,0,17
-quandl-r,R,4,83,39,214,11,0,8,34
-pixiedust,HTML,2,125,14,273,6,0,3,25
-nowcasting,R,0,2,0,12,3,0,0,0
-TanB,R,1,0,0,10,2,0,0,0
-gamlss.spatial,R,1,0,0,9,1,0,0,0
-stplanr,R,2,84,26,1232,20,0,6,162
-gaiah,R,1,0,0,62,1,0,0,0
-bipartite,R,3,2,2,76,4,0,1,0
-sparsevar,R,1,1,1,236,2,0,0,0
-generalhoslem,R,1,0,0,73,1,0,1,2
-mafs,R,1,16,4,62,3,0,0,1
-colr,HTML,1,0,0,13,1,0,0,0
-evolvability,R,1,0,0,7,2,0,0,0
-redlistr,R,1,7,3,137,5,1,0,2
-DOQTL,R,4,8,12,145,4,2,0,0
-qgglmm,R,2,4,1,116,2,0,1,5
-vipor,R,2,11,1,169,3,0,0,0
-bossMaps,HTML,1,0,0,1,1,0,0,0
-stylo,R,4,31,15,182,6,0,0,9
-desctable,HTML,1,34,2,268,1,0,1,0
-wbstats,R,1,45,9,37,2,0,0,1
-MCMCvis,R,1,11,0,364,3,0,0,1
-childsds,R,0,0,0,89,2,0,0,0
-texPreview,HTML,0,17,1,74,4,0,1,1
-fetchR,R,3,0,0,160,3,0,0,3
-gramEvol,R,2,3,4,108,3,0,0,1
-aprof,R,4,21,1,164,4,0,0,2
-ggplotgui,R,0,33,5,59,2,0,0,0
-rcpp_progress,C++,3,14,3,99,7,0,1,5
-RConics,R,0,0,0,2,1,0,0,0
-Rcssplot,R,2,4,4,60,5,0,2,4
-qtlhot,R,6,2,1,42,1,0,0,0
-zFactor,HTML,0,3,3,745,8,0,0,0
-libstableR,C,0,0,1,8,3,0,0,1
-rxylib,C++,0,2,0,132,5,0,0,0
-ltxsparklines,R,1,3,0,13,1,0,0,0
-tsDyn,R,8,11,6,928,15,0,0,1
-HistDAWass,R,2,1,0,12,2,0,0,0
-catenary,R,1,0,0,1,1,0,0,0
-fChange,R,0,0,0,2,1,0,0,0
-PWFSLSmoke,R,1,3,1,483,6,0,0,0
-pknca,R,3,6,6,227,2,0,0,0
-damisc,R,3,0,2,55,4,0,0,0
-marcher,HTML,0,1,1,23,4,0,1,4
-tidytext,R,1,532,93,395,14,6,0,12
-dtwSat,R,3,32,11,267,5,0,2,4
-lhmixr,R,1,0,1,43,2,0,0,0
-rucm,R,2,0,1,9,2,0,0,0
-somoclu,C,4,123,34,0,0,0,0,16
-erp.easy,R,0,0,0,4,1,0,0,0
-Sofi,R,2,0,0,241,2,0,0,0
-multifwf,R,2,0,0,23,1,0,0,0
-PdPDB,R,1,0,0,7,2,0,0,0
-ecm,R,1,0,0,10,2,0,0,0
-bmrm,HTML,3,0,0,240,4,0,0,0
-matrixpls,R,4,5,4,316,3,1,1,1
-mma,R,1,0,1,23,7,0,1,4
-MetaLonDA,R,0,0,0,7,2,0,0,0
-DstarM,R,1,0,0,37,1,0,0,11
-primme,C,2,28,15,690,15,0,2,5
-packcircles,C++,2,8,3,51,2,0,0,0
-SSM,R,0,0,0,18,1,0,0,0
-waterfall,R,2,2,1,92,1,0,0,0
-selectapref,R,0,0,0,7,1,0,0,0
-RcppHMM,C++,0,0,0,6,3,1,0,2
-marmap,R,3,3,1,133,8,0,0,0
-diveMove,R,4,0,1,295,1,0,0,0
-prodest,R,1,1,2,0,0,0,0,2
-wql,HTML,0,1,0,61,3,0,0,0
-fasteraster,C++,1,0,0,6,2,0,0,0
-rsdmx,R,4,59,23,393,7,0,1,5
-IRTpp,Objective-C,1,2,0,6,1,0,0,0
-mosaicModel,R,0,1,1,55,3,0,0,0
-popEpi,HTML,2,1,0,843,6,0,0,0
-seas,R,5,5,3,12,2,0,0,0
-MAST,R,5,43,19,58,5,0,0,3
-lingtypology,R,1,17,5,333,4,0,0,2
-Delta,R,0,0,0,46,1,0,0,0
-survHE,C++,1,6,1,141,2,0,0,10
-symmoments,R,3,0,0,0,0,0,0,0
-stdvectors,C++,0,2,0,15,1,0,0,0
-pomp,R,2,33,13,1978,10,0,4,4
-pipeliner,R,1,35,3,35,1,0,0,1
-phylopath,R,1,3,1,159,2,0,0,0
-ARTool,R,3,11,0,130,1,0,0,0
-edstan,R,2,1,1,59,3,0,0,4
-rtrie,R,0,4,0,9,1,0,0,0
-seacarb-git,R,3,1,3,195,7,1,11,33
-spsann,R,2,3,3,510,3,0,2,3
-tuckerR_mmgg,R,3,3,0,10,1,0,0,0
-patchSynctex,R,3,0,2,13,1,1,1,0
-rioja,C++,3,1,0,48,2,0,0,0
-lavaan,R,6,113,34,1181,7,0,7,28
-vcov,R,0,0,0,16,1,0,0,0
-vcfR,R,4,33,16,1204,9,0,3,10
-wiod,R,2,2,4,72,2,0,0,1
-spData,R,0,11,2,166,6,0,1,8
-lba,R,2,0,0,16,1,0,0,0
-raw,HTML,4,4,2,123,7,0,2,4
-credule,HTML,2,2,1,14,2,0,0,0
-RNewsflow,HTML,2,4,0,30,3,0,0,0
-splines2,R,1,2,0,189,3,0,0,0
-gsloid,R,0,1,0,24,1,0,0,0
-surveybootstrap,R,2,3,1,34,2,0,0,1
-spatialCovariance,R,3,0,0,11,1,0,0,0
-rotl,R,3,18,7,747,8,0,2,11
-olsrr,R,1,30,6,186,2,0,0,2
-tcgsaseq,R,1,1,0,167,4,0,0,0
-Meiosis,R,0,1,0,41,2,0,0,0
-textminer,R,2,46,20,253,3,0,0,10
-shinyTime,R,1,4,0,49,1,0,0,0
-polysat,R,2,1,1,90,1,0,0,0
-mvPot,R,1,0,1,27,2,0,0,0
-SOMbrero,R,0,1,0,138,2,0,0,0
-sft,R,1,1,0,3,1,0,0,0
-assertr,R,2,161,19,136,7,3,0,6
-Rexperigen,R,1,1,0,28,2,0,0,0
-badgecreatr,R,1,33,10,112,4,0,1,3
-univOutl,R,0,0,0,1,1,0,0,0
-sfc,R,1,0,1,19,1,0,0,0
-gMOIP,R,0,0,0,28,1,0,0,0
-phia,R,2,3,0,43,5,0,0,1
-metafor,R,2,21,8,261,3,0,1,3
-trotter,R,3,3,1,22,2,0,0,0
-moveHMM,R,2,4,2,554,5,0,0,5
-optmatch,R,6,17,6,1039,9,0,0,4
-rwirelesscom,R,2,0,0,79,2,0,0,0
-wildcard,R,0,1,0,36,2,0,0,0
-tadaatoolbox,R,2,3,1,421,5,0,1,7
-entropart,R,0,1,1,20,1,0,0,0
-sitreeE,R,0,1,0,14,2,0,0,0
-randomizr,R,3,7,3,120,7,0,1,4
-AdhereR,R,0,7,0,6,1,0,0,0
-heuristica,R,2,4,2,1001,5,0,0,0
-metacoder,R,3,21,5,869,7,0,0,3
-SharpeR,R,5,5,7,307,4,0,0,1
-lme4,HTML,5,250,82,2003,30,2,5,34
-prodigenr,R,2,6,1,151,1,0,0,0
-texmex,R,3,2,2,1008,12,0,0,11
-brainGraph,R,2,17,5,214,1,0,0,0
-ENMeval,R,2,5,11,213,8,0,1,5
-geex,R,1,0,2,522,3,0,0,8
-KScorrect,R,2,1,1,74,2,0,0,0
-tcr,R,4,19,8,343,7,2,2,34
-l2boost,R,5,3,1,30,2,0,0,1
-factorMerger,HTML,1,2,4,387,7,0,3,17
-libsoc,C,2,6,2,196,1,0,1,0
-ROpenDota,R,0,0,0,30,2,0,0,0
-RcmdrPlugin.MPAStats,R,5,2,4,87,5,0,1,6
-rDEA,R,3,10,6,144,3,0,0,1
-FedData,R,3,29,6,396,4,0,0,1
-iopsych,R,1,3,0,22,3,0,0,3
-ShinyTester,R,1,12,1,43,3,0,0,1
-RVsharing,R,4,0,1,262,3,0,0,0
-letsR,R,3,9,3,268,6,1,1,1
-orca,C++,3,0,1,44,3,0,0,0
-EMMAgeo,R,2,1,0,34,1,0,0,0
-pathmapping,R,3,2,1,14,2,0,0,0
-rdwd,HTML,1,7,0,265,2,0,0,0
-treatSens,R,3,2,0,244,7,0,0,0
-coppeCosenzaR,R,0,0,0,25,4,0,0,0
-RPresto,R,2,64,13,164,4,2,1,50
-WRTDStidal,HTML,3,0,1,252,1,0,0,0
-bigstatsr,R,1,19,4,486,3,0,1,2
-extraDistr,C++,1,8,2,331,5,0,0,2
-rdiversity,R,1,2,3,1001,3,0,0,4
-condformat,R,2,8,2,204,1,0,0,0
-speedglm,R,3,1,7,6,2,1,0,0
-RLogicalOps,R,1,0,0,1,1,0,0,0
-Redmonder,R,1,1,1,27,2,0,0,0
-likelihood,HTML,0,0,0,2,1,0,0,0
-radarchart,R,2,44,17,212,6,1,2,9
-crimelinkage,HTML,2,0,1,0,0,0,0,0
-propr,HTML,1,11,3,495,2,0,1,0
-TCC,R,0,0,0,96,7,0,0,0
-net.security,R,2,6,5,278,7,0,0,0
-clubSandwich,HTML,2,13,3,447,4,0,0,8
-forestinventory,R,1,0,0,53,2,0,0,0
-tsensembler,R,0,3,1,18,3,0,0,0
-pdR,R,0,1,0,11,2,0,0,0
-glcm,R,3,6,5,191,1,1,0,0
-virtualspecies,R,3,5,3,41,3,0,0,1
-adaptMCMC,R,4,2,2,13,2,0,1,0
-Thermimage,R,2,9,2,168,3,0,0,0
-ircor,R,0,2,0,19,2,0,0,0
-reghelper,R,2,2,0,118,1,0,0,0
-wallace,R,2,16,4,2012,13,0,3,1
-gfmR,R,0,0,0,25,2,0,0,0
-PSF,R,1,7,1,122,2,0,1,0
-pcamethods,R,1,9,1,143,12,0,0,0
-games,R,7,2,0,178,1,0,0,0
-rsatscan,R,2,3,1,6,2,0,0,0
-OPI,R,4,5,1,123,5,1,0,0
-unpivotr,R,1,22,4,275,2,1,0,0
-cosinor2,,0,1,0,8,1,0,0,0
-TropFishR,R,2,5,4,652,4,0,0,3
-focusedMDS,JavaScript,1,2,0,203,4,0,0,0
-medicalrisk,R,1,3,0,11,2,0,0,0
-raptr,HTML,2,1,0,349,4,0,0,0
-rpf,R,2,0,0,403,3,0,0,0
-CompTox-ExpoCast-httk,,0,0,0,1,1,0,0,0
-venn,,1,0,0,0,0,0,0,0
-enviMass,R,3,0,2,467,3,0,0,3
-clust,Python,0,22,2,128,3,0,0,3
-prettymapr,R,2,12,1,53,2,0,0,1
-spaero,R,0,0,1,142,1,1,0,0
-missForest,R,5,16,4,37,4,0,0,0
-fuser,R,1,4,1,22,3,0,0,0
-Pstat,R,0,0,0,3,1,0,0,0
-taber,R,2,5,0,15,1,0,0,0
-mvtboost,R,2,13,12,344,3,0,0,5
-metacom,R,4,4,6,102,5,0,1,5
-homeR,R,6,2,1,36,1,0,1,1
-ApacheLogProcessor,R,2,5,1,9,4,0,0,0
-tweet2r,R,2,1,0,22,2,0,0,0
-mdatools,R,4,5,2,161,1,0,1,0
-VineCopula,R,2,12,14,457,13,0,2,19
-squash,R,2,0,0,6,1,0,0,0
-bmlm,R,1,9,1,161,3,0,0,0
-CORElearn,C++,1,0,0,3,2,0,0,0
-rWind,R,0,1,1,75,4,0,0,6
-rospca,R,1,5,2,79,2,0,0,0
-meaRtools,R,0,0,0,204,3,0,5,34
-RankingProject,R,0,1,0,45,1,0,0,0
-bigReg,R,1,0,0,1,1,0,0,0
-anchoredDistr,R,1,1,0,16,1,0,0,0
-luxlogr,R,2,5,0,65,1,0,0,0
-epanetReader,R,2,7,5,135,3,0,0,16
-MissingDataGUI,R,6,5,0,155,3,0,0,0
-optimization,R,1,0,0,93,2,0,0,0
-rbi,R,4,9,5,796,7,0,1,1
-healthcareai-r,HTML,1,72,45,1655,25,4,18,153
-graph-kernels,C++,2,22,10,22,2,0,0,1
-exactLoglinTest,R,5,3,3,9,1,0,0,0
-PhyInformR,R,1,0,0,10,2,0,0,0
-gnm,R,0,0,0,534,2,0,0,0
-incR,R,1,0,0,84,3,0,0,1
-modelwordcloud,R,0,1,0,42,2,0,0,5
-CRAN_deepboost,C++,1,17,3,109,9,0,0,3
-prevalence,R,4,1,2,97,2,0,0,0
-paleotree,R,5,8,3,534,1,0,0,2
-sitar,R,4,2,1,431,2,0,1,0
-treespace,HTML,0,3,1,24,3,0,0,0
-ARCO,R,1,0,3,107,2,0,0,1
-analysis_tools,R,3,6,4,42,4,0,0,3
-sperrorest,R,1,6,2,806,2,0,2,19
-recexcavAAR,R,1,3,1,135,2,0,0,0
-plotrr,R,0,3,2,99,3,0,0,2
-shopifyr,R,3,5,3,32,1,0,0,0
-IndianTaxCalc,R,0,3,0,10,1,0,0,0
-PASWR2,R,4,0,2,117,2,0,0,0
-SocialMediaLab,R,2,26,12,168,4,0,1,3
-speciesgeocodeR,R,2,2,0,0,0,0,0,0
-drLumi,R,2,1,0,0,0,0,0,0
-plater,R,2,11,1,267,3,0,0,2
-prcr,R,1,0,0,219,1,0,1,1
-x12GUI,R,4,2,0,49,5,0,0,0
-treeclim,R,3,2,1,290,3,0,0,0
-templates,R,1,2,1,23,2,0,0,0
-clinPK,R,0,2,1,15,1,0,0,0
-mockery,R,1,21,1,119,5,0,0,12
-classiFunc,R,0,4,1,70,2,0,0,2
-ldatuning,R,2,19,3,39,2,0,0,0
-pifpaf,HTML,1,0,0,501,2,0,0,0
-tRophicPosition,R,1,6,0,205,3,0,4,80
-dicionariosIBGE,R,6,9,8,70,4,0,2,0
-ElastH,R,0,0,0,6,2,0,0,0
-funtimes,R,1,0,14,52,6,0,2,3
-SixSigma,R,3,1,3,64,4,0,0,0
-diskImageR,HTML,2,1,2,490,3,0,0,1
-NIPTeR,R,2,6,10,14,3,0,0,5
-QFASA,Jupyter Notebook,1,0,0,43,1,0,0,0
-WikidataQueryServiceR,R,0,12,0,16,1,0,0,1
-scenario,R,1,0,1,8,1,0,0,0
-score-project,R,2,0,0,45,2,0,0,0
-normalr,R,1,2,0,24,1,0,0,0
-asymLD_CRAN,R,1,0,0,4,2,0,0,0
-networktools,R,0,2,1,68,1,0,0,0
-logOfGamma,R,0,0,0,4,1,0,0,0
-discord,R,1,0,0,17,2,0,0,0
-RcouchDB,HTML,3,1,1,41,4,0,0,2
-DRR,R,1,1,1,29,1,0,0,0
-rmumps,C,2,4,0,72,1,0,0,0
-missRanger,R,1,9,2,38,5,0,0,2
-neotoma,R,4,17,14,754,10,0,6,118
-tci,R,1,0,0,27,1,0,0,0
-CharFun,R,0,0,1,80,4,0,2,1
-xesreadR,R,0,1,1,6,2,0,0,0
-shiny.semantic,CSS,1,78,19,131,15,1,4,38
-pMineR,R,1,2,1,145,1,0,0,0
-midasr,R,5,21,10,410,4,0,0,9
-RClone,R,2,3,0,113,1,0,0,0
-difNLR,R,1,2,1,54,3,0,0,5
-Robocoap,R,0,0,0,18,1,0,0,0
-superheat,R,2,110,15,136,2,0,0,0
-DSAIDE,HTML,1,3,5,222,5,0,1,14
-WitOMI,R,0,0,1,53,3,0,1,3
-minerva,C,4,2,0,65,4,0,0,0
-pse,R,2,3,0,33,2,0,0,2
-EloRating,R,0,0,0,38,2,0,0,0
-meshsimplification,C++,0,1,1,28,2,0,0,1
-FishResp,R,0,0,0,1,1,0,0,0
-assignPOP,R,1,5,0,161,1,0,0,0
-furniture,R,1,4,1,430,1,0,0,0
-qualpalr,R,1,8,0,308,1,0,0,0
-patternize,R,1,2,0,134,2,0,0,0
-gimms,R,2,8,5,156,2,0,0,0
-spind,R,0,1,0,351,2,0,0,0
-RItools,R,6,10,3,336,12,0,0,2
-GSODR,R,2,30,10,1358,6,0,0,3
-mldr.datasets,R,0,0,0,287,2,0,0,0
-deconstructSigs,R,1,33,14,102,5,0,0,2
-REPPlab,R,2,0,0,37,2,0,0,0
-lavaan.survey,R,3,2,1,10,1,0,0,0
-sdmpredictors,R,2,5,0,123,2,0,0,0
-comtradr,HTML,0,8,2,181,2,0,0,0
-msap,R,2,0,0,50,2,0,0,0
-MixSIAR,R,4,15,25,136,6,0,0,7
-text2vec,R,2,403,76,544,9,0,3,18
-textTinyR,R,0,13,4,59,2,0,0,0
-zoon,HTML,3,39,12,746,14,0,12,108
-AnnotationBustR,R,1,0,1,252,4,1,0,0
-tutorial,R,1,35,13,140,5,0,1,3
-pez,R,3,10,6,184,4,0,0,0
-Tides,R,0,0,0,10,1,0,0,0
-umx,R,5,8,5,1388,6,0,2,3
-tumblR,R,1,0,0,3,1,0,0,0
-toxboot,R,1,1,0,70,2,0,0,1
-rstackdeque,R,3,24,2,30,1,0,1,0
-osmplotr,R,1,77,15,453,6,2,1,7
-nmaINLA,R,1,0,0,34,1,0,0,0
-statcheck,R,5,103,16,277,11,1,1,5
-pense-rpkg,R,0,1,0,371,4,0,0,0
-Seurat,R,2,116,95,1242,18,2,10,16
-OOBCurve,R,0,7,0,37,2,0,0,0
-oddsratio,R,1,14,1,341,3,0,1,29
-histmdl,R,4,1,0,8,1,0,0,0
-GADMTools,R,2,0,1,49,5,0,1,0
-wordbankr,R,2,8,3,82,7,0,0,1
-microPop,R,0,1,0,0,0,0,0,0
-sqlscore,R,1,6,2,162,2,0,0,2
-robustlmm,R,4,8,3,57,3,0,0,1
-snpReady,R,1,1,3,152,9,0,0,12
-soundgen,HTML,0,1,1,76,2,0,0,0
-scclust-R,C,1,8,1,144,2,0,0,0
-errorizer,HTML,1,0,0,33,2,0,0,0
-medicare,R,1,0,0,79,2,0,0,0
-ciTools,R,0,87,3,227,4,0,0,7
-UNGeneAnno,R,1,0,0,11,1,0,0,0
-GGIR,R,0,9,3,394,8,0,4,10
-EstimateGroupNetwork,R,0,0,0,12,1,0,0,0
-uhcplots,R,1,1,0,63,4,0,1,1
-gmse,HTML,1,1,1,0,0,0,0,0
-plac,C++,1,3,0,49,1,0,0,0
-EvolQG,R,4,4,7,574,8,0,1,58
-Rtauchen,R,1,0,0,1,1,0,0,0
-SDMPlay,HTML,1,0,0,2,1,0,0,0
-NetworkComparisonTest,R,2,2,6,15,2,1,1,0
-CausalImpact,R,3,723,119,55,7,4,1,4
-inspectr,R,0,2,0,47,3,0,0,0
-reutils,R,4,6,2,53,1,0,0,0
-dissUtils,R,3,0,0,0,0,0,0,0
-cati,R,3,2,3,404,5,0,0,1
-derivmkts,HTML,2,9,5,104,1,0,0,0
-compareDF,R,1,22,2,111,2,0,0,0
-bdvis,R,4,13,4,96,3,0,0,1
-udpipe,C++,0,27,6,88,3,0,0,1
-countyfloods,R,1,2,2,120,3,0,0,0
-hei,R,1,0,1,92,3,0,0,7
-rAmCharts,R,2,26,7,664,9,0,0,0
-respirometry,R,1,0,0,10,1,0,0,0
-syuzhet,HTML,2,217,57,121,10,0,2,9
-unjoin,R,0,5,0,38,1,0,0,0
-r4ss,R,3,9,11,1309,36,0,2,30
-rbundler,Rebol,5,2,7,71,6,0,0,0
-SpatialPosition,R,2,15,3,84,6,0,0,2
-visNetwork,HTML,2,195,46,523,9,0,1,4
-prepdat,R,2,12,1,96,3,0,0,2
-landscapeR,HTML,1,0,0,51,2,0,0,0
-apng,R,0,0,0,8,2,0,0,0
-versions,R,2,10,2,79,2,0,1,5
-nearfar,R,0,0,0,0,0,0,0,0
-neuroim,R,4,4,1,164,4,0,0,1
-intsvy,R,3,6,5,317,8,1,1,2
-GDM,C++,2,5,2,24,3,0,1,0
-geotoolsR,R,0,0,0,1,1,0,0,0
-corrplot,R,6,120,46,296,12,2,1,43
-pim,R,0,3,1,12,1,0,0,2
-logitnorm,R,1,0,0,46,3,0,0,1
-tbdiag,R,6,0,0,201,1,0,0,2
-NetworkInference,R,1,5,1,359,3,0,2,8
-diverse,R,2,3,3,50,3,0,0,5
-ini,R,0,0,0,9,1,0,0,0
-LendingClub,R,1,2,1,38,2,0,0,0
-hyperSpec,R,1,5,7,464,8,0,0,8
-RBMRB,R,1,0,0,111,4,0,0,0
-ggrepel,R,1,423,47,208,12,0,6,13
-spdep,R,0,11,2,29,2,0,0,0
-Dark,HTML,2,0,0,217,1,0,0,0
-dtwclust,R,2,71,13,1079,5,0,0,0
-Radviz,R,2,4,0,67,1,0,0,0
-Stickbreaker,HTML,1,0,1,50,3,0,0,4
-CopulaDTA,R,0,0,0,1,1,0,0,0
-AF,R,0,0,0,3,1,0,0,0
-TriMatch,R,4,4,0,72,1,0,0,0
-mcglm,HTML,1,5,1,256,4,0,0,4
-rKIN,R,0,0,0,13,2,0,0,0
-tufterhandout,HTML,3,100,21,32,3,2,0,13
-queuecomputer,R,1,8,4,191,4,0,1,10
-junr,R,1,1,0,61,3,0,0,0
-wfindr,R,1,2,0,42,2,0,0,0
-taRifx,R,5,2,1,25,2,0,0,0
-RODBCext,HTML,3,13,7,80,5,0,1,5
-Barnard,R,2,2,1,8,2,0,0,0
-geomnet,R,3,39,9,361,5,1,2,2
-fst,C,0,192,19,219,5,0,0,3
-R-package-zoom,R,4,4,1,76,3,0,0,2
+project,url,main_language,languages,age,stars,forks,commits,newcomers,pulls_opened,pulls_closed,pulls_merged
+powdist,https://github.com/anyosa/powdist,R,['R'],0,0,0,63,2,0,0,0
+clust.bin.pair,https://github.com/dgopstein/clust.bin.pair,R,['R'],1,1,0,128,1,0,0,0
+milr,https://github.com/PingYangChen/milr,R,"['R', 'C++']",1,5,5,149,4,0,3,7
+glmmTMB,https://github.com/glmmTMB/glmmTMB,HTML,"['TeX', 'R', 'Makefile', 'HTML', 'C++']",2,29,5,897,15,0,5,158
+vortexR,https://github.com/carlopacioni/vortexR,R,['R'],2,1,2,248,4,0,0,1
+rangeMapper,https://github.com/valcu/rangeMapper,R,['R'],4,3,1,119,5,0,0,4
+pcadapt,https://github.com/bcm-uga/pcadapt,R,"['R', 'JavaScript', 'C++', 'CSS']",1,3,1,229,4,0,0,2
+logmult,https://github.com/nalimilan/logmult,R,['R'],3,1,2,315,1,0,1,0
+biotic,https://github.com/robbriers/biotic,R,['R'],1,0,0,77,4,0,0,0
+hyfo,https://github.com/Yuanchao-Xu/hyfo,R,['R'],2,4,3,168,5,0,0,0
+gk,https://github.com/dennisprangle/gk,R,['R'],3,0,1,35,1,0,0,0
+ENMeval,https://github.com/bobmuscarella/ENMeval,R,['R'],2,5,11,213,8,0,1,5
+summariser,https://github.com/condwanaland/summariser,R,['R'],0,0,0,14,1,0,0,0
+cmfrec,https://github.com/david-cortes/cmfrec,Jupyter Notebook,"['Python', 'Jupyter Notebook']",0,0,1,7,1,0,0,0
+aspi,https://github.com/WaylandM/aspi,R,"['TeX', 'R']",1,0,0,170,2,0,0,0
+meaRtools,https://github.com/igm-team/meaRtools,R,"['R', 'C++']",0,0,0,204,3,0,5,34
+groupdata2,https://github.com/LudvigOlsen/groupdata2,R,['R'],1,0,0,190,1,0,0,2
+dendroTools,https://github.com/jernejjevsenak/dendroTools,R,['R'],0,1,0,30,1,0,0,0
+EBASS,https://github.com/scossin/EBASS,R,['R'],1,2,0,4,1,0,0,0
+dataMeta,https://github.com/dmrodz/dataMeta,HTML,"['R', 'HTML']",0,5,1,24,2,0,0,0
+DataExplorer,https://github.com/boxuancui/DataExplorer,R,['R'],2,53,14,80,3,0,0,2
+uGMAR,https://github.com/cran/uGMAR,R,"['R', 'HTML']",0,0,0,3,1,0,0,0
+statesRcontiguous,https://github.com/martinjhnhadley/statesRcontiguous,R,['R'],1,0,0,72,2,0,0,0
+inctools,https://github.com/SACEMA/inctools,R,"['R', 'Shell', 'HTML']",1,3,1,394,6,0,1,8
+rEDM,https://github.com/ha0ye/rEDM,HTML,"['TeX', 'R', 'HTML', 'C++']",3,36,20,161,8,2,1,7
+far,https://github.com/Looping027/far,R,"['C', 'R']",2,0,1,10,1,0,0,0
+wgsea,https://github.com/chr1swallace/wgsea,R,"['TeX', 'R']",4,0,1,13,2,0,0,1
+MonetDBLite-R,https://github.com/hannesmuehleisen/MonetDBLite-R,R,"['R', 'C', 'Shell', 'C++']",0,14,1,80,3,0,0,4
+ggmcmc,https://github.com/xfim/ggmcmc,R,['R'],5,67,21,252,8,2,3,12
+Rphylopars,https://github.com/ericgoolsby/Rphylopars,R,"['R', 'C++']",2,13,2,46,2,1,0,18
+utiml,https://github.com/rivolli/utiml,R,['R'],2,1,0,225,3,0,0,0
+surveydata,https://github.com/andrie/surveydata,R,"['R', 'HTML']",6,10,5,97,4,0,0,0
+wktmo,https://github.com/leoly2017/wktmo,HTML,"['TeX', 'R', 'HTML']",0,0,0,23,3,0,0,0
+DJL,https://github.com/cran/DJL,R,['R'],2,0,0,13,1,0,0,0
+somoclu,https://github.com/peterwittek/somoclu,C,"['C', 'Shell', 'Python', 'Makefile', 'C++', 'M4', 'Batchfile', 'Cuda', 'R', 'Matlab']",4,123,34,514,13,0,0,16
+rsMove,https://github.com/RRemelgado/rsMove,R,['R'],0,7,2,324,3,0,0,1
+eply,https://github.com/wlandau-lilly/eply,R,['R'],0,0,1,77,2,0,0,0
+DMMF,https://github.com/kwanghun/DMMF,Fortran,"['Fortran', 'C', 'R']",0,0,0,20,1,0,0,0
+gmapsdistance,https://github.com/rodazuero/gmapsdistance,R,['R'],2,19,13,69,4,1,2,3
+rsolr,https://github.com/lawremi/rsolr,R,"['R', 'JavaScript', 'HTML', 'CSS', 'XSLT']",1,5,1,116,4,0,0,0
+NUCOMBog,https://github.com/jeroenpullens/NUCOMBog,TeX,"['TeX', 'Pascal', 'R', 'Makefile']",2,0,2,211,4,0,0,0
+condir,https://github.com/AngelosPsy/condir,HTML,"['R', 'HTML']",1,0,0,265,2,0,0,0
+logbin,https://github.com/mdonoghoe/logbin,R,['R'],2,1,0,89,1,0,0,0
+ImaginR,https://github.com/PLStenger/ImaginR,R,['R'],0,0,0,5,1,0,0,0
+rgabriel,https://github.com/yufree/rgabriel,R,['R'],4,1,0,22,4,0,0,0
+icsw,https://github.com/kylepeyton/icsw,R,['R'],2,0,0,16,1,0,0,0
+DiversityOccu,https://github.com/derek-corcoran-barrios/DiversityOccu,R,['R'],1,1,2,53,3,0,0,0
+RNRCS,https://github.com/rhlee12/RNRCS,R,['R'],0,0,0,26,3,0,0,0
+libstableR,https://github.com/swihart/libstableR,C,"['C', 'R', 'C++']",0,0,1,8,3,0,0,1
+ldbod,https://github.com/kwilliams83/ldbod,R,['R'],1,1,0,65,3,0,0,0
+EpiModel,https://github.com/statnet/EpiModel,R,"['R', 'CSS']",3,24,9,1188,7,0,4,50
+prisonbrief,https://github.com/danilofreire/prisonbrief,R,"['TeX', 'R']",0,3,0,47,4,0,0,0
+spectrino,https://github.com/cran/spectrino,R,['R'],2,0,0,1,1,0,0,0
+qmethod,https://github.com/aiorazabala/qmethod,R,['R'],3,21,9,225,4,1,6,20
+enveomics,https://github.com/lmrodriguezr/enveomics,Ruby,"['Shell', 'Makefile', 'Perl', 'R', 'Awk', 'Ruby']",4,10,16,539,2,0,0,2
+miRNAss,https://github.com/cyones/miRNAss,R,"['C', 'R', 'C++']",1,0,0,63,2,0,0,0
+BoolFilter,https://github.com/levimcclenny/BoolFilter,R,"['TeX', 'R', 'HTML', 'CSS']",0,0,1,49,4,0,0,4
+coxphMIC,https://github.com/xgsu/coxphMIC,R,['R'],0,0,0,1,1,0,0,0
+easycsv,https://github.com/bogind/easycsv,R,['R'],0,2,0,61,4,0,0,0
+colorplaner,https://github.com/wmurphyrd/colorplaner,R,['R'],1,20,1,124,1,0,0,15
+parallelDist,https://github.com/alexeckert/parallelDist,C++,"['R', 'C++']",0,5,0,13,1,0,0,0
+eurostat,https://github.com/rOpenGov/eurostat,R,"['R', 'Shell']",3,77,20,569,11,0,0,10
+rexpokit,https://github.com/nmatzke/rexpokit,Fortran,"['C', 'Shell', 'C++', 'TeX', 'Fortran', 'R']",3,0,1,64,4,0,0,2
+mbbefd,https://github.com/spedygiorgio/mbbefd,R,"['R', 'C++']",2,3,5,195,4,0,0,0
+fastcluster,https://github.com/dmuellner/fastcluster,C++,"['Python', 'Batchfile', 'Shell', 'PowerShell', 'C++']",2,7,5,40,3,1,1,2
+MittagLeffleR,https://github.com/strakaps/MittagLeffleR,R,['R'],0,1,0,35,2,0,0,0
+MANOVA.RM,https://github.com/smn74/MANOVA.RM,R,['R'],0,0,0,8,1,0,0,0
+naptime,https://github.com/russellpierce/naptime,R,['R'],1,6,3,90,1,1,2,5
+RQGIS,https://github.com/jannes-m/RQGIS,R,"['Python', 'R', 'Shell']",1,133,30,1007,13,0,2,29
+STEPCAM,https://github.com/thijsjanzen/STEPCAM,R,['R'],1,4,0,65,1,0,0,0
+water,https://github.com/midraed/water,R,['R'],2,8,9,474,8,0,0,5
+nimble,https://github.com/nimble-dev/nimble,C++,"['C', 'Shell', 'CMake', 'Roff', 'Makefile', 'C++', 'TeX', 'M4', 'Batchfile', 'R']",3,46,11,2782,14,6,19,231
+mev,https://github.com/lbelzile/mev,R,"['C', 'R', 'C++']",1,0,0,27,2,0,0,0
+rpostgis,https://github.com/mablab/rpostgis,R,['R'],2,29,3,278,3,0,2,1
+ggmuller,https://github.com/robjohnnoble/ggmuller,HTML,"['R', 'HTML']",1,27,0,108,2,0,0,1
+denoiSeq,https://github.com/buriom/denoiSeq,R,['R'],0,0,0,21,2,0,0,0
+collapsibleTree,https://github.com/AdeelK93/collapsibleTree,HTML,"['R', 'JavaScript', 'HTML', 'CSS']",0,35,7,90,2,0,0,2
+data.tree,https://github.com/gluc/data.tree,R,['R'],2,100,19,483,7,0,5,7
+TAR,https://github.com/hanwengutierrez/TAR,R,['R'],1,0,0,11,2,0,0,0
+admixture_graph,https://github.com/mailund/admixture_graph,R,['R'],2,11,3,390,5,0,1,2
+simstudy,https://github.com/kgoldfeld/simstudy,R,"['R', 'C++']",1,3,1,102,4,0,0,2
+ecospat,https://github.com/vdicolab/ecospat,R,['R'],3,3,0,122,3,0,0,3
+R-Binding,https://github.com/rosette-api/R-Binding,R,['R'],1,5,6,120,12,0,4,24
+weightTAPS,https://github.com/carlson9/weightTAPS,R,"['R', 'HTML', 'CSS']",2,0,0,19,2,0,0,0
+glm.predict,https://github.com/benjaminschlegel/glm.predict,R,"['R', 'Rebol']",2,0,0,65,2,0,0,0
+treeman,https://github.com/DomBennett/treeman,R,"['C', 'R']",2,3,0,346,2,0,0,0
+ForestTools,https://github.com/AndyPL22/ForestTools,R,['R'],1,1,4,27,2,0,1,1
+brms,https://github.com/paul-buerkner/brms,R,"['TeX', 'Stan', 'R', 'HTML']",2,217,24,2751,9,0,1,25
+R-Wmisc,https://github.com/wamserma/R-wmisc,R,"['R', 'C++']",1,0,0,100,1,0,0,6
+Rga4gh,https://github.com/cran/Rga4gh,R,['R'],1,0,1,1,1,1,0,0
+sNPLS,https://github.com/David-Hervas/sNPLS,R,['R'],0,0,0,49,1,0,0,0
+GerminaR,https://github.com/Flavjack/GerminaR,R,"['R', 'CSS']",1,1,0,152,6,0,0,0
+RMallet,https://github.com/mimno/RMallet,R,"['R', 'HTML']",3,18,5,26,4,1,1,4
+readOffice,https://github.com/bmewing/readOffice,R,['R'],0,2,1,20,1,0,1,2
+aidar,https://github.com/apfeiffer1/aidar,R,['R'],4,0,0,19,1,0,0,0
+snakecase,https://github.com/Tazinho/snakecase,R,['R'],0,28,1,389,2,0,0,3
+manhattanly,https://github.com/sahirbhatnagar/manhattanly,R,"['R', 'Shell']",1,30,11,77,5,0,0,5
+gputools,https://github.com/nullsatz/gputools,C++,"['C', 'Shell', 'C++', 'M4', 'R', 'Cuda']",5,57,27,79,1,0,2,0
+JSM,https://github.com/helenxu/JSM,R,"['C', 'R', 'C++']",0,1,0,3,1,0,0,0
+nodiv,https://github.com/mkborregaard/nodiv,R,['R'],3,1,2,132,3,0,1,0
+passport,https://github.com/alistaire47/passport,R,['R'],0,18,0,47,1,0,0,0
+rpsftm,https://github.com/shug0131/rpsftm,R,['R'],2,1,1,138,3,0,0,0
+heplots,https://github.com/friendly/heplots,R,['R'],4,0,0,311,4,0,0,0
+selectr,https://github.com/sjp/selectr,R,"['R', 'Makefile']",5,12,2,53,2,0,1,2
+LEGIT,https://github.com/AlexiaJM/LEGIT,R,['R'],0,3,0,81,1,0,0,0
+KoNLP,https://github.com/haven-jeon/KoNLP,HTML,"['R', 'Java', 'HTML']",6,98,43,239,10,1,0,1
+qicharts2,https://github.com/anhoej/qicharts2,R,['R'],0,8,1,114,2,0,0,0
+jmv,https://github.com/jamovi/jmv,R,"['R', 'JavaScript']",1,7,6,370,6,1,11,109
+spduration,https://github.com/andybega/spduration,R,"['C', 'R', 'C++']",5,2,0,182,4,0,0,0
+easypackages,https://github.com/jakesherman/easypackages,R,['R'],1,5,1,7,1,0,0,0
+sequoia,https://github.com/JiscaH/sequoia,R,['R'],1,1,1,89,1,0,0,0
+STMedianPolish,https://github.com/WilliamAMartinez/STMedianPolish,R,['R'],0,0,0,5,2,0,0,0
+multcompview,https://github.com/lselzer/multcompview,R,"['R', 'PHP']",0,0,0,25,3,0,0,0
+MVN,https://github.com/selcukorkmaz/MVN,R,['R'],2,0,0,65,2,0,0,0
+parsemsf,https://github.com/benjaminjack/parsemsf,R,['R'],2,0,0,58,3,0,0,0
+flora,https://github.com/gustavobio/flora,R,['R'],3,11,4,86,2,0,0,0
+dataPreparation,https://github.com/ELToulemonde/dataPreparation,R,"['R', 'HTML']",0,5,3,59,3,0,3,22
+phonR,https://github.com/drammock/phonR,R,['R'],5,9,3,364,2,1,0,1
+blsAPI,https://github.com/mikeasilva/blsAPI,R,['R'],3,33,6,41,3,0,0,4
+titrationCurves,https://github.com/dtharvey/titrationCurves,R,['R'],1,1,1,18,1,0,0,0
+Momocs,https://github.com/vbonhomme/Momocs,R,"['R', 'PLSQL']",3,22,11,1173,5,0,0,6
+DataClean,https://github.com/XiaoruiZhu/DataClean,R,['R'],2,0,0,43,3,0,0,0
+sensus,https://github.com/predictive-technology-laboratory/sensus,C#,"['C#', 'Python', 'R', 'Shell']",3,22,24,1622,7,3,18,70
+mp,https://github.com/fatore/mp,R,"['R', 'Makefile', 'C++']",3,2,0,92,4,0,0,3
+MIAmaxent,https://github.com/julienvollering/MIAmaxent,R,['R'],1,2,1,320,2,0,0,0
+regexPipes,https://github.com/wbuchanan/regexPipes,R,['R'],1,3,0,4,2,0,0,0
+datafsm,https://github.com/jonathan-g/datafsm,R,"['R', 'C++']",0,2,0,186,5,0,0,0
+vistime,https://github.com/shosaco/vistime,R,['R'],0,10,1,111,3,0,0,0
+magclass,https://github.com/pik-piam/magclass,R,['R'],0,0,0,48,8,0,0,0
+unmarked,https://github.com/rbchan/unmarked,R,"['C', 'R', 'C++']",7,17,17,1447,17,0,4,14
+ProjectTemplate,https://github.com/johnmyleswhite/ProjectTemplate,R,"['HTML', 'JavaScript', 'Makefile', 'R', 'Ruby', 'CSS']",7,493,139,628,20,7,21,82
+Rvcg,https://github.com/zarquon42b/Rvcg,C++,"['GLSL', 'C', 'Shell', 'CMake', 'QMake', 'HTML', 'C++', 'R', 'CSS']",4,7,4,692,4,0,2,1
+sglOptim,https://github.com/vincent-dk/sglOptim,C++,"['C', 'R', 'C++']",2,6,0,253,1,0,0,0
+rtimicropem,https://github.com/ropensci/rtimicropem,R,"['TeX', 'R']",1,8,4,203,4,0,0,3
+vetools,https://github.com/talassio/vetools,R,['R'],3,1,1,65,3,0,0,0
+esvis,https://github.com/DJAnderson07/esvis,R,['R'],0,5,0,214,1,0,0,0
+AnglerCreelSurveySimulation,https://github.com/stevenranney/AnglerCreelSurveySimulation,R,['R'],2,0,0,34,2,0,0,0
+mapa,https://github.com/trnnick/mapa,R,['R'],1,7,0,39,1,0,0,0
+qqplotr,https://github.com/aloy/qqplotr,HTML,['R'],0,7,0,96,4,0,0,0
+popcycle,https://github.com/uwescience/popcycle,R,"['Python', 'R', 'Shell', 'HTML']",3,7,6,541,11,0,0,6
+hyper2,https://github.com/RobinHankin/hyper2,R,"['C', 'R', 'C++']",0,0,0,19,1,0,0,0
+dggridR,https://github.com/r-barnes/dggridR,C++,"['Python', 'C', 'R', 'C++']",1,39,2,304,1,0,0,0
+episensr,https://github.com/dhaine/episensr,R,['R'],2,0,0,422,1,0,0,0
+CrossVA,https://github.com/SwissTPH/CrossVA,R,['R'],1,0,3,60,6,0,0,1
+JuliaCall,https://github.com/Non-Contradiction/JuliaCall,R,"['R', 'Julia', 'C++']",0,16,0,553,3,0,0,6
+SpecsVerification,https://github.com/sieste/SpecsVerification,R,"['C', 'R', 'Makefile', 'C++']",1,0,0,90,2,0,0,0
+gWQS,https://github.com/cran/gWQS,HTML,"['R', 'HTML']",1,0,0,1,1,0,0,0
+musica,https://github.com/hanel/musica,R,"['C', 'R', 'HTML']",1,0,1,11,1,0,0,0
+spatialsegregation,https://github.com/antiphon/spatialsegregation,C++,"['R', 'C++']",2,0,0,4,1,0,0,0
+diceR,https://github.com/AlineTalhouk/diceR,R,"['R', 'C++']",1,8,2,817,6,0,1,21
+wikitaxa,https://github.com/ropensci/wikitaxa,R,['R'],1,5,1,58,3,0,0,1
+smoof,https://github.com/jakobbossek/smoof,R,"['Python', 'C', 'R', 'C++']",3,10,10,450,10,0,2,11
+TSMN,https://github.com/EBDAF1/TSMN,R,['R'],0,0,0,3,1,0,0,0
+docstring,https://github.com/Dasonk/docstring,R,['R'],0,15,1,61,2,1,1,1
+nonlinearTseries,https://github.com/constantino-garcia/nonlinearTseries,C++,"['Objective-C', 'R', 'C', 'C++']",0,1,1,84,3,0,0,0
+rwtss,https://github.com/albhasan/rwtss,R,['R'],3,2,0,22,3,0,0,0
+waver,https://github.com/pmarchand1/waver,R,['R'],2,2,1,36,2,0,0,0
+sophisthse,https://github.com/bdemeshev/sophisthse,HTML,"['R', 'HTML']",3,1,4,96,1,0,0,17
+quandl-r,https://github.com/quandl/quandl-r,R,['R'],4,83,39,214,11,0,8,34
+pixiedust,https://github.com/nutterb/pixiedust,HTML,"['R', 'HTML']",2,125,14,273,6,0,3,25
+nowcasting,https://github.com/nmecsys/nowcasting,R,['R'],0,2,0,12,3,0,0,0
+piecewiseSEM,https://github.com/jslefche/piecewiseSEM,R,['R'],3,34,13,506,4,1,0,5
+TanB,https://github.com/TrigonometricDistribution/TanB,R,['R'],1,0,0,10,2,0,0,0
+gamlss.spatial,https://github.com/fdebastiani/gamlss.spatial,R,['R'],1,0,0,9,1,0,0,0
+stplanr,https://github.com/ropensci/stplanr,R,"['R', 'Makefile', 'C++']",2,84,26,1232,20,0,6,162
+gaiah,https://github.com/eriqande/gaiah,R,['R'],1,0,0,62,1,0,0,0
+bipartite,https://github.com/biometry/bipartite,R,"['C', 'HTML', 'Makefile', 'C++', 'TeX', 'R', 'CSS']",3,2,2,76,4,0,1,0
+sparsevar,https://github.com/svazzole/sparsevar,R,['R'],1,1,1,236,2,0,0,0
+generalhoslem,https://github.com/matthewjay15/generalhoslem,R,['R'],1,0,0,73,1,0,1,2
+mafs,https://github.com/sillasgonzaga/mafs,R,['R'],1,16,4,62,3,0,0,1
+colr,https://github.com/1na/colr,HTML,"['R', 'HTML']",1,0,0,13,1,0,0,0
+evolvability,https://github.com/GHBolstad/evolvability,R,['R'],1,0,0,7,2,0,0,0
+redlistr,https://github.com/red-list-ecosystem/redlistr,R,['R'],1,7,3,137,5,1,0,2
+DOQTL,https://github.com/dmgatti/DOQTL,R,"['C', 'R']",4,8,12,145,4,2,0,0
+qgglmm,https://github.com/devillemereuil/QGglmm,R,['R'],2,4,1,116,2,0,1,5
+vipor,https://github.com/sherrillmix/vipor,R,"['R', 'Makefile']",2,11,1,169,3,0,0,0
+bossMaps,https://github.com/cran/bossMaps,HTML,"['R', 'HTML']",1,0,0,1,1,0,0,0
+stylo,https://github.com/computationalstylistics/stylo,R,['R'],4,31,15,182,6,0,0,9
+desctable,https://github.com/MaximeWack/desctable,HTML,"['R', 'HTML']",1,34,2,268,1,0,1,0
+wbstats,https://github.com/GIST-ORNL/wbstats,R,['R'],1,45,9,37,2,0,0,1
+MCMCvis,https://github.com/caseyyoungflesh/MCMCvis,R,['R'],1,11,0,364,3,0,0,1
+childsds,https://github.com/mvogel78/childsds,R,['R'],0,0,0,89,2,0,0,0
+texPreview,https://github.com/metrumresearchgroup/texPreview,HTML,"['HTML', 'JavaScript', 'Makefile', 'TeX', 'R', 'Ruby', 'CSS']",0,17,1,74,4,0,1,1
+fetchR,https://github.com/blasee/fetchR,R,['R'],3,0,0,160,3,0,0,3
+gramEvol,https://github.com/fnoorian/gramEvol,R,['R'],2,3,4,108,3,0,0,1
+aprof,https://github.com/MarcoDVisser/aprof,R,['R'],4,21,1,164,4,0,0,2
+ggplotgui,https://github.com/gertstulp/ggplotgui,R,['R'],0,33,5,59,2,0,0,0
+rcpp_progress,https://github.com/kforner/rcpp_progress,C++,"['R', 'Makefile', 'C++']",3,14,3,99,7,0,1,5
+RConics,https://github.com/emanuelhuber/RConics,R,['R'],0,0,0,2,1,0,0,0
+Rcssplot,https://github.com/tkonopka/Rcssplot,R,['R'],2,4,4,60,5,0,2,4
+qtlhot,https://github.com/byandell/qtlhot,R,"['R', 'C', 'Shell']",6,2,1,42,1,0,0,0
+forestFloor,https://github.com/sorhawell/forestFloor,R,"['R', 'C++']",2,25,5,346,4,0,0,3
+zFactor,https://github.com/f0nzie/zFactor,HTML,"['TeX', 'R', 'HTML']",0,3,3,745,8,0,0,0
+mets,https://github.com/kkholst/mets,R,"['C', 'C++', 'Fortran', 'HTML', 'R', 'CSS']",3,1,0,1397,3,0,0,0
+rxylib,https://github.com/R-Lum/rxylib,C++,"['R', 'Shell', 'C++']",0,2,0,132,5,0,0,0
+ltxsparklines,https://github.com/borisveytsman/ltxsparklines,R,['R'],1,3,0,13,1,0,0,0
+tsDyn,https://github.com/MatthieuStigler/tsDyn,R,"['TeX', 'C', 'R']",8,11,6,928,15,0,0,1
+HistDAWass,https://github.com/Airpino/HistDAWass,R,"['R', 'C++']",2,1,0,12,2,0,0,0
+catenary,https://github.com/jonotuke/catenary,R,"['TeX', 'R', 'Matlab']",1,0,0,1,1,0,0,0
+fChange,https://github.com/SonmezOzan/fChange,R,['R'],0,0,0,2,1,0,0,0
+PWFSLSmoke,https://github.com/MazamaScience/PWFSLSmoke,R,"['R', 'Makefile']",1,3,1,483,6,0,0,0
+strvalidator,https://github.com/OskarHansson/strvalidator,R,['R'],4,1,0,72,2,0,0,0
+pknca,https://github.com/billdenney/pknca,R,['R'],3,6,6,227,2,0,0,0
+damisc,https://github.com/davidaarmstrong/damisc,R,['R'],3,0,2,55,4,0,0,0
+marcher,https://github.com/EliGurarie/marcher,HTML,"['R', 'HTML']",0,1,1,23,4,0,1,4
+tidytext,https://github.com/juliasilge/tidytext,R,"['TeX', 'R']",1,532,93,395,14,6,0,12
+mglmn,https://github.com/mattocci27/mglmn,R,['R'],2,0,0,23,2,0,0,0
+dtwSat,https://github.com/vwmaus/dtwSat,R,"['Fortran', 'C', 'R']",3,32,11,267,5,0,2,4
+lhmixr,https://github.com/mintoc/lhmixr,R,['R'],1,0,1,43,2,0,0,0
+rucm,https://github.com/kaushikrch/rucm,R,['R'],2,0,1,9,2,0,0,0
+edfReader,https://github.com/Pisca46/edfReader,R,['R'],1,7,1,37,1,0,0,0
+erp.easy,https://github.com/mooretm/erp.easy,R,['R'],0,0,0,4,1,0,0,0
+Sofi,https://github.com/loerasg/Sofi,R,"['R', 'CSS']",2,0,0,241,2,0,0,0
+multifwf,https://github.com/prontog/multifwf,R,['R'],2,0,0,23,1,0,0,0
+PdPDB,https://github.com/beautifulMountain/PdPDB,R,"['R', 'Shell']",1,0,0,7,2,0,0,0
+ecm,https://github.com/gaurbans/ecm,R,['R'],1,0,0,10,2,0,0,0
+bmrm,https://github.com/pradosj/bmrm,HTML,"['TeX', 'R', 'HTML']",3,0,0,240,4,0,0,0
+metacoder,https://github.com/grunwaldlab/metacoder,R,['R'],3,21,5,869,7,0,0,3
+mma,https://github.com/amoghaUdupa/mma,R,['R'],1,0,1,23,7,0,1,4
+MetaLonDA,https://github.com/aametwally/MetaLonDA,R,['R'],0,0,0,7,2,0,0,0
+DstarM,https://github.com/vandenman/DstarM,R,['R'],1,0,0,37,1,0,0,11
+geoSpectral,https://github.com/PranaGeo/geoSpectral,R,['R'],2,1,5,471,10,1,5,21
+primme,https://github.com/primme/primme,C,"['C', 'Shell', 'Python', 'Makefile', 'C++', 'Fortran', 'Objective-C', 'R', 'Matlab']",2,28,15,690,15,0,2,5
+packcircles,https://github.com/mbedward/packcircles,C++,"['C', 'R', 'C++']",2,8,3,51,2,0,0,0
+SSM,https://github.com/peterrobertcurtis/SSM,R,['R'],0,0,0,18,1,0,0,0
+waterfall,https://github.com/howardjp/waterfall,R,['R'],2,2,1,92,1,0,0,0
+selectapref,https://github.com/jcrichardson617/selectapref,R,['R'],0,0,0,7,1,0,0,0
+RcppHMM,https://github.com/robalecarova/RcppHMM,C++,"['C', 'R', 'C++']",0,0,0,6,3,1,0,2
+RWildbook,https://github.com/sjbonner/RWildbook,HTML,"['R', 'HTML']",1,0,1,77,2,0,0,3
+marmap,https://github.com/ericpante/marmap,R,['R'],3,3,1,133,8,0,0,0
+diveMove,https://github.com/spluque/diveMove,R,['R'],4,0,1,295,1,0,0,0
+prodest,https://github.com/GabrieleRovigatti/prodest,R,"['TeX', 'R', 'Stata']",1,1,2,45,3,0,0,2
+wql,https://github.com/jsta/wql,HTML,"['R', 'HTML']",0,1,0,61,3,0,0,0
+fasteraster,https://github.com/andy-bosyi/fasteraster,C++,"['R', 'C++']",1,0,0,6,2,0,0,0
+rsdmx,https://github.com/opensdmx/rsdmx,R,['R'],4,59,23,393,7,0,1,5
+validate,https://github.com/data-cleaning/validate,HTML,"['C', 'R', 'Shell', 'JavaScript', 'HTML']",3,77,12,447,7,0,0,3
+IRTpp,https://github.com/SICSresearch/IRTpp,Objective-C,"['Rebol', 'C', 'Shell', 'Makefile', 'C++', 'Objective-C', 'HTML', 'R']",1,2,0,6,1,0,0,0
+mosaicModel,https://github.com/ProjectMOSAIC/mosaicModel,R,['R'],0,1,1,55,3,0,0,0
+popEpi,https://github.com/WetRobot/popEpi,HTML,"['R', 'HTML']",2,1,0,843,6,0,0,0
+seas,https://github.com/mwtoews/seas,R,"['C', 'R']",5,5,3,12,2,0,0,0
+MAST,https://github.com/RGLab/MAST,R,['R'],5,43,19,58,5,0,0,3
+lingtypology,https://github.com/ropensci/lingtypology,R,['R'],1,17,5,333,4,0,0,2
+Delta,https://github.com/toni-1991/Delta,R,['R'],0,0,0,46,1,0,0,0
+survHE,https://github.com/giabaio/survHE,C++,"['Stan', 'R', 'Shell', 'C++']",1,6,1,141,2,0,0,10
+symmoments,https://github.com/cran/symmoments,R,['R'],3,0,0,3,0,0,0,0
+stdvectors,https://github.com/digEmAll/stdvectors,C++,"['C', 'R', 'C++']",0,2,0,15,1,0,0,0
+classiFunc,https://github.com/maierhofert/classiFunc,R,['R'],0,4,1,70,2,0,0,2
+pomp,https://github.com/kingaa/pomp,R,"['C', 'HTML', 'Makefile', 'C++', 'Rebol', 'R']",2,33,13,1978,10,0,4,4
+pipeliner,https://github.com/AlexIoannides/pipeliner,R,['R'],1,35,3,35,1,0,0,1
+spatialCovariance,https://github.com/cran/spatialCovariance,R,['R'],3,0,0,11,1,0,0,0
+ARTool,https://github.com/mjskay/ARTool,R,['R'],3,11,0,130,1,0,0,0
+edstan,https://github.com/danielcfurr/edstan,R,['R'],2,1,1,59,3,0,0,4
+valottery,https://github.com/clayford/valottery,R,['R'],2,0,0,25,1,0,0,0
+seacarb-git,https://github.com/jpgattuso/seacarb-git,R,['R'],3,1,3,195,7,1,11,33
+spsann,https://github.com/samuel-rosa/spsann,R,"['R', 'C++']",2,3,3,510,3,0,2,3
+tuckerR_mmgg,https://github.com/gusart/tuckerR_mmgg,R,['R'],3,3,0,10,1,0,0,0
+patchSynctex,https://github.com/EmmanuelCharpentier/patchSynctex,R,['R'],3,0,2,13,1,1,1,0
+rioja,https://github.com/nsj3/rioja,C++,"['C', 'R', 'C++']",3,1,0,48,2,0,0,0
+lavaan,https://github.com/yrosseel/lavaan,R,['R'],6,113,34,1181,7,0,7,28
+vcov,https://github.com/MichaelChirico/vcov,R,['R'],0,0,0,16,1,0,0,0
+vcfR,https://github.com/knausb/vcfR,R,"['R', 'Shell', 'C++']",4,33,16,1204,9,0,3,10
+wiod,https://github.com/bquast/wiod,R,['R'],2,2,4,72,2,0,0,1
+spData,https://github.com/Nowosad/spData,R,['R'],0,11,2,166,6,0,1,8
+lba,https://github.com/ivanalaman/lba,R,['R'],2,0,0,16,1,0,0,0
+raw,https://github.com/PirateGrunt/raw,HTML,"['R', 'Makefile', 'HTML', 'CSS']",4,4,2,123,7,0,2,4
+credule,https://github.com/lampalork/credule,HTML,"['C', 'R', 'HTML']",2,2,1,14,2,0,0,0
+RNewsflow,https://github.com/kasperwelbers/RNewsflow,HTML,"['TeX', 'R', 'HTML']",2,4,0,30,3,0,0,0
+splines2,https://github.com/wenjie2wang/splines2,R,"['TeX', 'R', 'Makefile']",1,2,0,189,3,0,0,0
+gsloid,https://github.com/benmarwick/gsloid,R,['R'],0,1,0,24,1,0,0,0
+surveybootstrap,https://github.com/dfeehan/surveybootstrap,R,"['R', 'C++']",2,3,1,34,2,0,0,1
+phylopath,https://github.com/Ax3man/phylopath,R,['R'],1,3,1,159,2,0,0,0
+junr,https://github.com/FvD/junr,R,['R'],1,1,0,61,3,0,0,0
+rotl,https://github.com/ropensci/rotl,R,['R'],3,18,7,747,8,0,2,11
+olsrr,https://github.com/rsquaredacademy/olsrr,R,"['C', 'R', 'C++', 'CSS']",1,30,6,186,2,0,0,2
+tcgsaseq,https://github.com/denisagniel/tcgsaseq,R,['R'],1,1,0,167,4,0,0,0
+Meiosis,https://github.com/DominikMueller64/Meiosis,R,"['C', 'R', 'C++']",0,1,0,41,2,0,0,0
+textminer,https://github.com/TommyJones/textmineR,R,"['R', 'C++']",2,46,20,253,3,0,0,10
+shinyTime,https://github.com/burgerga/shinyTime,R,"['R', 'JavaScript']",1,4,0,49,1,0,0,0
+polysat,https://github.com/lvclark/polysat,R,['R'],2,1,1,90,1,0,0,0
+mvPot,https://github.com/r-fndv/mvPot,R,"['R', 'C++']",1,0,1,27,2,0,0,0
+SOMbrero,https://github.com/tuxette/SOMbrero,R,['R'],0,1,0,138,2,0,0,0
+sft,https://github.com/jhoupt/sft,R,['R'],1,1,0,3,1,0,0,0
+assertr,https://github.com/ropensci/assertr,R,['R'],2,161,19,136,7,3,0,6
+Rexperigen,https://github.com/aquincum/Rexperigen,R,['R'],1,1,0,28,2,0,0,0
+badgecreatr,https://github.com/RMHogervorst/badgecreatr,R,"['R', 'HTML']",1,33,10,112,4,0,1,3
+univOutl,https://github.com/cran/univOutl,R,['R'],0,0,0,1,1,0,0,0
+sfc,https://github.com/ctfysh/sfc,R,['R'],1,0,1,19,1,0,0,0
+gMOIP,https://github.com/relund/gMOIP,R,['R'],0,0,0,28,1,0,0,0
+phia,https://github.com/heliosdrm/phia,R,['R'],2,3,0,43,5,0,0,1
+metafor,https://github.com/wviechtb/metafor,R,['R'],2,21,8,261,3,0,1,3
+asymLD_CRAN,https://github.com/rsingle/asymLD_CRAN,R,['R'],1,0,0,4,2,0,0,0
+trotter,https://github.com/ram6ler/trotter,R,['R'],3,3,1,22,2,0,0,0
+moveHMM,https://github.com/TheoMichelot/moveHMM,R,"['C', 'R', 'C++']",2,4,2,554,5,0,0,5
+optmatch,https://github.com/markmfredrickson/optmatch,R,"['Fortran', 'C', 'R', 'Makefile', 'C++']",6,17,6,1039,9,0,0,4
+rwirelesscom,https://github.com/algutier1/rwirelesscom,R,"['R', 'C++']",2,0,0,79,2,0,0,0
+intercure,https://github.com/JBrettas/intercure,R,['R'],1,0,0,84,2,0,0,0
+wildcard,https://github.com/wlandau/wildcard,R,['R'],0,1,0,36,2,0,0,0
+tadaatoolbox,https://github.com/tadaadata/tadaatoolbox,R,['R'],2,3,1,421,5,0,1,7
+entropart,https://github.com/EricMarcon/entropart,R,['R'],0,1,1,20,1,0,0,0
+visNetwork,https://github.com/datastorm-open/visNetwork,HTML,"['R', 'JavaScript', 'HTML', 'CSS']",2,195,46,523,9,0,1,4
+sitreeE,https://github.com/cantonfe/sitreeE,R,['R'],0,1,0,14,2,0,0,0
+randomizr,https://github.com/DeclareDesign/randomizr,R,"['R', 'C', 'Shell']",3,7,3,120,7,0,1,4
+AdhereR,https://github.com/ddediu/AdhereR,R,['R'],0,7,0,6,1,0,0,0
+heuristica,https://github.com/jeanimal/heuristica,R,['R'],2,4,2,1001,5,0,0,0
+nadiv,https://github.com/matthewwolak/nadiv,R,"['C', 'R', 'C++']",2,4,2,407,3,0,0,11
+SharpeR,https://github.com/shabbychef/SharpeR,R,"['Shell', 'Makefile', 'M4', 'Jupyter Notebook', 'Rebol', 'R']",5,5,7,307,4,0,0,1
+lme4,https://github.com/lme4/lme4,HTML,"['R', 'Shell', 'Makefile', 'HTML', 'C++']",5,250,82,2003,30,2,5,34
+prodigenr,https://github.com/lwjohnst86/prodigenr,R,"['TeX', 'R']",2,6,1,151,1,0,0,0
+texmex,https://github.com/harrysouthworth/texmex,R,"['C', 'R']",3,2,2,1008,12,0,0,11
+brainGraph,https://github.com/cwatson/brainGraph,R,['R'],2,17,5,214,1,0,0,0
+rtrie,https://github.com/ezgraphs/rtrie,R,['R'],0,4,0,9,1,0,0,0
+geex,https://github.com/bsaul/geex,R,['R'],1,0,2,522,3,0,0,8
+KScorrect,https://github.com/pnovack-gottshall/KScorrect,R,['R'],2,1,1,74,2,0,0,0
+tcr,https://github.com/imminfo/tcr,R,"['R', 'C++']",4,19,8,343,7,2,2,34
+l2boost,https://github.com/ehrlinger/l2boost,R,['R'],5,3,1,30,2,0,0,1
+factorMerger,https://github.com/MI2DataLab/factorMerger,HTML,"['TeX', 'R', 'HTML']",1,2,4,387,7,0,3,17
+libsoc,https://github.com/rikardn/libsoc,C,"['C', 'Shell', 'Python', 'Makefile', 'C++', 'Perl', 'Fortran', 'R', 'XS']",2,6,2,196,1,0,1,0
+ROpenDota,https://github.com/rosdyana/ROpenDota,R,['R'],0,0,0,30,2,0,0,0
+prereg,https://github.com/crsh/prereg,R,"['TeX', 'R']",2,12,1,25,1,0,0,0
+RcmdrPlugin.MPAStats,https://github.com/andrewheiss/RcmdrPlugin.MPAStats,R,['R'],5,2,4,87,5,0,1,6
+rDEA,https://github.com/jaak-s/rDEA,R,"['R', 'C', 'Shell', 'Makefile', 'C++']",3,10,6,144,3,0,0,1
+FedData,https://github.com/ropensci/FedData,R,['R'],3,29,6,396,4,0,0,1
+iopsych,https://github.com/allengoebl/iopsych,R,['R'],1,3,0,22,3,0,0,3
+ShinyTester,https://github.com/mexindian/ShinyTester,R,['R'],1,12,1,43,3,0,0,1
+RVsharing,https://github.com/syounkin/RVsharing,R,['R'],4,0,1,262,3,0,0,0
+letsR,https://github.com/macroecology/letsR,R,['R'],3,9,3,268,6,1,1,1
+orca,https://github.com/janezd/orca,C++,"['R', 'C++']",3,0,1,44,3,0,0,0
+EMMAgeo,https://github.com/coffeemuggler/EMMAgeo,R,['R'],2,1,0,34,1,0,0,0
+pathmapping,https://github.com/stmueller/pathmapping,R,"['C', 'R']",3,2,1,14,2,0,0,0
+rdwd,https://github.com/brry/rdwd,HTML,"['TeX', 'R', 'HTML']",1,7,0,265,2,0,0,0
+treatSens,https://github.com/vdorie/treatSens,R,"['C', 'Shell', 'Makefile', 'C++', 'M4', 'R', 'Stan']",3,2,0,244,7,0,0,0
+coppeCosenzaR,https://github.com/ptaranti/coppeCosenzaR,R,['R'],0,0,0,25,4,0,0,0
+RPresto,https://github.com/prestodb/RPresto,R,"['R', 'C++']",2,64,13,164,4,2,1,50
+WRTDStidal,https://github.com/fawda123/WRTDStidal,HTML,"['R', 'HTML']",3,0,1,252,1,0,0,0
+bigstatsr,https://github.com/privefl/bigstatsr,R,"['R', 'Shell', 'C++']",1,19,4,486,3,0,1,2
+extraDistr,https://github.com/twolodzko/extraDistr,C++,"['R', 'C++']",1,8,2,331,5,0,0,2
+rdiversity,https://github.com/boydorr/rdiversity,R,['R'],1,2,3,1001,3,0,0,4
+condformat,https://github.com/zeehio/condformat,R,['R'],2,8,2,204,1,0,0,0
+simTool,https://github.com/MarselScheer/simTool,R,['R'],3,1,0,45,3,0,0,0
+speedglm,https://github.com/cran/speedglm,R,['R'],3,1,7,6,2,1,0,0
+RLogicalOps,https://github.com/cran/RLogicalOps,R,['R'],1,0,0,1,1,0,0,0
+Redmonder,https://github.com/pmdci/Redmonder,R,['R'],1,1,1,27,2,0,0,0
+likelihood,https://github.com/LMurphy186232/likelihood,HTML,"['TeX', 'R', 'HTML', 'CSS']",0,0,0,2,1,0,0,0
+radarchart,https://github.com/MangoTheCat/radarchart,R,"['R', 'JavaScript', 'HTML']",2,44,17,212,6,1,2,9
+crimelinkage,https://github.com/cran/crimelinkage,HTML,"['R', 'HTML']",2,0,1,2,1,0,0,0
+propr,https://github.com/tpq/propr,HTML,"['C', 'R', 'Rebol', 'HTML', 'C++']",1,11,3,495,2,0,1,0
+TCC,https://github.com/jqsunac/TCC,R,['R'],0,0,0,96,7,0,0,0
+net.security,https://github.com/r-net-tools/net.security,R,['R'],2,6,5,278,7,0,0,0
+clubSandwich,https://github.com/jepusto/clubSandwich,HTML,"['TeX', 'R', 'Shell', 'HTML', 'CSS']",2,13,3,447,4,0,0,8
+forestinventory,https://github.com/AndreasChristianHill/forestinventory,R,['R'],1,0,0,53,2,0,0,0
+tsensembler,https://github.com/vcerqueira/tsensembler,R,['R'],0,3,1,18,3,0,0,0
+pdR,https://github.com/tsungwu/pdR,R,['R'],0,1,0,11,2,0,0,0
+glcm,https://github.com/azvoleff/glcm,R,"['R', 'C++']",3,6,5,191,1,1,0,0
+virtualspecies,https://github.com/Farewe/virtualspecies,R,['R'],3,5,3,41,3,0,0,1
+PGRdup,https://github.com/aravind-j/PGRdup,R,"['C', 'R']",0,0,1,26,1,0,0,0
+adaptMCMC,https://github.com/scheidan/adaptMCMC,R,['R'],4,2,2,13,2,0,1,0
+Thermimage,https://github.com/gtatters/Thermimage,R,"['Perl 6', 'R', 'Shell', 'Perl']",2,9,2,168,3,0,0,0
+ircor,https://github.com/julian-urbano/ircor,R,['R'],0,2,0,19,2,0,0,0
+reghelper,https://github.com/jeff-hughes/reghelper,R,['R'],2,2,0,118,1,0,0,0
+wallace,https://github.com/wallaceEcoMod/wallace,R,"['R', 'JavaScript', 'CSS']",2,16,4,2012,13,0,3,1
+gfmR,https://github.com/bprice2652/gfmR,R,['R'],0,0,0,25,2,0,0,0
+PSF,https://github.com/neerajdhanraj/PSF,R,['R'],1,7,1,122,2,0,1,0
+pcamethods,https://github.com/hredestig/pcaMethods,R,"['R', 'C++']",1,9,1,143,12,0,0,0
+games,https://github.com/brentonk/games,R,"['TeX', 'R']",7,2,0,178,1,0,0,0
+rsatscan,https://github.com/Kenkleinman/rsatscan,R,['R'],2,3,1,6,2,0,0,0
+OPI,https://github.com/turpinandrew/OPI,R,"['R', 'Makefile']",4,5,1,123,5,1,0,0
+unpivotr,https://github.com/nacnudus/unpivotr,R,['R'],1,22,4,275,2,1,0,0
+TropFishR,https://github.com/tokami/TropFishR,R,"['TeX', 'R']",2,5,4,652,4,0,0,3
+focusedMDS,https://github.com/anders-biostat/focusedMDS,JavaScript,"['R', 'JavaScript']",1,2,0,203,4,0,0,0
+medicalrisk,https://github.com/patrickmdnet/medicalrisk,R,['R'],1,3,0,11,2,0,0,0
+raptr,https://github.com/jeffreyhanson/raptr,HTML,"['C', 'R', 'Makefile', 'HTML', 'C++']",2,1,0,349,4,0,0,0
+rpf,https://github.com/jpritikin/rpf,R,"['C', 'Shell', 'Emacs Lisp', 'C++', 'GDB', 'R']",2,0,0,403,3,0,0,0
+enviMass,https://github.com/blosloos/enviMass,R,"['R', 'C++']",3,0,2,467,3,0,0,3
+clust,https://github.com/BaselAbujamous/clust,Python,['Python'],0,22,2,128,3,0,0,3
+prettymapr,https://github.com/paleolimbot/prettymapr,R,['R'],2,12,1,53,2,0,0,1
+spaero,https://github.com/e3bo/spaero,R,"['C', 'R']",0,0,1,142,1,1,0,0
+missForest,https://github.com/stekhoven/missForest,R,['R'],5,16,4,37,4,0,0,0
+fuser,https://github.com/FrankD/fuser,R,"['R', 'C++']",1,4,1,22,3,0,0,0
+Pstat,https://github.com/cran/Pstat,R,['R'],0,0,0,3,1,0,0,0
+ecolottery,https://github.com/frmunoz/ecolottery,R,['R'],0,4,0,446,12,0,0,0
+taber,https://github.com/restonslacker/taber,R,['R'],2,5,0,15,1,0,0,0
+mvtboost,https://github.com/patr1ckm/mvtboost,R,['R'],2,13,12,344,3,0,0,5
+metacom,https://github.com/taddallas/metacom,R,['R'],4,4,6,102,5,0,1,5
+homeR,https://github.com/neurobat/homeR,R,['R'],6,2,1,36,1,0,1,1
+ApacheLogProcessor,https://github.com/diogosmendonca/ApacheLogProcessor,R,['R'],2,5,1,9,4,0,0,0
+tweet2r,https://github.com/pauarago/tweet2r,R,['R'],2,1,0,22,2,0,0,0
+mdatools,https://github.com/svkucheryavski/mdatools,R,['R'],4,5,2,161,1,0,1,0
+VineCopula,https://github.com/tnagler/VineCopula,R,"['C', 'R', 'C++']",2,12,14,457,13,0,2,19
+squash,https://github.com/aroneklund/squash,R,['R'],2,0,0,6,1,0,0,0
+bmlm,https://github.com/mvuorre/bmlm,R,"['Stan', 'R', 'Shell', 'C++']",1,9,1,161,3,0,0,0
+CORElearn,https://github.com/rmarko/CORElearn,C++,"['R', 'C', 'Shell', 'C++']",1,0,0,3,2,0,0,0
+rWind,https://github.com/jabiologo/rWind,R,['R'],0,1,1,75,4,0,0,6
+rospca,https://github.com/TReynkens/rospca,R,['R'],1,5,2,79,2,0,0,0
+waccR,https://github.com/RobertMyles/waccR,R,['R'],0,0,0,10,2,0,0,0
+RankingProject,https://github.com/civilstat/RankingProject,R,['R'],0,1,0,45,1,0,0,0
+bigReg,https://github.com/dataPulverizer/bigReg,R,"['C', 'R', 'C++']",1,0,0,1,1,0,0,0
+anchoredDistr,https://github.com/hsavoy/anchoredDistr,R,['R'],1,1,0,16,1,0,0,0
+luxlogr,https://github.com/bpbond/luzlogr,R,['R'],2,5,0,65,1,0,0,0
+epanetReader,https://github.com/bradleyjeck/epanetReader,R,['R'],2,7,5,135,3,0,0,16
+MissingDataGUI,https://github.com/chxy/MissingDataGUI,R,['R'],6,5,0,155,3,0,0,0
+optimization,https://github.com/kaihusmann/optimization,R,"['R', 'C++']",1,0,0,93,2,0,0,0
+rbi,https://github.com/libbi/RBi,R,['R'],4,9,5,796,7,0,1,1
+healthcareai-r,https://github.com/HealthCatalyst/healthcareai-r,HTML,"['R', 'HTML', 'PowerShell']",1,72,45,1655,25,4,18,153
+graph-kernels,https://github.com/mahito-sugiyama/graph-kernels,C++,"['C', 'R', 'Makefile', 'C++']",2,22,10,22,2,0,0,1
+exactLoglinTest,https://github.com/bcaffo/exactLoglinTest,R,"['C', 'R']",5,3,3,9,1,0,0,0
+PhyInformR,https://github.com/carolinafishes/PhyInformR,R,['R'],1,0,0,10,2,0,0,0
+gnm,https://github.com/hturner/gnm,R,"['C', 'R']",0,0,0,534,2,0,0,0
+incR,https://github.com/PabloCapilla/incR,R,['R'],1,0,0,84,3,0,0,1
+modelwordcloud,https://github.com/datarobot/modelwordcloud,R,['R'],0,1,0,42,2,0,0,5
+CRAN_deepboost,https://github.com/dmarcous/CRAN_deepboost,C++,"['C', 'R', 'C++']",1,17,3,109,9,0,0,3
+prevalence,https://github.com/brechtdv/prevalence,R,['R'],4,1,2,97,2,0,0,0
+paleotree,https://github.com/dwbapst/paleotree,R,['R'],5,8,3,534,1,0,0,2
+sitar,https://github.com/statist7/sitar,R,['R'],4,2,1,431,2,0,1,0
+treespace,https://github.com/thibautjombart/treespace,HTML,"['C++', 'R', 'HTML', 'CSS']",0,3,1,24,3,0,0,0
+sparsediscrim,https://github.com/ramhiser/sparsediscrim,R,['R'],7,7,2,258,2,0,0,0
+ARCO,https://github.com/gabrielrvsc/ARCO,R,['R'],1,0,3,107,2,0,0,1
+analysis_tools,https://github.com/paleobiodb/analysis_tools,R,['R'],3,6,4,42,4,0,0,3
+sperrorest,https://github.com/pat-s/sperrorest,R,['R'],1,6,2,806,2,0,2,19
+recexcavAAR,https://github.com/ISAAKiel/recexcavAAR,R,"['C', 'R', 'C++']",1,3,1,135,2,0,0,0
+plotrr,https://github.com/cdcrabtree/plotrr,R,"['TeX', 'R', 'Rebol']",0,3,2,99,3,0,0,2
+shopifyr,https://github.com/charliebone/shopifyr,R,['R'],3,5,3,32,1,0,0,0
+IndianTaxCalc,https://github.com/iamsulthan/IndianTaxCalc,R,['R'],0,3,0,10,1,0,0,0
+PASWR2,https://github.com/alanarnholt/PASWR2,R,['R'],4,0,2,117,2,0,0,0
+SocialMediaLab,https://github.com/vosonlab/SocialMediaLab,R,['R'],2,26,12,168,4,0,1,3
+speciesgeocodeR,https://github.com/azizka/speciesgeocodeR,R,['R'],2,2,0,72,2,0,0,0
+drLumi,https://github.com/cran/drLumi,R,['R'],2,1,0,1,0,0,0,0
+plater,https://github.com/ropenscilabs/plater,R,"['TeX', 'R', 'HTML']",2,11,1,267,3,0,0,2
+prcr,https://github.com/jrosen48/prcr,R,['R'],1,0,0,219,1,0,1,1
+x12GUI,https://github.com/statistikat/x12GUI,R,['R'],4,2,0,49,5,0,0,0
+treeclim,https://github.com/cszang/treeclim,R,"['R', 'Makefile', 'C++']",3,2,1,290,3,0,0,0
+templates,https://github.com/wahani/templates,R,['R'],1,2,1,23,2,0,0,0
+clinPK,https://github.com/ronkeizer/clinPK,R,['R'],0,2,1,15,1,0,0,0
+mockery,https://github.com/n-s-f/mockery,R,['R'],1,21,1,119,5,0,0,12
+shinyjqui,https://github.com/Yang-Tang/shinyjqui,R,"['R', 'JavaScript']",0,54,14,54,4,0,0,0
+ldatuning,https://github.com/nikita-moor/ldatuning,R,['R'],2,19,3,39,2,0,0,0
+pifpaf,https://github.com/INSP-RH/pifpaf,HTML,"['R', 'HTML']",1,0,0,501,2,0,0,0
+tRophicPosition,https://github.com/clquezada/tRophicPosition,R,['R'],1,6,0,205,3,0,4,80
+dicionariosIBGE,https://github.com/arademaker/dicionariosIBGE,R,"['R', 'Perl']",6,9,8,70,4,0,2,0
+ElastH,https://github.com/Figuera/ElastH,R,['R'],0,0,0,6,2,0,0,0
+funtimes,https://github.com/vlyubchich/funtimes,R,"['Python', 'R']",1,0,14,52,6,0,2,3
+SixSigma,https://github.com/emilopezcano/SixSigma,R,['R'],3,1,3,64,4,0,0,0
+diskImageR,https://github.com/acgerstein/diskImageR,HTML,"['R', 'HTML']",2,1,2,490,3,0,0,1
+NIPTeR,https://github.com/molgenis/NIPTeR,R,['R'],2,6,10,14,3,0,0,5
+QFASA,https://github.com/justinkamerman/QFASA,Jupyter Notebook,"['Jupyter Notebook', 'R', 'Makefile']",1,0,0,43,1,0,0,0
+WikidataQueryServiceR,https://github.com/bearloga/WikidataQueryServiceR,R,['R'],0,12,0,16,1,0,0,1
+scenario,https://github.com/swd-turner/scenario,R,['R'],1,0,1,8,1,0,0,0
+score-project,https://github.com/JWiley/score-project,R,"['R', 'JavaScript', 'HTML']",2,0,0,45,2,0,0,0
+normalr,https://github.com/kcha193/normalr,R,['R'],1,2,0,24,1,0,0,0
+TSPred,https://github.com/RebeccaSalles/TSPred,R,['R'],1,0,1,58,1,0,0,0
+networktools,https://github.com/paytonjjones/networktools,R,['R'],0,2,1,68,1,0,0,0
+logOfGamma,https://github.com/philliplab/logOfGamma,R,['R'],0,0,0,4,1,0,0,0
+MTSYS,https://github.com/okayaa/MTSYS,R,['R'],0,0,0,12,1,0,0,0
+discord,https://github.com/smasongarrison/discord,R,['R'],1,0,0,17,2,0,0,0
+RcouchDB,https://github.com/xrayresearch/RcouchDB,HTML,"['R', 'HTML']",3,1,1,41,4,0,0,2
+DRR,https://github.com/gdkrmr/DRR,R,['R'],1,1,1,29,1,0,0,0
+rmumps,https://github.com/sgsokol/rmumps,C,"['C', 'Shell', 'CMake', 'Makefile', 'C++', 'Yacc', 'Fortran', 'Objective-C', 'Batchfile', 'Lex', 'R']",2,4,0,72,1,0,0,0
+sensiPhy,https://github.com/paternogbc/sensiPhy,R,['R'],3,5,4,1375,9,0,6,42
+sdef,https://github.com/cran/sdef,R,['R'],3,0,1,7,2,0,0,0
+missRanger,https://github.com/mayer79/missRanger,R,"['R', 'HTML', 'CSS']",1,9,2,38,5,0,0,2
+neotoma,https://github.com/ropensci/neotoma,R,['R'],4,17,14,754,10,0,6,118
+tci,https://github.com/ms609/tci,R,['R'],1,0,0,27,1,0,0,0
+CharFun,https://github.com/Simkova/CharFun,R,['R'],0,0,1,80,4,0,2,1
+xesreadR,https://github.com/gertjanssenswillen/xesreadR,R,"['R', 'HTML']",0,1,1,6,2,0,0,0
+shiny.semantic,https://github.com/Appsilon/shiny.semantic,CSS,"['R', 'Shell', 'JavaScript', 'CSS']",1,78,19,131,15,1,4,38
+pMineR,https://github.com/kbolab/pMineR,R,"['C', 'R', 'C++']",1,2,1,145,1,0,0,0
+midasr,https://github.com/mpiktas/midasr,R,['R'],5,21,10,410,4,0,0,9
+TransEnt,https://github.com/Healthcast/TransEnt,C++,"['C', 'R', 'Makefile', 'C++']",2,2,2,62,4,0,0,1
+RClone,https://github.com/dbailleul/RClone,R,['R'],2,3,0,113,1,0,0,0
+difNLR,https://github.com/drabinova/difNLR,R,['R'],1,2,1,54,3,0,0,5
+Robocoap,https://github.com/viraltux/Robocoap,R,['R'],0,0,0,18,1,0,0,0
+superheat,https://github.com/rlbarter/superheat,R,['R'],2,110,15,136,2,0,0,0
+gWidgets2,https://github.com/jverzani/gWidgets2,R,"['PostScript', 'R']",6,20,6,247,6,0,1,7
+DSAIDE,https://github.com/ahgroup/DSAIDE,HTML,"['TeX', 'R', 'HTML', 'CSS']",1,3,5,222,5,0,1,14
+WitOMI,https://github.com/KarasiewiczStephane/WitOMI,R,"['TeX', 'R']",0,0,1,53,3,0,1,3
+minerva,https://github.com/rsamantha/minerva,C,"['R', 'C', 'Shell']",4,2,0,65,4,0,0,0
+pse,https://github.com/andrechalom/pse,R,"['C', 'R']",2,3,0,33,2,0,0,2
+EloRating,https://github.com/gobbios/EloRating,R,"['R', 'C++']",0,0,0,38,2,0,0,0
+meshsimplification,https://github.com/10395803/meshsimplification,C++,"['C', 'Shell', 'CMake', 'Python', 'JavaScript', 'Makefile', 'C++', 'Fortran', 'R', 'Cuda', 'CSS', 'Matlab']",0,1,1,28,2,0,0,1
+FishResp,https://github.com/cran/FishResp,R,['R'],0,0,0,1,1,0,0,0
+assignPOP,https://github.com/alexkychen/assignPOP,R,['R'],1,5,0,161,1,0,0,0
+furniture,https://github.com/TysonStanley/furniture,R,['R'],1,4,1,430,1,0,0,0
+qualpalr,https://github.com/jolars/qualpalr,R,"['R', 'C++']",1,8,0,308,1,0,0,0
+patternize,https://github.com/StevenVB12/patternize,R,['R'],1,2,0,134,2,0,0,0
+gimms,https://github.com/environmentalinformatics-marburg/gimms,R,['R'],2,8,5,156,2,0,0,0
+spind,https://github.com/levisc8/spind,R,['R'],0,1,0,351,2,0,0,0
+RItools,https://github.com/markmfredrickson/RItools,R,"['R', 'Makefile']",6,10,3,336,12,0,0,2
+GSODR,https://github.com/ropensci/GSODR,R,"['TeX', 'R', 'HTML']",2,30,10,1358,6,0,0,3
+mldr.datasets,https://github.com/fdavidcl/mldr.datasets,R,['R'],0,0,0,287,2,0,0,0
+fourierin,https://github.com/cran/fourierin,HTML,"['C', 'R', 'HTML', 'C++']",1,0,0,4,1,0,0,0
+deconstructSigs,https://github.com/raerose01/deconstructSigs,R,"['R', 'JavaScript', 'HTML', 'CSS']",1,33,14,102,5,0,0,2
+vegtable,https://github.com/kamapu/vegtable,R,['R'],1,1,0,123,2,0,0,0
+REPPlab,https://github.com/fischuu/REPPlab,R,['R'],2,0,0,37,2,0,0,0
+lavaan.survey,https://github.com/daob/lavaan.survey,R,['R'],3,2,1,10,1,0,0,0
+sdmpredictors,https://github.com/lifewatch/sdmpredictors,R,['R'],2,5,0,123,2,0,0,0
+comtradr,https://github.com/ropensci/comtradr,HTML,"['R', 'HTML']",0,8,2,181,2,0,0,0
+msap,https://github.com/anpefi/msap,R,"['R', 'HTML', 'CSS']",2,0,0,50,2,0,0,0
+MixSIAR,https://github.com/brianstock/MixSIAR,R,"['TeX', 'R', 'HTML']",4,15,25,136,6,0,0,7
+linbin,https://github.com/ezwelty/linbin,R,['R'],2,1,0,29,2,0,0,0
+text2vec,https://github.com/dselivanov/text2vec,R,"['R', 'Rebol', 'C++']",2,403,76,544,9,0,3,18
+textTinyR,https://github.com/mlampros/textTinyR,R,"['M4', 'C', 'R', 'C++']",0,13,4,59,2,0,0,0
+zoon,https://github.com/zoonproject/zoon,HTML,"['R', 'Shell', 'HTML']",3,39,12,746,14,0,12,108
+imager,https://github.com/dahtah/imager,C++,"['M4', 'C', 'R', 'Shell', 'C++']",2,110,15,432,3,0,2,10
+AnnotationBustR,https://github.com/sborstein/AnnotationBustR,R,['R'],1,0,1,252,4,1,0,0
+tutorial,https://github.com/datacamp/tutorial,R,['R'],1,35,13,140,5,0,1,3
+pez,https://github.com/willpearse/pez,R,['R'],3,10,6,184,4,0,0,0
+Tides,https://github.com/tomjscox/Tides,R,['R'],0,0,0,10,1,0,0,0
+umx,https://github.com/tbates/umx,R,"['R', 'Rebol']",5,8,5,1388,6,0,2,3
+tumblR,https://github.com/AndreaCapozio/tumblR,R,['R'],1,0,0,3,1,0,0,0
+toxboot,https://github.com/ericwatt/toxboot,R,['R'],1,1,0,70,2,0,0,1
+rstackdeque,https://github.com/oneilsh/rstackdeque,R,['R'],3,24,2,30,1,0,1,0
+osmplotr,https://github.com/ropensci/osmplotr,R,"['R', 'Makefile']",1,77,15,453,6,2,1,7
+nmaINLA,https://github.com/gunhanb/nmaINLA,R,['R'],1,0,0,34,1,0,0,0
+statcheck,https://github.com/MicheleNuijten/statcheck,R,['R'],5,103,16,277,11,1,1,5
+pense-rpkg,https://github.com/dakep/pense-rpkg,R,"['M4', 'C', 'R', 'Shell', 'C++']",0,1,0,371,4,0,0,0
+Seurat,https://github.com/satijalab/seurat,R,"['R', 'Java', 'C++']",2,116,95,1242,18,2,10,16
+OOBCurve,https://github.com/PhilippPro/OOBCurve,R,['R'],0,7,0,37,2,0,0,0
+oddsratio,https://github.com/pat-s/oddsratio,R,['R'],1,14,1,341,3,0,1,29
+histmdl,https://github.com/joukewitteveen/histmdl,R,"['C', 'R']",4,1,0,8,1,0,0,0
+GADMTools,https://github.com/Epiconcept-Paris/GADMTools,R,['R'],2,0,1,49,5,0,1,0
+wordbankr,https://github.com/langcog/wordbankr,R,"['R', 'Shell']",2,8,3,82,7,0,0,1
+microPop,https://github.com/HelenKettle/microPop,R,['R'],0,1,0,7,2,0,0,0
+sqlscore,https://github.com/wwbrannon/sqlscore,R,['R'],1,6,2,162,2,0,0,2
+robustlmm,https://github.com/kollerma/robustlmm,R,"['C', 'R', 'C++']",4,8,3,57,3,0,0,1
+snpReady,https://github.com/italo-granato/snpReady,R,['R'],1,1,3,152,9,0,0,12
+soundgen,https://github.com/tatters/soundgen,HTML,"['R', 'HTML']",0,1,1,76,2,0,0,0
+scclust-R,https://github.com/fsavje/scclust-R,C,"['R', 'C', 'Shell', 'Makefile', 'C++']",1,8,1,144,2,0,0,0
+errorizer,https://github.com/ikkyle/errorizer,HTML,"['R', 'HTML']",1,0,0,33,2,0,0,0
+medicare,https://github.com/robertgambrel/medicare,R,['R'],1,0,0,79,2,0,0,0
+ciTools,https://github.com/jthaman/ciTools,R,['R'],0,87,3,227,4,0,0,7
+UNGeneAnno,https://github.com/biscuit13161/UNGeneAnno,R,['R'],1,0,0,11,1,0,0,0
+GGIR,https://github.com/wadpac/GGIR,R,"['C', 'R', 'C++']",0,9,3,394,8,0,4,10
+EstimateGroupNetwork,https://github.com/GiulioCostantini/EstimateGroupNetwork,R,['R'],0,0,0,12,1,0,0,0
+uhcplots,https://github.com/aaarchmiller/uhcplots,R,['R'],1,1,0,63,4,0,1,1
+gmse,https://github.com/bradduthie/gmse,HTML,"['C', 'HTML', 'C++', 'TeX', 'R', 'CSS']",1,1,1,1123,2,0,0,0
+plac,https://github.com/942kid/plac,C++,"['R', 'C++']",1,3,0,49,1,0,0,0
+EvolQG,https://github.com/lem-usp/EvolQG,R,"['R', 'C++']",4,4,7,574,8,0,1,58
+Rtauchen,https://github.com/cran/Rtauchen,R,['R'],1,0,0,1,1,0,0,0
+SDMPlay,https://github.com/cran/SDMPlay,HTML,"['R', 'HTML']",1,0,0,2,1,0,0,0
+NetworkComparisonTest,https://github.com/cvborkulo/NetworkComparisonTest,R,['R'],2,2,6,15,2,1,1,0
+CausalImpact,https://github.com/google/CausalImpact,R,['R'],3,723,119,55,7,4,1,4
+inspectr,https://github.com/jenitivecase/inspectr,R,['R'],0,2,0,47,3,0,0,0
+reutils,https://github.com/gschofl/reutils,R,['R'],4,6,2,53,1,0,0,0
+dissUtils,https://github.com/cran/dissUtils,R,"['C', 'R', 'C++', 'Perl']",3,0,0,2,1,0,0,0
+cati,https://github.com/adrientaudiere/cati,R,['R'],3,2,3,404,5,0,0,1
+derivmkts,https://github.com/rmcd1024/derivmkts,HTML,"['R', 'HTML']",2,9,5,104,1,0,0,0
+compareDF,https://github.com/alexsanjoseph/compareDF,R,['R'],1,22,2,111,2,0,0,0
+bdvis,https://github.com/vijaybarve/bdvis,R,['R'],4,13,4,96,3,0,0,1
+udpipe,https://github.com/bnosac/udpipe,C++,"['R', 'C++']",0,27,6,88,3,0,0,1
+countyfloods,https://github.com/rodlammers/countyfloods,R,['R'],1,2,2,120,3,0,0,0
+hei,https://github.com/timfolsom/hei,R,"['TeX', 'R']",1,0,1,92,3,0,0,7
+rAmCharts,https://github.com/datastorm-open/rAmCharts,R,"['R', 'JavaScript', 'CSS']",2,26,7,664,9,0,0,0
+respirometry,https://github.com/matthewabirk/respirometry,R,"['R', 'HTML', 'CSS']",1,0,0,10,1,0,0,0
+syuzhet,https://github.com/mjockers/syuzhet,HTML,"['R', 'HTML']",2,217,57,121,10,0,2,9
+unjoin,https://github.com/hypertidy/unjoin,R,['R'],0,5,0,38,1,0,0,0
+r4ss,https://github.com/r4ss/r4ss,R,['R'],3,9,11,1309,36,0,2,30
+rbundler,https://github.com/yoni/rbundler,Rebol,"['Rebol', 'R']",5,2,7,71,6,0,0,0
+SpatialPosition,https://github.com/Groupe-ElementR/SpatialPosition,R,['R'],2,15,3,84,6,0,0,2
+solar,https://github.com/oscarperpinan/solar,R,['R'],4,18,9,205,4,0,0,0
+prepdat,https://github.com/ayalaallon/prepdat,R,['R'],2,12,1,96,3,0,0,2
+landscapeR,https://github.com/dariomasante/landscapeR,HTML,"['C', 'R', 'HTML', 'C++']",1,0,0,51,2,0,0,0
+apng,https://github.com/qstokkink/apng,R,['R'],0,0,0,8,2,0,0,0
+versions,https://github.com/goldingn/versions,R,['R'],2,10,2,79,2,0,1,5
+popprxl,https://github.com/zkamvar/popprxl,R,['R'],2,0,1,41,2,0,0,0
+nearfar,https://github.com/joerigdon/nearfar,R,['R'],0,0,0,5,1,0,0,0
+neuroim,https://github.com/bbuchsbaum/neuroim,R,"['R', 'C++']",4,4,1,164,4,0,0,1
+containerit,https://github.com/o2r-project/containerit,R,"['R', 'Shell']",1,60,7,157,7,0,0,7
+matrixpls,https://github.com/mronkko/matrixpls,R,['R'],4,5,4,316,3,1,1,1
+intsvy,https://github.com/eldafani/intsvy,R,['R'],3,6,5,317,8,1,1,2
+GDM,https://github.com/fitzLab-AL/GDM,C++,"['C', 'R', 'C++']",2,5,2,24,3,0,1,0
+geotoolsR,https://github.com/cran/geotoolsR,R,['R'],0,0,0,1,1,0,0,0
+corrplot,https://github.com/taiyun/corrplot,R,['R'],6,120,46,296,12,2,1,43
+rvg,https://github.com/davidgohel/rvg,C++,"['R', 'C', 'Shell', 'C++']",2,17,3,235,3,1,0,1
+pim,https://github.com/CenterForStatistics-UGent/pim,R,['R'],0,3,1,12,1,0,0,2
+logitnorm,https://github.com/bgctw/logitnorm,R,['R'],1,0,0,46,3,0,0,1
+tbdiag,https://github.com/mmparker/tbdiag,R,['R'],6,0,0,201,1,0,0,2
+NetworkInference,https://github.com/desmarais-lab/NetworkInference,R,"['C', 'R', 'C++']",1,5,1,359,3,0,2,8
+diverse,https://github.com/mguevara/diverse,R,['R'],2,3,3,50,3,0,0,5
+ini,https://github.com/dvdscripter/ini,R,['R'],0,0,0,9,1,0,0,0
+LendingClub,https://github.com/kuhnrl30/LendingClub,R,"['R', 'HTML']",1,2,1,38,2,0,0,0
+hyperSpec,https://github.com/cbeleites/hyperSpec,R,"['SourcePawn', 'PLSQL', 'Makefile', 'M', 'TeX', 'Objective-C', 'HTML', 'R', 'Roff']",1,5,7,464,8,0,0,8
+RBMRB,https://github.com/kumar-physics/RBMRB,R,"['R', 'HTML', 'CSS']",1,0,0,111,4,0,0,0
+ggrepel,https://github.com/slowkow/ggrepel,R,"['Python', 'R', 'C++']",1,423,47,208,12,0,6,13
+tweenr,https://github.com/thomasp85/tweenr,R,"['C', 'R', 'C++']",1,244,22,31,7,0,0,4
+spdep,https://github.com/r-spatial/spdep,R,"['C', 'R', 'C++']",0,11,2,29,2,0,0,0
+Dark,https://github.com/emkayoh/Dark,HTML,"['R', 'HTML', 'CSS']",2,0,0,217,1,0,0,0
+dtwclust,https://github.com/asardaes/dtwclust,R,"['C', 'R', 'Matlab', 'C++']",2,71,13,1079,5,0,0,0
+Radviz,https://github.com/yannabraham/Radviz,R,['R'],2,4,0,67,1,0,0,0
+Stickbreaker,https://github.com/jtvanleuven/Stickbreaker,HTML,"['R', 'HTML']",1,0,1,50,3,0,0,4
+summarytools,https://github.com/dcomtois/summarytools,R,"['R', 'CSS']",3,36,6,188,4,0,0,1
+CopulaDTA,https://github.com/VNyaga/CopulaDTA,R,['R'],0,0,0,1,1,0,0,0
+AF,https://github.com/ElisabethDahlqwist/AF,R,['R'],0,0,0,3,1,0,0,0
+TriMatch,https://github.com/jbryer/TriMatch,R,"['TeX', 'R', 'Shell']",4,4,0,72,1,0,0,0
+mcglm,https://github.com/wbonat/mcglm,HTML,"['R', 'HTML']",1,5,1,256,4,0,0,4
+rKIN,https://github.com/salbeke/rKIN,R,['R'],0,0,0,13,2,0,0,0
+tufterhandout,https://github.com/sachsmc/tufterhandout,HTML,"['R', 'HTML', 'CSS']",3,100,21,32,3,2,0,13
+queuecomputer,https://github.com/AnthonyEbert/queuecomputer,R,"['C', 'R', 'C++']",1,8,4,191,4,0,1,10
+splot,https://github.com/miserman/splot,R,['R'],0,0,0,124,1,0,0,0
+wfindr,https://github.com/idmn/wfindr,R,['R'],1,2,0,42,2,0,0,0
+taRifx,https://github.com/gsk3/taRifx,R,['R'],5,2,1,25,2,0,0,0
+RODBCext,https://github.com/zozlak/RODBCext,HTML,"['M4', 'C', 'R', 'Shell', 'HTML']",3,13,7,80,5,0,1,5
+Barnard,https://github.com/kerguler/Barnard,R,"['C', 'R']",2,2,1,8,2,0,0,0
+geomnet,https://github.com/sctyner/geomnet,R,"['R', 'HTML', 'CSS']",3,39,9,361,5,1,2,2
+fst,https://github.com/fstpackage/fst,C,"['C', 'R', 'C++']",0,192,19,219,5,0,0,3
+R-package-zoom,https://github.com/cbarbu/R-package-zoom,R,"['R', 'Shell']",4,4,1,76,3,0,0,2
+eventstudies,https://github.com/nipfpmf/eventstudies,R,['R'],2,4,5,462,8,0,0,0
