@@ -1,6 +1,6 @@
 ## SANER 2018: How Scientists Develop Scientific Software
 
-This repository contains the main files used in the repositories analysis section of the paper. If you want to reproduce our data, please read on the steps.
+This repository contains the main files used in the repositories analysis section of the paper "How Scientists Develop Scientific Software". If you want to reproduce our data, please read on the steps.
 
 ### * Steps
 1. Clone this repository using the ```git clone https://github.com/fronchetti/SANER-2017``` command.
