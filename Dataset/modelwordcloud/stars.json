@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2017-08-17T16:29:28Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/peterhurford/following{/other_user}", 
+            "events_url": "https://api.github.com/users/peterhurford/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/peterhurford/orgs", 
+            "url": "https://api.github.com/users/peterhurford", 
+            "gists_url": "https://api.github.com/users/peterhurford/gists{/gist_id}", 
+            "html_url": "https://github.com/peterhurford", 
+            "subscriptions_url": "https://api.github.com/users/peterhurford/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/5100840?v=4", 
+            "repos_url": "https://api.github.com/users/peterhurford/repos", 
+            "received_events_url": "https://api.github.com/users/peterhurford/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/peterhurford/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "peterhurford", 
+            "type": "User", 
+            "id": 5100840, 
+            "followers_url": "https://api.github.com/users/peterhurford/followers"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2017-10-18T06:26:48Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/jeancarlozapata/following{/other_user}", 
+            "events_url": "https://api.github.com/users/jeancarlozapata/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/jeancarlozapata/orgs", 
+            "url": "https://api.github.com/users/jeancarlozapata", 
+            "gists_url": "https://api.github.com/users/jeancarlozapata/gists{/gist_id}", 
+            "html_url": "https://github.com/jeancarlozapata", 
+            "subscriptions_url": "https://api.github.com/users/jeancarlozapata/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/1937003?v=4", 
+            "repos_url": "https://api.github.com/users/jeancarlozapata/repos", 
+            "received_events_url": "https://api.github.com/users/jeancarlozapata/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/jeancarlozapata/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "jeancarlozapata", 
+            "type": "User", 
+            "id": 1937003, 
+            "followers_url": "https://api.github.com/users/jeancarlozapata/followers"
+        }
+    }
+]

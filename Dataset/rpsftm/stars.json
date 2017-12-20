@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2016-10-20T11:08:59Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/eusebe/following{/other_user}", 
+            "events_url": "https://api.github.com/users/eusebe/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/eusebe/orgs", 
+            "url": "https://api.github.com/users/eusebe", 
+            "gists_url": "https://api.github.com/users/eusebe/gists{/gist_id}", 
+            "html_url": "https://github.com/eusebe", 
+            "subscriptions_url": "https://api.github.com/users/eusebe/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/30404?v=4", 
+            "repos_url": "https://api.github.com/users/eusebe/repos", 
+            "received_events_url": "https://api.github.com/users/eusebe/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/eusebe/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "eusebe", 
+            "type": "User", 
+            "id": 30404, 
+            "followers_url": "https://api.github.com/users/eusebe/followers"
+        }
+    }
+]

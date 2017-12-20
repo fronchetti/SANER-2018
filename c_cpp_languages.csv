@@ -1,0 +1,38 @@
+"","project","url","main_language","languages","age","stars","forks","commits","newcomers","pulls_opened","pulls_closed","pulls_merged"
+"35","somoclu","https://github.com/peterwittek/somoclu","C","['C', 'Shell', 'Python', 'Makefile', 'C++', 'M4', 'Batchfile', 'Cuda', 'R', 'Matlab']",4,123,34,0,0,0,0,16
+"49","libstableR","https://github.com/swihart/libstableR","C","['C', 'R', 'C++']",0,0,1,8,3,0,0,1
+"61","parallelDist","https://github.com/alexeckert/parallelDist","C++","['R', 'C++']",0,5,0,13,1,0,0,0
+"65","fastcluster","https://github.com/dmuellner/fastcluster","C++","['Python', 'Batchfile', 'Shell', 'PowerShell', 'C++']",2,7,5,40,3,1,1,2
+"72","nimble","https://github.com/nimble-dev/nimble","C++","['C', 'Shell', 'CMake', 'Roff', 'Makefile', 'C++', 'TeX', 'M4', 'Batchfile', 'R']",3,46,11,2782,14,6,19,231
+"98","gputools","https://github.com/nullsatz/gputools","C++","['C', 'Shell', 'C++', 'M4', 'R', 'Cuda']",5,57,27,79,1,0,2,0
+"132","Rvcg","https://github.com/zarquon42b/Rvcg","C++","['GLSL', 'C', 'Shell', 'CMake', 'QMake', 'HTML', 'C++', 'R', 'CSS']",4,7,4,692,4,0,2,1
+"133","sglOptim","https://github.com/vincent-dk/sglOptim","C++","['C', 'R', 'C++']",2,6,0,253,1,0,0,0
+"142","dggridR","https://github.com/r-barnes/dggridR","C++","['Python', 'C', 'R', 'C++']",1,39,2,304,1,0,0,0
+"149","spatialsegregation","https://github.com/antiphon/spatialsegregation","C++","['R', 'C++']",2,0,0,4,1,0,0,0
+"155","nonlinearTseries","https://github.com/constantino-garcia/nonlinearTseries","C++","['Objective-C', 'R', 'C', 'C++']",0,1,1,84,3,0,0,0
+"188","rcpp_progress","https://github.com/kforner/rcpp_progress","C++","['R', 'Makefile', 'C++']",3,14,3,99,7,0,1,5
+"195","rxylib","https://github.com/R-Lum/rxylib","C++","['R', 'Shell', 'C++']",0,2,0,132,5,0,0,0
+"223","primme","https://github.com/primme/primme","C","['C', 'Shell', 'Python', 'Makefile', 'C++', 'Fortran', 'Objective-C', 'R', 'Matlab']",2,28,15,690,15,0,2,5
+"224","packcircles","https://github.com/mbedward/packcircles","C++","['C', 'R', 'C++']",2,8,3,51,2,0,0,0
+"228","RcppHMM","https://github.com/robalecarova/RcppHMM","C++","['C', 'R', 'C++']",0,0,0,6,3,1,0,2
+"234","fasteraster","https://github.com/andy-bosyi/fasteraster","C++","['R', 'C++']",1,0,0,6,2,0,0,0
+"244","survHE","https://github.com/giabaio/survHE","C++","['Stan', 'R', 'Shell', 'C++']",1,6,1,141,2,0,0,10
+"246","stdvectors","https://github.com/digEmAll/stdvectors","C++","['C', 'R', 'C++']",0,2,0,15,1,0,0,0
+"258","rioja","https://github.com/nsj3/rioja","C++","['C', 'R', 'C++']",3,1,0,48,2,0,0,0
+"317","libsoc","https://github.com/rikardn/libsoc","C","['C', 'Shell', 'Python', 'Makefile', 'C++', 'Perl', 'Fortran', 'R', 'XS']",2,6,2,196,1,0,1,0
+"327","orca","https://github.com/janezd/orca","C++","['R', 'C++']",3,0,1,44,3,0,0,0
+"336","extraDistr","https://github.com/twolodzko/extraDistr","C++","['R', 'C++']",1,8,2,331,5,0,0,2
+"391","CORElearn","https://github.com/rmarko/CORElearn","C++","['R', 'C', 'Shell', 'C++']",1,0,0,3,2,0,0,0
+"404","graph-kernels","https://github.com/mahito-sugiyama/graph-kernels","C++","['C', 'R', 'Makefile', 'C++']",2,22,10,22,2,0,0,1
+"410","CRAN_deepboost","https://github.com/dmarcous/CRAN_deepboost","C++","['C', 'R', 'C++']",1,17,3,109,9,0,0,3
+"456","rmumps","https://github.com/sgsokol/rmumps","C","['C', 'Shell', 'CMake', 'Makefile', 'C++', 'Yacc', 'Fortran', 'Objective-C', 'Batchfile', 'Lex', 'R']",2,4,0,72,1,0,0,0
+"467","TransEnt","https://github.com/Healthcast/TransEnt","C++","['C', 'R', 'Makefile', 'C++']",2,2,2,62,4,0,0,1
+"475","minerva","https://github.com/rsamantha/minerva","C","['R', 'C', 'Shell']",4,2,0,65,4,0,0,0
+"478","meshsimplification","https://github.com/10395803/meshsimplification","C++","['C', 'Shell', 'CMake', 'Python', 'JavaScript', 'Makefile', 'C++', 'Fortran', 'R', 'Cuda', 'CSS', 'Matlab']",0,1,1,28,2,0,0,1
+"502","imager","https://github.com/dahtah/imager","C++","['M4', 'C', 'R', 'Shell', 'C++']",2,110,15,432,3,0,2,10
+"526","scclust-R","https://github.com/fsavje/scclust-R","C","['R', 'C', 'Shell', 'Makefile', 'C++']",1,8,1,144,2,0,0,0
+"535","plac","https://github.com/942kid/plac","C++","['R', 'C++']",1,3,0,49,1,0,0,0
+"548","udpipe","https://github.com/bnosac/udpipe","C++","['R', 'C++']",0,27,6,88,3,0,0,1
+"569","GDM","https://github.com/fitzLab-AL/GDM","C++","['C', 'R', 'C++']",2,5,2,24,3,0,1,0
+"572","rvg","https://github.com/davidgohel/rvg","C++","['R', 'C', 'Shell', 'C++']",2,17,3,235,3,1,0,1
+"603","fst","https://github.com/fstpackage/fst","C","['C', 'R', 'C++']",0,192,19,219,5,0,0,3
