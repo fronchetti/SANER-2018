@@ -478,7 +478,7 @@ https://cran.r-project.org/web/packages/FreeSortR/index.html
 https://cran.r-project.org/
 https://github.com/zeehio/condformat
 https://github.com/kasperwelbers/RNewsflow
-"	https://github.com/stefanedwards/lemon"
+https://github.com/stefanedwards/lemon
 https://github.com/midraed/water
 https://github.com/smn74/MANOVA.RM
 https://cran.r-project.org/web/packages/mgm/index.html

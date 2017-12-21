@@ -1,4 +1,4 @@
-install.packages("ggplot2")
+# install.packages("ggplot2")
 library(ggplot2)
 
 setwd("/home/fronchetti/Documentos/SANER-2017")
@@ -16,3 +16,7 @@ write.csv(zero_commits, file = "zero_commits.csv")
 # Identifies projects without contributors
 zero_contributors <- subset(data, newcomers == 0)
 write.csv(zero_contributors, file = "zero_contributors.csv")
+
+# Defines our final analysed dataset
+data_final <- subset(data,newcomers > 0 & commits > 0)
+
