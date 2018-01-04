@@ -15,6 +15,14 @@ This repository contains the main files used in the repositories analysis sectio
 
 5. If you want to generate our charts, use <i>summary.R</i>. Ready versions of <i>summary.csv</i> and <i>quarters.csv</i> are available in this repository.
 
+### * Used settings
+
+| Software | Version |
+|----------|----------------------|
+| Linux | Ubuntu Gnome (16.04) |
+| Python | 2.7.12 |
+| RStudio  | 1.1.383 |
+
 ### * Contact
 Troubles? Feel free to get in touch: <br>
 Luiz Felipe Fronchetti - fronchettiemail@gmail.com
