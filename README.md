@@ -11,7 +11,7 @@ This repository contains the main files used in the repositories analysis sectio
 
 3. The <i>summary.csv</i> file contains general information about the projects. If you want to recreated this file use: ```python data_information.py```. <b> Step required to generate boxplots</b>.
 
-4. The <i>quarters.csv</i> file contains commits frequency in all projects, grouped by quarters. If you want to recreated this file use: ```python data_timeseries.py```. <b> Step required to generate time series</b>.
+4. The <i>quarters.csv</i> file contains the frequency of commits in all projects, grouped by quarters. If you want to recreated this file use: ```python data_timeseries.py```. <b> Step required to generate time series</b>.
 
 5. If you want to generate our charts, use <i>summary.R</i>. Ready versions of <i>summary.csv</i> and <i>quarters.csv</i> are available in this repository.
 
