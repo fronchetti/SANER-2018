@@ -13,4 +13,5 @@ echo "[Script] Collecting repository contributions..."
 folder=$1
 cd $folder
 
-git log --date=short --pretty="format:%cd" --no-notes --branches | sort -rn > ../commits.csv
+echo "date,hash" > ../commits.csv
+git log --date=short --pretty="format:%cd, %H" --no-notes --branches | sort -rn >> ../commits.csv

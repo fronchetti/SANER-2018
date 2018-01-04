@@ -1,7 +1,10 @@
-import os
-import json
-import csv
-from datetime import datetime
+try:
+    import os
+    import json
+    import csv
+    from datetime import datetime
+except ImportError as error:
+    raise ImportError(error)
 
 dataset = './Dataset/'
 folders = os.listdir(dataset)

@@ -10,6 +10,7 @@ try:
     import Crawler.crawler as GitCrawler
     import Crawler.repository as GitRepository
     import json
+    import csv
     import subprocess
     import os
 except ImportError as error:
@@ -47,7 +48,7 @@ class Repository():
         loc_file = self.folder + '/loc.json'
 
         if not os.path.isfile(loc_file):
-            subprocess.call(['cloc', '--json', '--out=' + loc_file, self.folder])
+            subprocess.call(['cloc', '--json', '--out=' + loc_filerand, self.folder + '/repository'])
 
     def about(self):
         about_file = self.folder + '/about.json'
@@ -98,7 +99,7 @@ class Repository():
         commits_file = self.folder + '/commits.csv'
         repository_folder = self.folder + '/repository'
 
-        if not os.path.isfile(commits_file):
+        if os.path.isfile(commits_file):
             if os.path.exists(repository_folder):
                 subprocess.call(['sh', 'Crawler/commits.sh', repository_folder])
             else:
@@ -123,41 +124,41 @@ def repositories_in_parallel(project):
     # R.clone()  # Clone the repository
     # R.newcomers()  # Creates a file with all newcomers in the project
     # R.pull_requests()  # Creates a file with all the pull requests submmited to the repository
-    # R.commits()  # Creates a file with all the contributions submmited to the repository
+    R.commits()  # Creates a file with all the contributions submmited to the repository
     # R.stars()  # Creates a file with all stars evaluated in the repository (Include evaluation date)
     # R.forks()  # Creates a file with all the copies created from the repository
     # R.languages() # Creates a file with all languages used in the repository
-    R.loc()
+    # R.loc() # Creates a file describing LoC used in the repository
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     dataset_folder = 'Dataset/'
-    api_client_id = '4161a8257efaea420c94' # Please, specify your own client id
-    api_client_secret = 'd814ec48927a6bd62c55c058cd028a949e5362d4' # Please, specify your own client secret
+    api_client_id = '#' # Please, specify your own client id
+    api_client_secret = '#' # Please, specify your own client secret
     crawler = GitCrawler.Crawler(api_client_id, api_client_secret)
     repositories = []
 
-    with open('repositories.txt', 'r') as file:
-        for line in file:
-            line = line.strip()
+    with open('responses.csv', 'r') as file:
+        reader = csv.DictReader(file)
 
-            if '.git' in line:
-                line = line.replace('.git', '')
+        for row in reader:
+            column = row['8. Is your R package maintained in a public repository (e.g., GitHub)? If so, what is the URL?'].strip()
 
-            if 'www.' in line:
-                line = line.replace('www.', '')
+            if '.git' in column:
+                column = column.replace('.git', '')
 
-            if 'http://github.com/' in line:
-                line = line.replace('http://github.com/', 'https://github.com/')
+            if 'www.' in column:
+                column = column.replace('www.', '')
 
-            if 'https://github.com/' in line:
-                info = line.replace('https://github.com/', '')
+            if 'http://github.com/' in column:
+                column = column.replace('http://github.com/', 'https://github.com/')
+
+            if 'https://github.com/' in column:
+                info = column.replace('https://github.com/', '')
                 info = info.split('/')
 
                 if len(info) > 1:
-                    project = {'name': info[1], 'organization': info[0], 'url': line, 'folder': dataset_folder + info[1]}
+                    project = {'name': info[1], 'organization': info[0], 'url': column, 'folder': dataset_folder + info[1]}
                     repositories.append(project)
 
-    for project in repositories:
-        repositories_in_parallel(project)
-    ## parallel = multiprocessing.Pool(processes=1)
-    ## parallel.map(partial(repositories_in_parallel), repositories)
+    parallel = multiprocessing.Pool(processes=1) # Define number of processes
+    parallel.map(partial(repositories_in_parallel), repositories)
