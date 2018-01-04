@@ -4,10 +4,10 @@ This repository contains the main files used in the repositories analysis sectio
 
 ### * Steps
 1. Clone our repository using: ```git clone https://github.com/fronchetti/SANER-2017```. <br>
-2. <b>(Optional)</b> If you want to reproduce the data collection process: ```python data_collector.py```. This script will create folders and files related to all the projects inside <i>responses.csv</i>, and you may need to allow it on your system. The collected data will be available in the <i>Dataset</i> folder.<br>
+2. <b>(Optional)</b> To reproduce the data collection process: ```python data_collector.py```. This script will create folders and files related to all the projects inside <i>responses.csv</i>, and you may need to allow it on your system. The collected data will be available in the <i>Dataset</i> folder.<br>
 
-If you want to jump this step, just use our compacted version of the <i>Dataset</i> folder:
-https://github.com/fronchetti/SANER-2018/tree/master/Dataset
+  If you want to jump this step, just use our compacted version of the <i>Dataset</i> folder:
+  https://github.com/fronchetti/SANER-2018/tree/master/Dataset
 
 3. The <i>summary.csv</i> file contains general information about the projects. If you want to recreated this file use: ```python data_information.py```. <b> Step required to generate boxplots</b>.
 
