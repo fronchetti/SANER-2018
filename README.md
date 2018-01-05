@@ -2,7 +2,15 @@
 
 This repository contains the main files used in the repositories analysis section of the paper "How Scientists Develop Scientific Software". If you want to reproduce our data, please read on the steps.
 
-### * Steps
+### Steps for Survey Analysis
+
+The survey material is available at the Survey folder.
+
+1. The survey responses are available [here](https://github.com/fronchetti/SANER-2018/tree/master/Survey/actual.csv). The pilot is available [here](https://github.com/fronchetti/SANER-2018/tree/master/Survey/pilot.csv).
+2. To create the likert figures, you just need to run ```Rscript likert.R```
+3. To create the histogram figure, you just need to run ```Rscript worktime.R```
+
+### Steps for Mining Scientific Software
 1. Clone our repository using: ```git clone https://github.com/fronchetti/SANER-2017```. <br>
 2. To reproduce the data collection process: ```python data_collector.py```. This script will create folders and files related to all the projects that are inside <i>responses.csv</i>, and you may need to allow it in your system. The collected data will be available in the <i>Dataset</i> folder.<br>
 
@@ -15,7 +23,7 @@ This repository contains the main files used in the repositories analysis sectio
 
 5. If you want to generate our charts, use <i>summary.R</i>. Ready versions of <i>summary.csv</i> and <i>quarters.csv</i> are available in this repository.
 
-### * Used settings
+####  Used settings
 
 | Software | Version |
 |----------|----------------------|
@@ -26,3 +34,4 @@ This repository contains the main files used in the repositories analysis sectio
 ### * Contact
 Troubles? Feel free to get in touch: <br>
 Luiz Felipe Fronchetti - fronchettiemail@gmail.com
+Gustavo Pinto - gpinto at ufpa br
