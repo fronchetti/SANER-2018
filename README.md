@@ -1,6 +1,6 @@
 ## SANER 2018: How Scientists Develop Scientific Software
 
-This repository contains the main files used in the repositories analysis section of the paper "How Scientists Develop Scientific Software". If you want to reproduce our data, please read on the steps.
+This repository contains the main files used in the repositories analysis section of the paper "How Scientists Develop Scientific Software" ([DOI: 10.1109/SANER.2018.8330263](http://doi.org/10.1109/SANER.2018.8330263)). If you want to reproduce our data, please read on the steps.
 
 ### Steps for Survey Analysis
 
