@@ -1,0 +1,68 @@
+[
+    {
+        "starred_at": "2016-06-06T20:25:02Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/cnngimenez/following{/other_user}", 
+            "events_url": "https://api.github.com/users/cnngimenez/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/cnngimenez/orgs", 
+            "url": "https://api.github.com/users/cnngimenez", 
+            "gists_url": "https://api.github.com/users/cnngimenez/gists{/gist_id}", 
+            "html_url": "https://github.com/cnngimenez", 
+            "subscriptions_url": "https://api.github.com/users/cnngimenez/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/1332276?v=4", 
+            "repos_url": "https://api.github.com/users/cnngimenez/repos", 
+            "received_events_url": "https://api.github.com/users/cnngimenez/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/cnngimenez/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "cnngimenez", 
+            "type": "User", 
+            "id": 1332276, 
+            "followers_url": "https://api.github.com/users/cnngimenez/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-02-23T17:43:15Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/johnfrye/following{/other_user}", 
+            "events_url": "https://api.github.com/users/johnfrye/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/johnfrye/orgs", 
+            "url": "https://api.github.com/users/johnfrye", 
+            "gists_url": "https://api.github.com/users/johnfrye/gists{/gist_id}", 
+            "html_url": "https://github.com/johnfrye", 
+            "subscriptions_url": "https://api.github.com/users/johnfrye/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/7141373?v=4", 
+            "repos_url": "https://api.github.com/users/johnfrye/repos", 
+            "received_events_url": "https://api.github.com/users/johnfrye/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/johnfrye/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "johnfrye", 
+            "type": "User", 
+            "id": 7141373, 
+            "followers_url": "https://api.github.com/users/johnfrye/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-05-03T21:47:41Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/gusart/following{/other_user}", 
+            "events_url": "https://api.github.com/users/gusart/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/gusart/orgs", 
+            "url": "https://api.github.com/users/gusart", 
+            "gists_url": "https://api.github.com/users/gusart/gists{/gist_id}", 
+            "html_url": "https://github.com/gusart", 
+            "subscriptions_url": "https://api.github.com/users/gusart/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/9981728?v=4", 
+            "repos_url": "https://api.github.com/users/gusart/repos", 
+            "received_events_url": "https://api.github.com/users/gusart/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/gusart/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "gusart", 
+            "type": "User", 
+            "id": 9981728, 
+            "followers_url": "https://api.github.com/users/gusart/followers"
+        }
+    }
+]

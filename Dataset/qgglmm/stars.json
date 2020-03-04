@@ -1,0 +1,90 @@
+[
+    {
+        "starred_at": "2015-09-22T09:13:34Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/famuvie/following{/other_user}", 
+            "events_url": "https://api.github.com/users/famuvie/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/famuvie/orgs", 
+            "url": "https://api.github.com/users/famuvie", 
+            "gists_url": "https://api.github.com/users/famuvie/gists{/gist_id}", 
+            "html_url": "https://github.com/famuvie", 
+            "subscriptions_url": "https://api.github.com/users/famuvie/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/5693966?v=4", 
+            "repos_url": "https://api.github.com/users/famuvie/repos", 
+            "received_events_url": "https://api.github.com/users/famuvie/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/famuvie/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "famuvie", 
+            "type": "User", 
+            "id": 5693966, 
+            "followers_url": "https://api.github.com/users/famuvie/followers"
+        }
+    }, 
+    {
+        "starred_at": "2016-11-10T14:55:49Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/mauriziopaul/following{/other_user}", 
+            "events_url": "https://api.github.com/users/mauriziopaul/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/mauriziopaul/orgs", 
+            "url": "https://api.github.com/users/mauriziopaul", 
+            "gists_url": "https://api.github.com/users/mauriziopaul/gists{/gist_id}", 
+            "html_url": "https://github.com/mauriziopaul", 
+            "subscriptions_url": "https://api.github.com/users/mauriziopaul/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/8451471?v=4", 
+            "repos_url": "https://api.github.com/users/mauriziopaul/repos", 
+            "received_events_url": "https://api.github.com/users/mauriziopaul/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/mauriziopaul/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "mauriziopaul", 
+            "type": "User", 
+            "id": 8451471, 
+            "followers_url": "https://api.github.com/users/mauriziopaul/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-04-28T11:51:56Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/tbrittoborges/following{/other_user}", 
+            "events_url": "https://api.github.com/users/tbrittoborges/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/tbrittoborges/orgs", 
+            "url": "https://api.github.com/users/tbrittoborges", 
+            "gists_url": "https://api.github.com/users/tbrittoborges/gists{/gist_id}", 
+            "html_url": "https://github.com/tbrittoborges", 
+            "subscriptions_url": "https://api.github.com/users/tbrittoborges/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/4517913?v=4", 
+            "repos_url": "https://api.github.com/users/tbrittoborges/repos", 
+            "received_events_url": "https://api.github.com/users/tbrittoborges/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/tbrittoborges/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "tbrittoborges", 
+            "type": "User", 
+            "id": 4517913, 
+            "followers_url": "https://api.github.com/users/tbrittoborges/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-10-11T16:11:44Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/biodray/following{/other_user}", 
+            "events_url": "https://api.github.com/users/biodray/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/biodray/orgs", 
+            "url": "https://api.github.com/users/biodray", 
+            "gists_url": "https://api.github.com/users/biodray/gists{/gist_id}", 
+            "html_url": "https://github.com/biodray", 
+            "subscriptions_url": "https://api.github.com/users/biodray/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/6411366?v=4", 
+            "repos_url": "https://api.github.com/users/biodray/repos", 
+            "received_events_url": "https://api.github.com/users/biodray/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/biodray/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "biodray", 
+            "type": "User", 
+            "id": 6411366, 
+            "followers_url": "https://api.github.com/users/biodray/followers"
+        }
+    }
+]

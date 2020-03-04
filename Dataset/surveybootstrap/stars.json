@@ -1,0 +1,68 @@
+[
+    {
+        "starred_at": "2017-01-26T16:03:08Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/carlganz/following{/other_user}", 
+            "events_url": "https://api.github.com/users/carlganz/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/carlganz/orgs", 
+            "url": "https://api.github.com/users/carlganz", 
+            "gists_url": "https://api.github.com/users/carlganz/gists{/gist_id}", 
+            "html_url": "https://github.com/carlganz", 
+            "subscriptions_url": "https://api.github.com/users/carlganz/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/11653794?v=4", 
+            "repos_url": "https://api.github.com/users/carlganz/repos", 
+            "received_events_url": "https://api.github.com/users/carlganz/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/carlganz/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "carlganz", 
+            "type": "User", 
+            "id": 11653794, 
+            "followers_url": "https://api.github.com/users/carlganz/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-01-26T17:14:06Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/sebastianbarfort/following{/other_user}", 
+            "events_url": "https://api.github.com/users/sebastianbarfort/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/sebastianbarfort/orgs", 
+            "url": "https://api.github.com/users/sebastianbarfort", 
+            "gists_url": "https://api.github.com/users/sebastianbarfort/gists{/gist_id}", 
+            "html_url": "https://github.com/sebastianbarfort", 
+            "subscriptions_url": "https://api.github.com/users/sebastianbarfort/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/2847108?v=4", 
+            "repos_url": "https://api.github.com/users/sebastianbarfort/repos", 
+            "received_events_url": "https://api.github.com/users/sebastianbarfort/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/sebastianbarfort/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "sebastianbarfort", 
+            "type": "User", 
+            "id": 2847108, 
+            "followers_url": "https://api.github.com/users/sebastianbarfort/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-01-26T21:44:16Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/briatte/following{/other_user}", 
+            "events_url": "https://api.github.com/users/briatte/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/briatte/orgs", 
+            "url": "https://api.github.com/users/briatte", 
+            "gists_url": "https://api.github.com/users/briatte/gists{/gist_id}", 
+            "html_url": "https://github.com/briatte", 
+            "subscriptions_url": "https://api.github.com/users/briatte/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/322533?v=4", 
+            "repos_url": "https://api.github.com/users/briatte/repos", 
+            "received_events_url": "https://api.github.com/users/briatte/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/briatte/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "briatte", 
+            "type": "User", 
+            "id": 322533, 
+            "followers_url": "https://api.github.com/users/briatte/followers"
+        }
+    }
+]

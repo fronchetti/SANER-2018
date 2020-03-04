@@ -1,0 +1,68 @@
+[
+    {
+        "starred_at": "2017-03-13T19:31:58Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/maxbiostat/following{/other_user}", 
+            "events_url": "https://api.github.com/users/maxbiostat/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/maxbiostat/orgs", 
+            "url": "https://api.github.com/users/maxbiostat", 
+            "gists_url": "https://api.github.com/users/maxbiostat/gists{/gist_id}", 
+            "html_url": "https://github.com/maxbiostat", 
+            "subscriptions_url": "https://api.github.com/users/maxbiostat/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/2875083?v=4", 
+            "repos_url": "https://api.github.com/users/maxbiostat/repos", 
+            "received_events_url": "https://api.github.com/users/maxbiostat/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/maxbiostat/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "maxbiostat", 
+            "type": "User", 
+            "id": 2875083, 
+            "followers_url": "https://api.github.com/users/maxbiostat/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-04-26T17:47:56Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/flopezo/following{/other_user}", 
+            "events_url": "https://api.github.com/users/flopezo/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/flopezo/orgs", 
+            "url": "https://api.github.com/users/flopezo", 
+            "gists_url": "https://api.github.com/users/flopezo/gists{/gist_id}", 
+            "html_url": "https://github.com/flopezo", 
+            "subscriptions_url": "https://api.github.com/users/flopezo/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/14152362?v=4", 
+            "repos_url": "https://api.github.com/users/flopezo/repos", 
+            "received_events_url": "https://api.github.com/users/flopezo/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/flopezo/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "flopezo", 
+            "type": "User", 
+            "id": 14152362, 
+            "followers_url": "https://api.github.com/users/flopezo/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-10-24T15:15:06Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/MichelleKendall/following{/other_user}", 
+            "events_url": "https://api.github.com/users/MichelleKendall/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/MichelleKendall/orgs", 
+            "url": "https://api.github.com/users/MichelleKendall", 
+            "gists_url": "https://api.github.com/users/MichelleKendall/gists{/gist_id}", 
+            "html_url": "https://github.com/MichelleKendall", 
+            "subscriptions_url": "https://api.github.com/users/MichelleKendall/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/10987259?v=4", 
+            "repos_url": "https://api.github.com/users/MichelleKendall/repos", 
+            "received_events_url": "https://api.github.com/users/MichelleKendall/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/MichelleKendall/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "MichelleKendall", 
+            "type": "User", 
+            "id": 10987259, 
+            "followers_url": "https://api.github.com/users/MichelleKendall/followers"
+        }
+    }
+]

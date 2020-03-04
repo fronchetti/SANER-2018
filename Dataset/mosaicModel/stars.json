@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2017-10-03T12:06:46Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/talegari/following{/other_user}", 
+            "events_url": "https://api.github.com/users/talegari/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/talegari/orgs", 
+            "url": "https://api.github.com/users/talegari", 
+            "gists_url": "https://api.github.com/users/talegari/gists{/gist_id}", 
+            "html_url": "https://github.com/talegari", 
+            "subscriptions_url": "https://api.github.com/users/talegari/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/10041819?v=4", 
+            "repos_url": "https://api.github.com/users/talegari/repos", 
+            "received_events_url": "https://api.github.com/users/talegari/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/talegari/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "talegari", 
+            "type": "User", 
+            "id": 10041819, 
+            "followers_url": "https://api.github.com/users/talegari/followers"
+        }
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "starred_at": "2016-06-29T11:33:58Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/andreaphsz/following{/other_user}", 
+            "events_url": "https://api.github.com/users/andreaphsz/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/andreaphsz/orgs", 
+            "url": "https://api.github.com/users/andreaphsz", 
+            "gists_url": "https://api.github.com/users/andreaphsz/gists{/gist_id}", 
+            "html_url": "https://github.com/andreaphsz", 
+            "subscriptions_url": "https://api.github.com/users/andreaphsz/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/3206936?v=4", 
+            "repos_url": "https://api.github.com/users/andreaphsz/repos", 
+            "received_events_url": "https://api.github.com/users/andreaphsz/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/andreaphsz/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "andreaphsz", 
+            "type": "User", 
+            "id": 3206936, 
+            "followers_url": "https://api.github.com/users/andreaphsz/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-05-09T17:54:10Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/jcliberatol/following{/other_user}", 
+            "events_url": "https://api.github.com/users/jcliberatol/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/jcliberatol/orgs", 
+            "url": "https://api.github.com/users/jcliberatol", 
+            "gists_url": "https://api.github.com/users/jcliberatol/gists{/gist_id}", 
+            "html_url": "https://github.com/jcliberatol", 
+            "subscriptions_url": "https://api.github.com/users/jcliberatol/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/1326511?v=4", 
+            "repos_url": "https://api.github.com/users/jcliberatol/repos", 
+            "received_events_url": "https://api.github.com/users/jcliberatol/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/jcliberatol/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "jcliberatol", 
+            "type": "User", 
+            "id": 1326511, 
+            "followers_url": "https://api.github.com/users/jcliberatol/followers"
+        }
+    }
+]

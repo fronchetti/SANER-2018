@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2017-10-02T05:22:02Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/strategist922/following{/other_user}", 
+            "events_url": "https://api.github.com/users/strategist922/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/strategist922/orgs", 
+            "url": "https://api.github.com/users/strategist922", 
+            "gists_url": "https://api.github.com/users/strategist922/gists{/gist_id}", 
+            "html_url": "https://github.com/strategist922", 
+            "subscriptions_url": "https://api.github.com/users/strategist922/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/2128570?v=4", 
+            "repos_url": "https://api.github.com/users/strategist922/repos", 
+            "received_events_url": "https://api.github.com/users/strategist922/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/strategist922/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "strategist922", 
+            "type": "User", 
+            "id": 2128570, 
+            "followers_url": "https://api.github.com/users/strategist922/followers"
+        }
+    }
+]

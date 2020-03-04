@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2017-02-15T17:48:05Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/atkinsjeff/following{/other_user}", 
+            "events_url": "https://api.github.com/users/atkinsjeff/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/atkinsjeff/orgs", 
+            "url": "https://api.github.com/users/atkinsjeff", 
+            "gists_url": "https://api.github.com/users/atkinsjeff/gists{/gist_id}", 
+            "html_url": "https://github.com/atkinsjeff", 
+            "subscriptions_url": "https://api.github.com/users/atkinsjeff/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/8354517?v=4", 
+            "repos_url": "https://api.github.com/users/atkinsjeff/repos", 
+            "received_events_url": "https://api.github.com/users/atkinsjeff/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/atkinsjeff/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "atkinsjeff", 
+            "type": "User", 
+            "id": 8354517, 
+            "followers_url": "https://api.github.com/users/atkinsjeff/followers"
+        }
+    }
+]

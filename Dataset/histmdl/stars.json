@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2013-03-03T09:37:32Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/joukewitteveen/following{/other_user}", 
+            "events_url": "https://api.github.com/users/joukewitteveen/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/joukewitteveen/orgs", 
+            "url": "https://api.github.com/users/joukewitteveen", 
+            "gists_url": "https://api.github.com/users/joukewitteveen/gists{/gist_id}", 
+            "html_url": "https://github.com/joukewitteveen", 
+            "subscriptions_url": "https://api.github.com/users/joukewitteveen/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/881703?v=4", 
+            "repos_url": "https://api.github.com/users/joukewitteveen/repos", 
+            "received_events_url": "https://api.github.com/users/joukewitteveen/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/joukewitteveen/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "joukewitteveen", 
+            "type": "User", 
+            "id": 881703, 
+            "followers_url": "https://api.github.com/users/joukewitteveen/followers"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2016-07-08T00:21:57Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/FvD/following{/other_user}", 
+            "events_url": "https://api.github.com/users/FvD/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/FvD/orgs", 
+            "url": "https://api.github.com/users/FvD", 
+            "gists_url": "https://api.github.com/users/FvD/gists{/gist_id}", 
+            "html_url": "https://github.com/FvD", 
+            "subscriptions_url": "https://api.github.com/users/FvD/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/2441145?v=4", 
+            "repos_url": "https://api.github.com/users/FvD/repos", 
+            "received_events_url": "https://api.github.com/users/FvD/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/FvD/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "FvD", 
+            "type": "User", 
+            "id": 2441145, 
+            "followers_url": "https://api.github.com/users/FvD/followers"
+        }
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "starred_at": "2017-07-18T02:11:38Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/shanmdphd/following{/other_user}", 
+            "events_url": "https://api.github.com/users/shanmdphd/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/shanmdphd/orgs", 
+            "url": "https://api.github.com/users/shanmdphd", 
+            "gists_url": "https://api.github.com/users/shanmdphd/gists{/gist_id}", 
+            "html_url": "https://github.com/shanmdphd", 
+            "subscriptions_url": "https://api.github.com/users/shanmdphd/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/6946821?v=4", 
+            "repos_url": "https://api.github.com/users/shanmdphd/repos", 
+            "received_events_url": "https://api.github.com/users/shanmdphd/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/shanmdphd/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "shanmdphd", 
+            "type": "User", 
+            "id": 6946821, 
+            "followers_url": "https://api.github.com/users/shanmdphd/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-08-07T17:47:38Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/eriveradelgado/following{/other_user}", 
+            "events_url": "https://api.github.com/users/eriveradelgado/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/eriveradelgado/orgs", 
+            "url": "https://api.github.com/users/eriveradelgado", 
+            "gists_url": "https://api.github.com/users/eriveradelgado/gists{/gist_id}", 
+            "html_url": "https://github.com/eriveradelgado", 
+            "subscriptions_url": "https://api.github.com/users/eriveradelgado/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/7071624?v=4", 
+            "repos_url": "https://api.github.com/users/eriveradelgado/repos", 
+            "received_events_url": "https://api.github.com/users/eriveradelgado/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/eriveradelgado/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "eriveradelgado", 
+            "type": "User", 
+            "id": 7071624, 
+            "followers_url": "https://api.github.com/users/eriveradelgado/followers"
+        }
+    }
+]

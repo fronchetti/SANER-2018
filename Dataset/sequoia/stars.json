@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2016-05-24T21:49:18Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/rwtaylor/following{/other_user}", 
+            "events_url": "https://api.github.com/users/rwtaylor/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/rwtaylor/orgs", 
+            "url": "https://api.github.com/users/rwtaylor", 
+            "gists_url": "https://api.github.com/users/rwtaylor/gists{/gist_id}", 
+            "html_url": "https://github.com/rwtaylor", 
+            "subscriptions_url": "https://api.github.com/users/rwtaylor/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/552788?v=4", 
+            "repos_url": "https://api.github.com/users/rwtaylor/repos", 
+            "received_events_url": "https://api.github.com/users/rwtaylor/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/rwtaylor/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "rwtaylor", 
+            "type": "User", 
+            "id": 552788, 
+            "followers_url": "https://api.github.com/users/rwtaylor/followers"
+        }
+    }
+]

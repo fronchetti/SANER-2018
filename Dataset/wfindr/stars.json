@@ -1,0 +1,46 @@
+[
+    {
+        "starred_at": "2016-08-23T15:18:20Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/idmn/following{/other_user}", 
+            "events_url": "https://api.github.com/users/idmn/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/idmn/orgs", 
+            "url": "https://api.github.com/users/idmn", 
+            "gists_url": "https://api.github.com/users/idmn/gists{/gist_id}", 
+            "html_url": "https://github.com/idmn", 
+            "subscriptions_url": "https://api.github.com/users/idmn/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/8419011?v=4", 
+            "repos_url": "https://api.github.com/users/idmn/repos", 
+            "received_events_url": "https://api.github.com/users/idmn/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/idmn/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "idmn", 
+            "type": "User", 
+            "id": 8419011, 
+            "followers_url": "https://api.github.com/users/idmn/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-06-13T21:01:47Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/cderv/following{/other_user}", 
+            "events_url": "https://api.github.com/users/cderv/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/cderv/orgs", 
+            "url": "https://api.github.com/users/cderv", 
+            "gists_url": "https://api.github.com/users/cderv/gists{/gist_id}", 
+            "html_url": "https://github.com/cderv", 
+            "subscriptions_url": "https://api.github.com/users/cderv/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/6791940?v=4", 
+            "repos_url": "https://api.github.com/users/cderv/repos", 
+            "received_events_url": "https://api.github.com/users/cderv/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/cderv/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "cderv", 
+            "type": "User", 
+            "id": 6791940, 
+            "followers_url": "https://api.github.com/users/cderv/followers"
+        }
+    }
+]

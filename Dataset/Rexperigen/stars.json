@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2016-06-13T17:17:12Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/leaena-essl/following{/other_user}", 
+            "events_url": "https://api.github.com/users/leaena-essl/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/leaena-essl/orgs", 
+            "url": "https://api.github.com/users/leaena-essl", 
+            "gists_url": "https://api.github.com/users/leaena-essl/gists{/gist_id}", 
+            "html_url": "https://github.com/leaena-essl", 
+            "subscriptions_url": "https://api.github.com/users/leaena-essl/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/19913474?v=4", 
+            "repos_url": "https://api.github.com/users/leaena-essl/repos", 
+            "received_events_url": "https://api.github.com/users/leaena-essl/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/leaena-essl/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "leaena-essl", 
+            "type": "User", 
+            "id": 19913474, 
+            "followers_url": "https://api.github.com/users/leaena-essl/followers"
+        }
+    }
+]

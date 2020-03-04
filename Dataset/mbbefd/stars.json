@@ -1,0 +1,68 @@
+[
+    {
+        "starred_at": "2015-07-19T23:28:20Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/mages/following{/other_user}", 
+            "events_url": "https://api.github.com/users/mages/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/mages/orgs", 
+            "url": "https://api.github.com/users/mages", 
+            "gists_url": "https://api.github.com/users/mages/gists{/gist_id}", 
+            "html_url": "https://github.com/mages", 
+            "subscriptions_url": "https://api.github.com/users/mages/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/1146581?v=4", 
+            "repos_url": "https://api.github.com/users/mages/repos", 
+            "received_events_url": "https://api.github.com/users/mages/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/mages/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "mages", 
+            "type": "User", 
+            "id": 1146581, 
+            "followers_url": "https://api.github.com/users/mages/followers"
+        }
+    }, 
+    {
+        "starred_at": "2015-12-21T04:27:48Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/raosiyong/following{/other_user}", 
+            "events_url": "https://api.github.com/users/raosiyong/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/raosiyong/orgs", 
+            "url": "https://api.github.com/users/raosiyong", 
+            "gists_url": "https://api.github.com/users/raosiyong/gists{/gist_id}", 
+            "html_url": "https://github.com/raosiyong", 
+            "subscriptions_url": "https://api.github.com/users/raosiyong/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/369313?v=4", 
+            "repos_url": "https://api.github.com/users/raosiyong/repos", 
+            "received_events_url": "https://api.github.com/users/raosiyong/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/raosiyong/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "raosiyong", 
+            "type": "User", 
+            "id": 369313, 
+            "followers_url": "https://api.github.com/users/raosiyong/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-02-12T14:16:38Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/wkyuok/following{/other_user}", 
+            "events_url": "https://api.github.com/users/wkyuok/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/wkyuok/orgs", 
+            "url": "https://api.github.com/users/wkyuok", 
+            "gists_url": "https://api.github.com/users/wkyuok/gists{/gist_id}", 
+            "html_url": "https://github.com/wkyuok", 
+            "subscriptions_url": "https://api.github.com/users/wkyuok/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/19553181?v=4", 
+            "repos_url": "https://api.github.com/users/wkyuok/repos", 
+            "received_events_url": "https://api.github.com/users/wkyuok/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/wkyuok/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "wkyuok", 
+            "type": "User", 
+            "id": 19553181, 
+            "followers_url": "https://api.github.com/users/wkyuok/followers"
+        }
+    }
+]

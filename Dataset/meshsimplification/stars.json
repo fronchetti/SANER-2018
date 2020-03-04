@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2017-04-12T10:39:34Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/ZhouleiJoeStone/following{/other_user}", 
+            "events_url": "https://api.github.com/users/ZhouleiJoeStone/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/ZhouleiJoeStone/orgs", 
+            "url": "https://api.github.com/users/ZhouleiJoeStone", 
+            "gists_url": "https://api.github.com/users/ZhouleiJoeStone/gists{/gist_id}", 
+            "html_url": "https://github.com/ZhouleiJoeStone", 
+            "subscriptions_url": "https://api.github.com/users/ZhouleiJoeStone/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/18703477?v=4", 
+            "repos_url": "https://api.github.com/users/ZhouleiJoeStone/repos", 
+            "received_events_url": "https://api.github.com/users/ZhouleiJoeStone/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/ZhouleiJoeStone/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "ZhouleiJoeStone", 
+            "type": "User", 
+            "id": 18703477, 
+            "followers_url": "https://api.github.com/users/ZhouleiJoeStone/followers"
+        }
+    }
+]

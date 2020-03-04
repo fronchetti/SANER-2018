@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2017-09-05T17:36:11Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/marshallmole42/following{/other_user}", 
+            "events_url": "https://api.github.com/users/marshallmole42/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/marshallmole42/orgs", 
+            "url": "https://api.github.com/users/marshallmole42", 
+            "gists_url": "https://api.github.com/users/marshallmole42/gists{/gist_id}", 
+            "html_url": "https://github.com/marshallmole42", 
+            "subscriptions_url": "https://api.github.com/users/marshallmole42/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/17606814?v=4", 
+            "repos_url": "https://api.github.com/users/marshallmole42/repos", 
+            "received_events_url": "https://api.github.com/users/marshallmole42/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/marshallmole42/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "marshallmole42", 
+            "type": "User", 
+            "id": 17606814, 
+            "followers_url": "https://api.github.com/users/marshallmole42/followers"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2016-05-16T08:54:39Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/svazzole/following{/other_user}", 
+            "events_url": "https://api.github.com/users/svazzole/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/svazzole/orgs", 
+            "url": "https://api.github.com/users/svazzole", 
+            "gists_url": "https://api.github.com/users/svazzole/gists{/gist_id}", 
+            "html_url": "https://github.com/svazzole", 
+            "subscriptions_url": "https://api.github.com/users/svazzole/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/6514904?v=4", 
+            "repos_url": "https://api.github.com/users/svazzole/repos", 
+            "received_events_url": "https://api.github.com/users/svazzole/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/svazzole/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "svazzole", 
+            "type": "User", 
+            "id": 6514904, 
+            "followers_url": "https://api.github.com/users/svazzole/followers"
+        }
+    }
+]

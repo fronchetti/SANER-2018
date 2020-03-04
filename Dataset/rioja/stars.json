@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2015-01-29T22:56:16Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/benmarwick/following{/other_user}", 
+            "events_url": "https://api.github.com/users/benmarwick/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/benmarwick/orgs", 
+            "url": "https://api.github.com/users/benmarwick", 
+            "gists_url": "https://api.github.com/users/benmarwick/gists{/gist_id}", 
+            "html_url": "https://github.com/benmarwick", 
+            "subscriptions_url": "https://api.github.com/users/benmarwick/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/1262179?v=4", 
+            "repos_url": "https://api.github.com/users/benmarwick/repos", 
+            "received_events_url": "https://api.github.com/users/benmarwick/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/benmarwick/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "benmarwick", 
+            "type": "User", 
+            "id": 1262179, 
+            "followers_url": "https://api.github.com/users/benmarwick/followers"
+        }
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "starred_at": "2017-06-29T11:42:31Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/JohannesFriedrich/following{/other_user}", 
+            "events_url": "https://api.github.com/users/JohannesFriedrich/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/JohannesFriedrich/orgs", 
+            "url": "https://api.github.com/users/JohannesFriedrich", 
+            "gists_url": "https://api.github.com/users/JohannesFriedrich/gists{/gist_id}", 
+            "html_url": "https://github.com/JohannesFriedrich", 
+            "subscriptions_url": "https://api.github.com/users/JohannesFriedrich/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/15369350?v=4", 
+            "repos_url": "https://api.github.com/users/JohannesFriedrich/repos", 
+            "received_events_url": "https://api.github.com/users/JohannesFriedrich/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/JohannesFriedrich/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "JohannesFriedrich", 
+            "type": "User", 
+            "id": 15369350, 
+            "followers_url": "https://api.github.com/users/JohannesFriedrich/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-07-09T08:27:26Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/Laabsm/following{/other_user}", 
+            "events_url": "https://api.github.com/users/Laabsm/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/Laabsm/orgs", 
+            "url": "https://api.github.com/users/Laabsm", 
+            "gists_url": "https://api.github.com/users/Laabsm/gists{/gist_id}", 
+            "html_url": "https://github.com/Laabsm", 
+            "subscriptions_url": "https://api.github.com/users/Laabsm/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/30017605?v=4", 
+            "repos_url": "https://api.github.com/users/Laabsm/repos", 
+            "received_events_url": "https://api.github.com/users/Laabsm/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/Laabsm/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "Laabsm", 
+            "type": "User", 
+            "id": 30017605, 
+            "followers_url": "https://api.github.com/users/Laabsm/followers"
+        }
+    }
+]

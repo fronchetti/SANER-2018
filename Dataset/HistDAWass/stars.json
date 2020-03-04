@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2017-05-20T15:40:16Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/diogo-almeida/following{/other_user}", 
+            "events_url": "https://api.github.com/users/diogo-almeida/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/diogo-almeida/orgs", 
+            "url": "https://api.github.com/users/diogo-almeida", 
+            "gists_url": "https://api.github.com/users/diogo-almeida/gists{/gist_id}", 
+            "html_url": "https://github.com/diogo-almeida", 
+            "subscriptions_url": "https://api.github.com/users/diogo-almeida/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/6156323?v=4", 
+            "repos_url": "https://api.github.com/users/diogo-almeida/repos", 
+            "received_events_url": "https://api.github.com/users/diogo-almeida/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/diogo-almeida/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "diogo-almeida", 
+            "type": "User", 
+            "id": 6156323, 
+            "followers_url": "https://api.github.com/users/diogo-almeida/followers"
+        }
+    }
+]

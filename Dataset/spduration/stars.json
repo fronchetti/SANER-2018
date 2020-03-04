@@ -1,0 +1,46 @@
+[
+    {
+        "starred_at": "2017-07-04T09:54:37Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/ulfelder/following{/other_user}", 
+            "events_url": "https://api.github.com/users/ulfelder/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/ulfelder/orgs", 
+            "url": "https://api.github.com/users/ulfelder", 
+            "gists_url": "https://api.github.com/users/ulfelder/gists{/gist_id}", 
+            "html_url": "https://github.com/ulfelder", 
+            "subscriptions_url": "https://api.github.com/users/ulfelder/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/1570791?v=4", 
+            "repos_url": "https://api.github.com/users/ulfelder/repos", 
+            "received_events_url": "https://api.github.com/users/ulfelder/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/ulfelder/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "ulfelder", 
+            "type": "User", 
+            "id": 1570791, 
+            "followers_url": "https://api.github.com/users/ulfelder/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-07-06T18:04:48Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/hail2thief/following{/other_user}", 
+            "events_url": "https://api.github.com/users/hail2thief/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/hail2thief/orgs", 
+            "url": "https://api.github.com/users/hail2thief", 
+            "gists_url": "https://api.github.com/users/hail2thief/gists{/gist_id}", 
+            "html_url": "https://github.com/hail2thief", 
+            "subscriptions_url": "https://api.github.com/users/hail2thief/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/5944086?v=4", 
+            "repos_url": "https://api.github.com/users/hail2thief/repos", 
+            "received_events_url": "https://api.github.com/users/hail2thief/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/hail2thief/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "hail2thief", 
+            "type": "User", 
+            "id": 5944086, 
+            "followers_url": "https://api.github.com/users/hail2thief/followers"
+        }
+    }
+]

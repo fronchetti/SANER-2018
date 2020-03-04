@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2016-09-27T14:13:49Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/gdkrmr/following{/other_user}", 
+            "events_url": "https://api.github.com/users/gdkrmr/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/gdkrmr/orgs", 
+            "url": "https://api.github.com/users/gdkrmr", 
+            "gists_url": "https://api.github.com/users/gdkrmr/gists{/gist_id}", 
+            "html_url": "https://github.com/gdkrmr", 
+            "subscriptions_url": "https://api.github.com/users/gdkrmr/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/12512930?v=4", 
+            "repos_url": "https://api.github.com/users/gdkrmr/repos", 
+            "received_events_url": "https://api.github.com/users/gdkrmr/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/gdkrmr/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "gdkrmr", 
+            "type": "User", 
+            "id": 12512930, 
+            "followers_url": "https://api.github.com/users/gdkrmr/followers"
+        }
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "starred_at": "2016-06-21T16:52:39Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/slwu89/following{/other_user}", 
+            "events_url": "https://api.github.com/users/slwu89/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/slwu89/orgs", 
+            "url": "https://api.github.com/users/slwu89", 
+            "gists_url": "https://api.github.com/users/slwu89/gists{/gist_id}", 
+            "html_url": "https://github.com/slwu89", 
+            "subscriptions_url": "https://api.github.com/users/slwu89/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/10673535?v=4", 
+            "repos_url": "https://api.github.com/users/slwu89/repos", 
+            "received_events_url": "https://api.github.com/users/slwu89/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/slwu89/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "slwu89", 
+            "type": "User", 
+            "id": 10673535, 
+            "followers_url": "https://api.github.com/users/slwu89/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-11-05T11:39:49Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/lidinghi/following{/other_user}", 
+            "events_url": "https://api.github.com/users/lidinghi/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/lidinghi/orgs", 
+            "url": "https://api.github.com/users/lidinghi", 
+            "gists_url": "https://api.github.com/users/lidinghi/gists{/gist_id}", 
+            "html_url": "https://github.com/lidinghi", 
+            "subscriptions_url": "https://api.github.com/users/lidinghi/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/31574009?v=4", 
+            "repos_url": "https://api.github.com/users/lidinghi/repos", 
+            "received_events_url": "https://api.github.com/users/lidinghi/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/lidinghi/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "lidinghi", 
+            "type": "User", 
+            "id": 31574009, 
+            "followers_url": "https://api.github.com/users/lidinghi/followers"
+        }
+    }
+]

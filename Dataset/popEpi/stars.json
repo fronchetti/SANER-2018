@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2016-11-08T12:18:49Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/mattirantanen/following{/other_user}", 
+            "events_url": "https://api.github.com/users/mattirantanen/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/mattirantanen/orgs", 
+            "url": "https://api.github.com/users/mattirantanen", 
+            "gists_url": "https://api.github.com/users/mattirantanen/gists{/gist_id}", 
+            "html_url": "https://github.com/mattirantanen", 
+            "subscriptions_url": "https://api.github.com/users/mattirantanen/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/10721213?v=4", 
+            "repos_url": "https://api.github.com/users/mattirantanen/repos", 
+            "received_events_url": "https://api.github.com/users/mattirantanen/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/mattirantanen/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "mattirantanen", 
+            "type": "User", 
+            "id": 10721213, 
+            "followers_url": "https://api.github.com/users/mattirantanen/followers"
+        }
+    }
+]

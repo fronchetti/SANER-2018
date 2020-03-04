@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2016-07-26T01:04:04Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/omarbenites/following{/other_user}", 
+            "events_url": "https://api.github.com/users/omarbenites/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/omarbenites/orgs", 
+            "url": "https://api.github.com/users/omarbenites", 
+            "gists_url": "https://api.github.com/users/omarbenites/gists{/gist_id}", 
+            "html_url": "https://github.com/omarbenites", 
+            "subscriptions_url": "https://api.github.com/users/omarbenites/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/5264796?v=4", 
+            "repos_url": "https://api.github.com/users/omarbenites/repos", 
+            "received_events_url": "https://api.github.com/users/omarbenites/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/omarbenites/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "omarbenites", 
+            "type": "User", 
+            "id": 5264796, 
+            "followers_url": "https://api.github.com/users/omarbenites/followers"
+        }
+    }
+]

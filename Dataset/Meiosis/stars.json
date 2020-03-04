@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2017-03-31T18:31:02Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/kbroman/following{/other_user}", 
+            "events_url": "https://api.github.com/users/kbroman/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/kbroman/orgs", 
+            "url": "https://api.github.com/users/kbroman", 
+            "gists_url": "https://api.github.com/users/kbroman/gists{/gist_id}", 
+            "html_url": "https://github.com/kbroman", 
+            "subscriptions_url": "https://api.github.com/users/kbroman/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/53972?v=4", 
+            "repos_url": "https://api.github.com/users/kbroman/repos", 
+            "received_events_url": "https://api.github.com/users/kbroman/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/kbroman/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "kbroman", 
+            "type": "User", 
+            "id": 53972, 
+            "followers_url": "https://api.github.com/users/kbroman/followers"
+        }
+    }
+]

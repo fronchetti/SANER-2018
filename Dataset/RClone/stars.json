@@ -1,0 +1,68 @@
+[
+    {
+        "starred_at": "2015-11-27T07:53:20Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/jerome-laurent-pro/following{/other_user}", 
+            "events_url": "https://api.github.com/users/jerome-laurent-pro/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/jerome-laurent-pro/orgs", 
+            "url": "https://api.github.com/users/jerome-laurent-pro", 
+            "gists_url": "https://api.github.com/users/jerome-laurent-pro/gists{/gist_id}", 
+            "html_url": "https://github.com/jerome-laurent-pro", 
+            "subscriptions_url": "https://api.github.com/users/jerome-laurent-pro/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/12716864?v=4", 
+            "repos_url": "https://api.github.com/users/jerome-laurent-pro/repos", 
+            "received_events_url": "https://api.github.com/users/jerome-laurent-pro/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/jerome-laurent-pro/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "jerome-laurent-pro", 
+            "type": "User", 
+            "id": 12716864, 
+            "followers_url": "https://api.github.com/users/jerome-laurent-pro/followers"
+        }
+    }, 
+    {
+        "starred_at": "2016-03-30T20:33:17Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/zkamvar/following{/other_user}", 
+            "events_url": "https://api.github.com/users/zkamvar/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/zkamvar/orgs", 
+            "url": "https://api.github.com/users/zkamvar", 
+            "gists_url": "https://api.github.com/users/zkamvar/gists{/gist_id}", 
+            "html_url": "https://github.com/zkamvar", 
+            "subscriptions_url": "https://api.github.com/users/zkamvar/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/3639446?v=4", 
+            "repos_url": "https://api.github.com/users/zkamvar/repos", 
+            "received_events_url": "https://api.github.com/users/zkamvar/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/zkamvar/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "zkamvar", 
+            "type": "User", 
+            "id": 3639446, 
+            "followers_url": "https://api.github.com/users/zkamvar/followers"
+        }
+    }, 
+    {
+        "starred_at": "2016-06-16T14:28:22Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/wjidea/following{/other_user}", 
+            "events_url": "https://api.github.com/users/wjidea/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/wjidea/orgs", 
+            "url": "https://api.github.com/users/wjidea", 
+            "gists_url": "https://api.github.com/users/wjidea/gists{/gist_id}", 
+            "html_url": "https://github.com/wjidea", 
+            "subscriptions_url": "https://api.github.com/users/wjidea/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/2231493?v=4", 
+            "repos_url": "https://api.github.com/users/wjidea/repos", 
+            "received_events_url": "https://api.github.com/users/wjidea/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/wjidea/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "wjidea", 
+            "type": "User", 
+            "id": 2231493, 
+            "followers_url": "https://api.github.com/users/wjidea/followers"
+        }
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "starred_at": "2017-04-27T06:03:19Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/kuzmenkov111/following{/other_user}", 
+            "events_url": "https://api.github.com/users/kuzmenkov111/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/kuzmenkov111/orgs", 
+            "url": "https://api.github.com/users/kuzmenkov111", 
+            "gists_url": "https://api.github.com/users/kuzmenkov111/gists{/gist_id}", 
+            "html_url": "https://github.com/kuzmenkov111", 
+            "subscriptions_url": "https://api.github.com/users/kuzmenkov111/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/13810479?v=4", 
+            "repos_url": "https://api.github.com/users/kuzmenkov111/repos", 
+            "received_events_url": "https://api.github.com/users/kuzmenkov111/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/kuzmenkov111/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "kuzmenkov111", 
+            "type": "User", 
+            "id": 13810479, 
+            "followers_url": "https://api.github.com/users/kuzmenkov111/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-05-01T17:12:29Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/silverstone1903/following{/other_user}", 
+            "events_url": "https://api.github.com/users/silverstone1903/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/silverstone1903/orgs", 
+            "url": "https://api.github.com/users/silverstone1903", 
+            "gists_url": "https://api.github.com/users/silverstone1903/gists{/gist_id}", 
+            "html_url": "https://github.com/silverstone1903", 
+            "subscriptions_url": "https://api.github.com/users/silverstone1903/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/9806827?v=4", 
+            "repos_url": "https://api.github.com/users/silverstone1903/repos", 
+            "received_events_url": "https://api.github.com/users/silverstone1903/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/silverstone1903/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "silverstone1903", 
+            "type": "User", 
+            "id": 9806827, 
+            "followers_url": "https://api.github.com/users/silverstone1903/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-06-15T08:51:23Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/seabbs/following{/other_user}", 
+            "events_url": "https://api.github.com/users/seabbs/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/seabbs/orgs", 
+            "url": "https://api.github.com/users/seabbs", 
+            "gists_url": "https://api.github.com/users/seabbs/gists{/gist_id}", 
+            "html_url": "https://github.com/seabbs", 
+            "subscriptions_url": "https://api.github.com/users/seabbs/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/20317649?v=4", 
+            "repos_url": "https://api.github.com/users/seabbs/repos", 
+            "received_events_url": "https://api.github.com/users/seabbs/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/seabbs/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "seabbs", 
+            "type": "User", 
+            "id": 20317649, 
+            "followers_url": "https://api.github.com/users/seabbs/followers"
+        }
+    }
+]

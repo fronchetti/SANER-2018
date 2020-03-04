@@ -1,0 +1,68 @@
+[
+    {
+        "starred_at": "2017-01-04T17:12:47Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/zkamvar/following{/other_user}", 
+            "events_url": "https://api.github.com/users/zkamvar/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/zkamvar/orgs", 
+            "url": "https://api.github.com/users/zkamvar", 
+            "gists_url": "https://api.github.com/users/zkamvar/gists{/gist_id}", 
+            "html_url": "https://github.com/zkamvar", 
+            "subscriptions_url": "https://api.github.com/users/zkamvar/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/3639446?v=4", 
+            "repos_url": "https://api.github.com/users/zkamvar/repos", 
+            "received_events_url": "https://api.github.com/users/zkamvar/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/zkamvar/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "zkamvar", 
+            "type": "User", 
+            "id": 3639446, 
+            "followers_url": "https://api.github.com/users/zkamvar/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-06-08T05:38:26Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/JujuW/following{/other_user}", 
+            "events_url": "https://api.github.com/users/JujuW/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/JujuW/orgs", 
+            "url": "https://api.github.com/users/JujuW", 
+            "gists_url": "https://api.github.com/users/JujuW/gists{/gist_id}", 
+            "html_url": "https://github.com/JujuW", 
+            "subscriptions_url": "https://api.github.com/users/JujuW/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/17892444?v=4", 
+            "repos_url": "https://api.github.com/users/JujuW/repos", 
+            "received_events_url": "https://api.github.com/users/JujuW/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/JujuW/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "JujuW", 
+            "type": "User", 
+            "id": 17892444, 
+            "followers_url": "https://api.github.com/users/JujuW/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-11-03T20:28:22Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/francoio/following{/other_user}", 
+            "events_url": "https://api.github.com/users/francoio/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/francoio/orgs", 
+            "url": "https://api.github.com/users/francoio", 
+            "gists_url": "https://api.github.com/users/francoio/gists{/gist_id}", 
+            "html_url": "https://github.com/francoio", 
+            "subscriptions_url": "https://api.github.com/users/francoio/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/19759155?v=4", 
+            "repos_url": "https://api.github.com/users/francoio/repos", 
+            "received_events_url": "https://api.github.com/users/francoio/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/francoio/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "francoio", 
+            "type": "User", 
+            "id": 19759155, 
+            "followers_url": "https://api.github.com/users/francoio/followers"
+        }
+    }
+]

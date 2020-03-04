@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2017-07-10T09:56:44Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/lorenzo-rovigatti/following{/other_user}", 
+            "events_url": "https://api.github.com/users/lorenzo-rovigatti/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/lorenzo-rovigatti/orgs", 
+            "url": "https://api.github.com/users/lorenzo-rovigatti", 
+            "gists_url": "https://api.github.com/users/lorenzo-rovigatti/gists{/gist_id}", 
+            "html_url": "https://github.com/lorenzo-rovigatti", 
+            "subscriptions_url": "https://api.github.com/users/lorenzo-rovigatti/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/68116?v=4", 
+            "repos_url": "https://api.github.com/users/lorenzo-rovigatti/repos", 
+            "received_events_url": "https://api.github.com/users/lorenzo-rovigatti/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/lorenzo-rovigatti/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "lorenzo-rovigatti", 
+            "type": "User", 
+            "id": 68116, 
+            "followers_url": "https://api.github.com/users/lorenzo-rovigatti/followers"
+        }
+    }
+]

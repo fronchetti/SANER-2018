@@ -1,0 +1,46 @@
+[
+    {
+        "starred_at": "2017-02-21T04:08:13Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/artemklevtsov/following{/other_user}", 
+            "events_url": "https://api.github.com/users/artemklevtsov/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/artemklevtsov/orgs", 
+            "url": "https://api.github.com/users/artemklevtsov", 
+            "gists_url": "https://api.github.com/users/artemklevtsov/gists{/gist_id}", 
+            "html_url": "https://github.com/artemklevtsov", 
+            "subscriptions_url": "https://api.github.com/users/artemklevtsov/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/603798?v=4", 
+            "repos_url": "https://api.github.com/users/artemklevtsov/repos", 
+            "received_events_url": "https://api.github.com/users/artemklevtsov/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/artemklevtsov/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "artemklevtsov", 
+            "type": "User", 
+            "id": 603798, 
+            "followers_url": "https://api.github.com/users/artemklevtsov/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-06-09T22:36:18Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/talgalili/following{/other_user}", 
+            "events_url": "https://api.github.com/users/talgalili/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/talgalili/orgs", 
+            "url": "https://api.github.com/users/talgalili", 
+            "gists_url": "https://api.github.com/users/talgalili/gists{/gist_id}", 
+            "html_url": "https://github.com/talgalili", 
+            "subscriptions_url": "https://api.github.com/users/talgalili/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/976006?v=4", 
+            "repos_url": "https://api.github.com/users/talgalili/repos", 
+            "received_events_url": "https://api.github.com/users/talgalili/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/talgalili/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "talgalili", 
+            "type": "User", 
+            "id": 976006, 
+            "followers_url": "https://api.github.com/users/talgalili/followers"
+        }
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "starred_at": "2017-08-25T11:28:20Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/JohnNay/following{/other_user}", 
+            "events_url": "https://api.github.com/users/JohnNay/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/JohnNay/orgs", 
+            "url": "https://api.github.com/users/JohnNay", 
+            "gists_url": "https://api.github.com/users/JohnNay/gists{/gist_id}", 
+            "html_url": "https://github.com/JohnNay", 
+            "subscriptions_url": "https://api.github.com/users/JohnNay/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/8429627?v=4", 
+            "repos_url": "https://api.github.com/users/JohnNay/repos", 
+            "received_events_url": "https://api.github.com/users/JohnNay/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/JohnNay/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "JohnNay", 
+            "type": "User", 
+            "id": 8429627, 
+            "followers_url": "https://api.github.com/users/JohnNay/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-10-20T17:11:14Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/talegari/following{/other_user}", 
+            "events_url": "https://api.github.com/users/talegari/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/talegari/orgs", 
+            "url": "https://api.github.com/users/talegari", 
+            "gists_url": "https://api.github.com/users/talegari/gists{/gist_id}", 
+            "html_url": "https://github.com/talegari", 
+            "subscriptions_url": "https://api.github.com/users/talegari/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/10041819?v=4", 
+            "repos_url": "https://api.github.com/users/talegari/repos", 
+            "received_events_url": "https://api.github.com/users/talegari/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/talegari/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "talegari", 
+            "type": "User", 
+            "id": 10041819, 
+            "followers_url": "https://api.github.com/users/talegari/followers"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2017-07-02T20:17:03Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/fmichonneau/following{/other_user}", 
+            "events_url": "https://api.github.com/users/fmichonneau/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/fmichonneau/orgs", 
+            "url": "https://api.github.com/users/fmichonneau", 
+            "gists_url": "https://api.github.com/users/fmichonneau/gists{/gist_id}", 
+            "html_url": "https://github.com/fmichonneau", 
+            "subscriptions_url": "https://api.github.com/users/fmichonneau/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/5502922?v=4", 
+            "repos_url": "https://api.github.com/users/fmichonneau/repos", 
+            "received_events_url": "https://api.github.com/users/fmichonneau/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/fmichonneau/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "fmichonneau", 
+            "type": "User", 
+            "id": 5502922, 
+            "followers_url": "https://api.github.com/users/fmichonneau/followers"
+        }
+    }
+]

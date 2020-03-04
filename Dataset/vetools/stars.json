@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2017-02-22T15:18:00Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/luismmontilla/following{/other_user}", 
+            "events_url": "https://api.github.com/users/luismmontilla/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/luismmontilla/orgs", 
+            "url": "https://api.github.com/users/luismmontilla", 
+            "gists_url": "https://api.github.com/users/luismmontilla/gists{/gist_id}", 
+            "html_url": "https://github.com/luismmontilla", 
+            "subscriptions_url": "https://api.github.com/users/luismmontilla/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/13678780?v=4", 
+            "repos_url": "https://api.github.com/users/luismmontilla/repos", 
+            "received_events_url": "https://api.github.com/users/luismmontilla/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/luismmontilla/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "luismmontilla", 
+            "type": "User", 
+            "id": 13678780, 
+            "followers_url": "https://api.github.com/users/luismmontilla/followers"
+        }
+    }
+]

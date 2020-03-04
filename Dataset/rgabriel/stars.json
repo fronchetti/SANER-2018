@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2015-04-26T17:35:30Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/jerheff/following{/other_user}", 
+            "events_url": "https://api.github.com/users/jerheff/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/jerheff/orgs", 
+            "url": "https://api.github.com/users/jerheff", 
+            "gists_url": "https://api.github.com/users/jerheff/gists{/gist_id}", 
+            "html_url": "https://github.com/jerheff", 
+            "subscriptions_url": "https://api.github.com/users/jerheff/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3886031?v=4", 
+            "repos_url": "https://api.github.com/users/jerheff/repos", 
+            "received_events_url": "https://api.github.com/users/jerheff/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/jerheff/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "jerheff", 
+            "type": "User", 
+            "id": 3886031, 
+            "followers_url": "https://api.github.com/users/jerheff/followers"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2017-07-11T09:35:55Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/rogiersbart/following{/other_user}", 
+            "events_url": "https://api.github.com/users/rogiersbart/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/rogiersbart/orgs", 
+            "url": "https://api.github.com/users/rogiersbart", 
+            "gists_url": "https://api.github.com/users/rogiersbart/gists{/gist_id}", 
+            "html_url": "https://github.com/rogiersbart", 
+            "subscriptions_url": "https://api.github.com/users/rogiersbart/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/6832060?v=4", 
+            "repos_url": "https://api.github.com/users/rogiersbart/repos", 
+            "received_events_url": "https://api.github.com/users/rogiersbart/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/rogiersbart/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "rogiersbart", 
+            "type": "User", 
+            "id": 6832060, 
+            "followers_url": "https://api.github.com/users/rogiersbart/followers"
+        }
+    }
+]

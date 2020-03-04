@@ -1,0 +1,112 @@
+[
+    {
+        "starred_at": "2017-06-04T00:15:54Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/benmarwick/following{/other_user}", 
+            "events_url": "https://api.github.com/users/benmarwick/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/benmarwick/orgs", 
+            "url": "https://api.github.com/users/benmarwick", 
+            "gists_url": "https://api.github.com/users/benmarwick/gists{/gist_id}", 
+            "html_url": "https://github.com/benmarwick", 
+            "subscriptions_url": "https://api.github.com/users/benmarwick/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/1262179?v=4", 
+            "repos_url": "https://api.github.com/users/benmarwick/repos", 
+            "received_events_url": "https://api.github.com/users/benmarwick/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/benmarwick/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "benmarwick", 
+            "type": "User", 
+            "id": 1262179, 
+            "followers_url": "https://api.github.com/users/benmarwick/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-08-14T00:06:58Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/alienzj/following{/other_user}", 
+            "events_url": "https://api.github.com/users/alienzj/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/alienzj/orgs", 
+            "url": "https://api.github.com/users/alienzj", 
+            "gists_url": "https://api.github.com/users/alienzj/gists{/gist_id}", 
+            "html_url": "https://github.com/alienzj", 
+            "subscriptions_url": "https://api.github.com/users/alienzj/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/8847420?v=4", 
+            "repos_url": "https://api.github.com/users/alienzj/repos", 
+            "received_events_url": "https://api.github.com/users/alienzj/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/alienzj/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "alienzj", 
+            "type": "User", 
+            "id": 8847420, 
+            "followers_url": "https://api.github.com/users/alienzj/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-09-29T20:24:02Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/mikedolanfliss/following{/other_user}", 
+            "events_url": "https://api.github.com/users/mikedolanfliss/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/mikedolanfliss/orgs", 
+            "url": "https://api.github.com/users/mikedolanfliss", 
+            "gists_url": "https://api.github.com/users/mikedolanfliss/gists{/gist_id}", 
+            "html_url": "https://github.com/mikedolanfliss", 
+            "subscriptions_url": "https://api.github.com/users/mikedolanfliss/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/13091889?v=4", 
+            "repos_url": "https://api.github.com/users/mikedolanfliss/repos", 
+            "received_events_url": "https://api.github.com/users/mikedolanfliss/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/mikedolanfliss/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "mikedolanfliss", 
+            "type": "User", 
+            "id": 13091889, 
+            "followers_url": "https://api.github.com/users/mikedolanfliss/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-09-29T21:24:35Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/jwainer/following{/other_user}", 
+            "events_url": "https://api.github.com/users/jwainer/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/jwainer/orgs", 
+            "url": "https://api.github.com/users/jwainer", 
+            "gists_url": "https://api.github.com/users/jwainer/gists{/gist_id}", 
+            "html_url": "https://github.com/jwainer", 
+            "subscriptions_url": "https://api.github.com/users/jwainer/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/5407057?v=4", 
+            "repos_url": "https://api.github.com/users/jwainer/repos", 
+            "received_events_url": "https://api.github.com/users/jwainer/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/jwainer/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "jwainer", 
+            "type": "User", 
+            "id": 5407057, 
+            "followers_url": "https://api.github.com/users/jwainer/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-10-25T10:28:52Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/ljodea/following{/other_user}", 
+            "events_url": "https://api.github.com/users/ljodea/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/ljodea/orgs", 
+            "url": "https://api.github.com/users/ljodea", 
+            "gists_url": "https://api.github.com/users/ljodea/gists{/gist_id}", 
+            "html_url": "https://github.com/ljodea", 
+            "subscriptions_url": "https://api.github.com/users/ljodea/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/27716214?v=4", 
+            "repos_url": "https://api.github.com/users/ljodea/repos", 
+            "received_events_url": "https://api.github.com/users/ljodea/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/ljodea/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "ljodea", 
+            "type": "User", 
+            "id": 27716214, 
+            "followers_url": "https://api.github.com/users/ljodea/followers"
+        }
+    }
+]

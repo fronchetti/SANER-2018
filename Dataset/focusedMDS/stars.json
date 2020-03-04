@@ -1,0 +1,46 @@
+[
+    {
+        "starred_at": "2017-05-09T15:52:34Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/owendall/following{/other_user}", 
+            "events_url": "https://api.github.com/users/owendall/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/owendall/orgs", 
+            "url": "https://api.github.com/users/owendall", 
+            "gists_url": "https://api.github.com/users/owendall/gists{/gist_id}", 
+            "html_url": "https://github.com/owendall", 
+            "subscriptions_url": "https://api.github.com/users/owendall/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/10927?v=4", 
+            "repos_url": "https://api.github.com/users/owendall/repos", 
+            "received_events_url": "https://api.github.com/users/owendall/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/owendall/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "owendall", 
+            "type": "User", 
+            "id": 10927, 
+            "followers_url": "https://api.github.com/users/owendall/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-05-12T11:37:50Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/FrancoisGuillem/following{/other_user}", 
+            "events_url": "https://api.github.com/users/FrancoisGuillem/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/FrancoisGuillem/orgs", 
+            "url": "https://api.github.com/users/FrancoisGuillem", 
+            "gists_url": "https://api.github.com/users/FrancoisGuillem/gists{/gist_id}", 
+            "html_url": "https://github.com/FrancoisGuillem", 
+            "subscriptions_url": "https://api.github.com/users/FrancoisGuillem/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/3432606?v=4", 
+            "repos_url": "https://api.github.com/users/FrancoisGuillem/repos", 
+            "received_events_url": "https://api.github.com/users/FrancoisGuillem/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/FrancoisGuillem/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "FrancoisGuillem", 
+            "type": "User", 
+            "id": 3432606, 
+            "followers_url": "https://api.github.com/users/FrancoisGuillem/followers"
+        }
+    }
+]

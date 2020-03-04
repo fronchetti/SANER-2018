@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2017-12-06T14:49:59Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/matteodefelice/following{/other_user}", 
+            "events_url": "https://api.github.com/users/matteodefelice/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/matteodefelice/orgs", 
+            "url": "https://api.github.com/users/matteodefelice", 
+            "gists_url": "https://api.github.com/users/matteodefelice/gists{/gist_id}", 
+            "html_url": "https://github.com/matteodefelice", 
+            "subscriptions_url": "https://api.github.com/users/matteodefelice/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/6360066?v=4", 
+            "repos_url": "https://api.github.com/users/matteodefelice/repos", 
+            "received_events_url": "https://api.github.com/users/matteodefelice/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/matteodefelice/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "matteodefelice", 
+            "type": "User", 
+            "id": 6360066, 
+            "followers_url": "https://api.github.com/users/matteodefelice/followers"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2016-04-09T17:04:53Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/almartin82/following{/other_user}", 
+            "events_url": "https://api.github.com/users/almartin82/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/almartin82/orgs", 
+            "url": "https://api.github.com/users/almartin82", 
+            "gists_url": "https://api.github.com/users/almartin82/gists{/gist_id}", 
+            "html_url": "https://github.com/almartin82", 
+            "subscriptions_url": "https://api.github.com/users/almartin82/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/782135?v=4", 
+            "repos_url": "https://api.github.com/users/almartin82/repos", 
+            "received_events_url": "https://api.github.com/users/almartin82/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/almartin82/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "almartin82", 
+            "type": "User", 
+            "id": 782135, 
+            "followers_url": "https://api.github.com/users/almartin82/followers"
+        }
+    }
+]

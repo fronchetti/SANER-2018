@@ -1,0 +1,46 @@
+[
+    {
+        "starred_at": "2013-07-12T14:45:28Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/yoni/following{/other_user}", 
+            "events_url": "https://api.github.com/users/yoni/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/yoni/orgs", 
+            "url": "https://api.github.com/users/yoni", 
+            "gists_url": "https://api.github.com/users/yoni/gists{/gist_id}", 
+            "html_url": "https://github.com/yoni", 
+            "subscriptions_url": "https://api.github.com/users/yoni/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/122477?v=4", 
+            "repos_url": "https://api.github.com/users/yoni/repos", 
+            "received_events_url": "https://api.github.com/users/yoni/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/yoni/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "yoni", 
+            "type": "User", 
+            "id": 122477, 
+            "followers_url": "https://api.github.com/users/yoni/followers"
+        }
+    }, 
+    {
+        "starred_at": "2013-07-12T17:12:12Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/cooljeanius/following{/other_user}", 
+            "events_url": "https://api.github.com/users/cooljeanius/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/cooljeanius/orgs", 
+            "url": "https://api.github.com/users/cooljeanius", 
+            "gists_url": "https://api.github.com/users/cooljeanius/gists{/gist_id}", 
+            "html_url": "https://github.com/cooljeanius", 
+            "subscriptions_url": "https://api.github.com/users/cooljeanius/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/1388660?v=4", 
+            "repos_url": "https://api.github.com/users/cooljeanius/repos", 
+            "received_events_url": "https://api.github.com/users/cooljeanius/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/cooljeanius/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "cooljeanius", 
+            "type": "User", 
+            "id": 1388660, 
+            "followers_url": "https://api.github.com/users/cooljeanius/followers"
+        }
+    }
+]

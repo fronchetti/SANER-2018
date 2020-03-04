@@ -1,0 +1,68 @@
+[
+    {
+        "starred_at": "2016-10-05T12:07:17Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/jsonbecker/following{/other_user}", 
+            "events_url": "https://api.github.com/users/jsonbecker/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/jsonbecker/orgs", 
+            "url": "https://api.github.com/users/jsonbecker", 
+            "gists_url": "https://api.github.com/users/jsonbecker/gists{/gist_id}", 
+            "html_url": "https://github.com/jsonbecker", 
+            "subscriptions_url": "https://api.github.com/users/jsonbecker/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/1314104?v=4", 
+            "repos_url": "https://api.github.com/users/jsonbecker/repos", 
+            "received_events_url": "https://api.github.com/users/jsonbecker/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/jsonbecker/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "jsonbecker", 
+            "type": "User", 
+            "id": 1314104, 
+            "followers_url": "https://api.github.com/users/jsonbecker/followers"
+        }
+    }, 
+    {
+        "starred_at": "2016-10-05T13:39:39Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/jknowles/following{/other_user}", 
+            "events_url": "https://api.github.com/users/jknowles/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/jknowles/orgs", 
+            "url": "https://api.github.com/users/jknowles", 
+            "gists_url": "https://api.github.com/users/jknowles/gists{/gist_id}", 
+            "html_url": "https://github.com/jknowles", 
+            "subscriptions_url": "https://api.github.com/users/jknowles/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/1310474?v=4", 
+            "repos_url": "https://api.github.com/users/jknowles/repos", 
+            "received_events_url": "https://api.github.com/users/jknowles/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/jknowles/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "jknowles", 
+            "type": "User", 
+            "id": 1310474, 
+            "followers_url": "https://api.github.com/users/jknowles/followers"
+        }
+    }, 
+    {
+        "starred_at": "2016-10-05T23:05:11Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/alspur/following{/other_user}", 
+            "events_url": "https://api.github.com/users/alspur/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/alspur/orgs", 
+            "url": "https://api.github.com/users/alspur", 
+            "gists_url": "https://api.github.com/users/alspur/gists{/gist_id}", 
+            "html_url": "https://github.com/alspur", 
+            "subscriptions_url": "https://api.github.com/users/alspur/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/3802134?v=4", 
+            "repos_url": "https://api.github.com/users/alspur/repos", 
+            "received_events_url": "https://api.github.com/users/alspur/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/alspur/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "alspur", 
+            "type": "User", 
+            "id": 3802134, 
+            "followers_url": "https://api.github.com/users/alspur/followers"
+        }
+    }
+]

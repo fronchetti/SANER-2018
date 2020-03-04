@@ -1,0 +1,46 @@
+[
+    {
+        "starred_at": "2015-09-26T04:35:15Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/vwmaus/following{/other_user}", 
+            "events_url": "https://api.github.com/users/vwmaus/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/vwmaus/orgs", 
+            "url": "https://api.github.com/users/vwmaus", 
+            "gists_url": "https://api.github.com/users/vwmaus/gists{/gist_id}", 
+            "html_url": "https://github.com/vwmaus", 
+            "subscriptions_url": "https://api.github.com/users/vwmaus/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/9719656?v=4", 
+            "repos_url": "https://api.github.com/users/vwmaus/repos", 
+            "received_events_url": "https://api.github.com/users/vwmaus/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/vwmaus/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "vwmaus", 
+            "type": "User", 
+            "id": 9719656, 
+            "followers_url": "https://api.github.com/users/vwmaus/followers"
+        }
+    }, 
+    {
+        "starred_at": "2016-02-17T12:56:43Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/luizassis/following{/other_user}", 
+            "events_url": "https://api.github.com/users/luizassis/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/luizassis/orgs", 
+            "url": "https://api.github.com/users/luizassis", 
+            "gists_url": "https://api.github.com/users/luizassis/gists{/gist_id}", 
+            "html_url": "https://github.com/luizassis", 
+            "subscriptions_url": "https://api.github.com/users/luizassis/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/17024104?v=4", 
+            "repos_url": "https://api.github.com/users/luizassis/repos", 
+            "received_events_url": "https://api.github.com/users/luizassis/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/luizassis/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "luizassis", 
+            "type": "User", 
+            "id": 17024104, 
+            "followers_url": "https://api.github.com/users/luizassis/followers"
+        }
+    }
+]

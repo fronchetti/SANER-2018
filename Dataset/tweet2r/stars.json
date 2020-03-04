@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2016-11-11T00:08:55Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/methodds/following{/other_user}", 
+            "events_url": "https://api.github.com/users/methodds/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/methodds/orgs", 
+            "url": "https://api.github.com/users/methodds", 
+            "gists_url": "https://api.github.com/users/methodds/gists{/gist_id}", 
+            "html_url": "https://github.com/methodds", 
+            "subscriptions_url": "https://api.github.com/users/methodds/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/7460499?v=4", 
+            "repos_url": "https://api.github.com/users/methodds/repos", 
+            "received_events_url": "https://api.github.com/users/methodds/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/methodds/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "methodds", 
+            "type": "User", 
+            "id": 7460499, 
+            "followers_url": "https://api.github.com/users/methodds/followers"
+        }
+    }
+]

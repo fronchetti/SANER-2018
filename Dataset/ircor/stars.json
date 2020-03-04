@@ -1,0 +1,46 @@
+[
+    {
+        "starred_at": "2017-10-04T09:21:22Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/arjenpdevries/following{/other_user}", 
+            "events_url": "https://api.github.com/users/arjenpdevries/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/arjenpdevries/orgs", 
+            "url": "https://api.github.com/users/arjenpdevries", 
+            "gists_url": "https://api.github.com/users/arjenpdevries/gists{/gist_id}", 
+            "html_url": "https://github.com/arjenpdevries", 
+            "subscriptions_url": "https://api.github.com/users/arjenpdevries/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/642221?v=4", 
+            "repos_url": "https://api.github.com/users/arjenpdevries/repos", 
+            "received_events_url": "https://api.github.com/users/arjenpdevries/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/arjenpdevries/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "arjenpdevries", 
+            "type": "User", 
+            "id": 642221, 
+            "followers_url": "https://api.github.com/users/arjenpdevries/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-10-09T07:10:51Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/hscells/following{/other_user}", 
+            "events_url": "https://api.github.com/users/hscells/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/hscells/orgs", 
+            "url": "https://api.github.com/users/hscells", 
+            "gists_url": "https://api.github.com/users/hscells/gists{/gist_id}", 
+            "html_url": "https://github.com/hscells", 
+            "subscriptions_url": "https://api.github.com/users/hscells/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/6388537?v=4", 
+            "repos_url": "https://api.github.com/users/hscells/repos", 
+            "received_events_url": "https://api.github.com/users/hscells/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/hscells/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "hscells", 
+            "type": "User", 
+            "id": 6388537, 
+            "followers_url": "https://api.github.com/users/hscells/followers"
+        }
+    }
+]

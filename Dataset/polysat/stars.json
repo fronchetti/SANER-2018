@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2017-04-16T19:32:25Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/zkamvar/following{/other_user}", 
+            "events_url": "https://api.github.com/users/zkamvar/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/zkamvar/orgs", 
+            "url": "https://api.github.com/users/zkamvar", 
+            "gists_url": "https://api.github.com/users/zkamvar/gists{/gist_id}", 
+            "html_url": "https://github.com/zkamvar", 
+            "subscriptions_url": "https://api.github.com/users/zkamvar/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/3639446?v=4", 
+            "repos_url": "https://api.github.com/users/zkamvar/repos", 
+            "received_events_url": "https://api.github.com/users/zkamvar/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/zkamvar/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "zkamvar", 
+            "type": "User", 
+            "id": 3639446, 
+            "followers_url": "https://api.github.com/users/zkamvar/followers"
+        }
+    }
+]

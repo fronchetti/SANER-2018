@@ -1,0 +1,46 @@
+[
+    {
+        "starred_at": "2016-06-11T03:00:37Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/roman3x/following{/other_user}", 
+            "events_url": "https://api.github.com/users/roman3x/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/roman3x/orgs", 
+            "url": "https://api.github.com/users/roman3x", 
+            "gists_url": "https://api.github.com/users/roman3x/gists{/gist_id}", 
+            "html_url": "https://github.com/roman3x", 
+            "subscriptions_url": "https://api.github.com/users/roman3x/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/1325568?v=4", 
+            "repos_url": "https://api.github.com/users/roman3x/repos", 
+            "received_events_url": "https://api.github.com/users/roman3x/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/roman3x/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "roman3x", 
+            "type": "User", 
+            "id": 1325568, 
+            "followers_url": "https://api.github.com/users/roman3x/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-07-26T18:57:19Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/ivan-krukov/following{/other_user}", 
+            "events_url": "https://api.github.com/users/ivan-krukov/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/ivan-krukov/orgs", 
+            "url": "https://api.github.com/users/ivan-krukov", 
+            "gists_url": "https://api.github.com/users/ivan-krukov/gists{/gist_id}", 
+            "html_url": "https://github.com/ivan-krukov", 
+            "subscriptions_url": "https://api.github.com/users/ivan-krukov/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/1881263?v=4", 
+            "repos_url": "https://api.github.com/users/ivan-krukov/repos", 
+            "received_events_url": "https://api.github.com/users/ivan-krukov/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/ivan-krukov/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "ivan-krukov", 
+            "type": "User", 
+            "id": 1881263, 
+            "followers_url": "https://api.github.com/users/ivan-krukov/followers"
+        }
+    }
+]

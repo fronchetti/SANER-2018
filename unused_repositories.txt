@@ -1,0 +1,11 @@
+https://github.com/dami82/ * Without repository name
+https://github.com/spatstat/spatstat.html/ * Private repository
+https://github.com/giguerch/ * Without repository name
+https://github.com/ClementCalenge/ * Without repository name
+https://github.com/jeremyrcoyle/ * Without repository name
+https://github.com/jrnold/smss/ * Private repository
+https://github.com/ngreifer/ * Without repository name
+https://github.com/guido-s/ * Without repository name
+https://github.com/wencke/wenckehub.io/ * Private repository
+https://github.com/bozenne/ * Without repository name
+https://github.com/yguitton/ * Without repository name

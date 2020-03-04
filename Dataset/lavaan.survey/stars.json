@@ -1,0 +1,46 @@
+[
+    {
+        "starred_at": "2016-11-30T15:35:34Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/simongrund1/following{/other_user}", 
+            "events_url": "https://api.github.com/users/simongrund1/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/simongrund1/orgs", 
+            "url": "https://api.github.com/users/simongrund1", 
+            "gists_url": "https://api.github.com/users/simongrund1/gists{/gist_id}", 
+            "html_url": "https://github.com/simongrund1", 
+            "subscriptions_url": "https://api.github.com/users/simongrund1/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/3588593?v=4", 
+            "repos_url": "https://api.github.com/users/simongrund1/repos", 
+            "received_events_url": "https://api.github.com/users/simongrund1/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/simongrund1/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "simongrund1", 
+            "type": "User", 
+            "id": 3588593, 
+            "followers_url": "https://api.github.com/users/simongrund1/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-06-13T02:13:11Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/brittapril/following{/other_user}", 
+            "events_url": "https://api.github.com/users/brittapril/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/brittapril/orgs", 
+            "url": "https://api.github.com/users/brittapril", 
+            "gists_url": "https://api.github.com/users/brittapril/gists{/gist_id}", 
+            "html_url": "https://github.com/brittapril", 
+            "subscriptions_url": "https://api.github.com/users/brittapril/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/15102643?v=4", 
+            "repos_url": "https://api.github.com/users/brittapril/repos", 
+            "received_events_url": "https://api.github.com/users/brittapril/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/brittapril/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "brittapril", 
+            "type": "User", 
+            "id": 15102643, 
+            "followers_url": "https://api.github.com/users/brittapril/followers"
+        }
+    }
+]

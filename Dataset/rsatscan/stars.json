@@ -1,0 +1,68 @@
+[
+    {
+        "starred_at": "2016-10-31T06:44:06Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/Jianghao/following{/other_user}", 
+            "events_url": "https://api.github.com/users/Jianghao/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/Jianghao/orgs", 
+            "url": "https://api.github.com/users/Jianghao", 
+            "gists_url": "https://api.github.com/users/Jianghao/gists{/gist_id}", 
+            "html_url": "https://github.com/Jianghao", 
+            "subscriptions_url": "https://api.github.com/users/Jianghao/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/2678988?v=4", 
+            "repos_url": "https://api.github.com/users/Jianghao/repos", 
+            "received_events_url": "https://api.github.com/users/Jianghao/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/Jianghao/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "Jianghao", 
+            "type": "User", 
+            "id": 2678988, 
+            "followers_url": "https://api.github.com/users/Jianghao/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-07-02T15:46:22Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/GISerDaiShaoqing/following{/other_user}", 
+            "events_url": "https://api.github.com/users/GISerDaiShaoqing/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/GISerDaiShaoqing/orgs", 
+            "url": "https://api.github.com/users/GISerDaiShaoqing", 
+            "gists_url": "https://api.github.com/users/GISerDaiShaoqing/gists{/gist_id}", 
+            "html_url": "https://github.com/GISerDaiShaoqing", 
+            "subscriptions_url": "https://api.github.com/users/GISerDaiShaoqing/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/26642320?v=4", 
+            "repos_url": "https://api.github.com/users/GISerDaiShaoqing/repos", 
+            "received_events_url": "https://api.github.com/users/GISerDaiShaoqing/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/GISerDaiShaoqing/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "GISerDaiShaoqing", 
+            "type": "User", 
+            "id": 26642320, 
+            "followers_url": "https://api.github.com/users/GISerDaiShaoqing/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-10-02T09:21:23Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/ynsxx/following{/other_user}", 
+            "events_url": "https://api.github.com/users/ynsxx/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/ynsxx/orgs", 
+            "url": "https://api.github.com/users/ynsxx", 
+            "gists_url": "https://api.github.com/users/ynsxx/gists{/gist_id}", 
+            "html_url": "https://github.com/ynsxx", 
+            "subscriptions_url": "https://api.github.com/users/ynsxx/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/12133270?v=4", 
+            "repos_url": "https://api.github.com/users/ynsxx/repos", 
+            "received_events_url": "https://api.github.com/users/ynsxx/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/ynsxx/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "ynsxx", 
+            "type": "User", 
+            "id": 12133270, 
+            "followers_url": "https://api.github.com/users/ynsxx/followers"
+        }
+    }
+]

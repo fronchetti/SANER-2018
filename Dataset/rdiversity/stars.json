@@ -1,0 +1,46 @@
+[
+    {
+        "starred_at": "2016-06-05T16:29:50Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/richardreeve/following{/other_user}", 
+            "events_url": "https://api.github.com/users/richardreeve/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/richardreeve/orgs", 
+            "url": "https://api.github.com/users/richardreeve", 
+            "gists_url": "https://api.github.com/users/richardreeve/gists{/gist_id}", 
+            "html_url": "https://github.com/richardreeve", 
+            "subscriptions_url": "https://api.github.com/users/richardreeve/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/3344796?v=4", 
+            "repos_url": "https://api.github.com/users/richardreeve/repos", 
+            "received_events_url": "https://api.github.com/users/richardreeve/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/richardreeve/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "richardreeve", 
+            "type": "User", 
+            "id": 3344796, 
+            "followers_url": "https://api.github.com/users/richardreeve/followers"
+        }
+    }, 
+    {
+        "starred_at": "2016-06-14T15:27:39Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/mysteryduck/following{/other_user}", 
+            "events_url": "https://api.github.com/users/mysteryduck/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/mysteryduck/orgs", 
+            "url": "https://api.github.com/users/mysteryduck", 
+            "gists_url": "https://api.github.com/users/mysteryduck/gists{/gist_id}", 
+            "html_url": "https://github.com/mysteryduck", 
+            "subscriptions_url": "https://api.github.com/users/mysteryduck/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/8394297?v=4", 
+            "repos_url": "https://api.github.com/users/mysteryduck/repos", 
+            "received_events_url": "https://api.github.com/users/mysteryduck/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/mysteryduck/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "mysteryduck", 
+            "type": "User", 
+            "id": 8394297, 
+            "followers_url": "https://api.github.com/users/mysteryduck/followers"
+        }
+    }
+]

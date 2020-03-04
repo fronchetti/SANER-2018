@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2011-05-16T04:07:28Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/dlindelof/following{/other_user}", 
+            "events_url": "https://api.github.com/users/dlindelof/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/dlindelof/orgs", 
+            "url": "https://api.github.com/users/dlindelof", 
+            "gists_url": "https://api.github.com/users/dlindelof/gists{/gist_id}", 
+            "html_url": "https://github.com/dlindelof", 
+            "subscriptions_url": "https://api.github.com/users/dlindelof/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/245328?v=4", 
+            "repos_url": "https://api.github.com/users/dlindelof/repos", 
+            "received_events_url": "https://api.github.com/users/dlindelof/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/dlindelof/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "dlindelof", 
+            "type": "User", 
+            "id": 245328, 
+            "followers_url": "https://api.github.com/users/dlindelof/followers"
+        }
+    }
+]

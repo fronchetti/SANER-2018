@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2017-11-15T16:48:17Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/mrchypark/following{/other_user}", 
+            "events_url": "https://api.github.com/users/mrchypark/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/mrchypark/orgs", 
+            "url": "https://api.github.com/users/mrchypark", 
+            "gists_url": "https://api.github.com/users/mrchypark/gists{/gist_id}", 
+            "html_url": "https://github.com/mrchypark", 
+            "subscriptions_url": "https://api.github.com/users/mrchypark/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/6179259?v=4", 
+            "repos_url": "https://api.github.com/users/mrchypark/repos", 
+            "received_events_url": "https://api.github.com/users/mrchypark/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/mrchypark/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "mrchypark", 
+            "type": "User", 
+            "id": 6179259, 
+            "followers_url": "https://api.github.com/users/mrchypark/followers"
+        }
+    }
+]

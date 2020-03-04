@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2017-11-23T09:23:17Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/Rekyt/following{/other_user}", 
+            "events_url": "https://api.github.com/users/Rekyt/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/Rekyt/orgs", 
+            "url": "https://api.github.com/users/Rekyt", 
+            "gists_url": "https://api.github.com/users/Rekyt/gists{/gist_id}", 
+            "html_url": "https://github.com/Rekyt", 
+            "subscriptions_url": "https://api.github.com/users/Rekyt/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/5593751?v=4", 
+            "repos_url": "https://api.github.com/users/Rekyt/repos", 
+            "received_events_url": "https://api.github.com/users/Rekyt/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/Rekyt/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "Rekyt", 
+            "type": "User", 
+            "id": 5593751, 
+            "followers_url": "https://api.github.com/users/Rekyt/followers"
+        }
+    }
+]

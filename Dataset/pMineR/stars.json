@@ -1,0 +1,46 @@
+[
+    {
+        "starred_at": "2017-02-20T21:03:04Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/kindofluke/following{/other_user}", 
+            "events_url": "https://api.github.com/users/kindofluke/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/kindofluke/orgs", 
+            "url": "https://api.github.com/users/kindofluke", 
+            "gists_url": "https://api.github.com/users/kindofluke/gists{/gist_id}", 
+            "html_url": "https://github.com/kindofluke", 
+            "subscriptions_url": "https://api.github.com/users/kindofluke/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/20745904?v=4", 
+            "repos_url": "https://api.github.com/users/kindofluke/repos", 
+            "received_events_url": "https://api.github.com/users/kindofluke/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/kindofluke/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "kindofluke", 
+            "type": "User", 
+            "id": 20745904, 
+            "followers_url": "https://api.github.com/users/kindofluke/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-03-04T15:04:27Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/epijim/following{/other_user}", 
+            "events_url": "https://api.github.com/users/epijim/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/epijim/orgs", 
+            "url": "https://api.github.com/users/epijim", 
+            "gists_url": "https://api.github.com/users/epijim/gists{/gist_id}", 
+            "html_url": "https://github.com/epijim", 
+            "subscriptions_url": "https://api.github.com/users/epijim/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/2760096?v=4", 
+            "repos_url": "https://api.github.com/users/epijim/repos", 
+            "received_events_url": "https://api.github.com/users/epijim/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/epijim/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "epijim", 
+            "type": "User", 
+            "id": 2760096, 
+            "followers_url": "https://api.github.com/users/epijim/followers"
+        }
+    }
+]

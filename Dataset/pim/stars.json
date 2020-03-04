@@ -1,0 +1,68 @@
+[
+    {
+        "starred_at": "2017-08-24T15:49:57Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/JoFAM/following{/other_user}", 
+            "events_url": "https://api.github.com/users/JoFAM/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/JoFAM/orgs", 
+            "url": "https://api.github.com/users/JoFAM", 
+            "gists_url": "https://api.github.com/users/JoFAM/gists{/gist_id}", 
+            "html_url": "https://github.com/JoFAM", 
+            "subscriptions_url": "https://api.github.com/users/JoFAM/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/809906?v=4", 
+            "repos_url": "https://api.github.com/users/JoFAM/repos", 
+            "received_events_url": "https://api.github.com/users/JoFAM/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/JoFAM/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "JoFAM", 
+            "type": "User", 
+            "id": 809906, 
+            "followers_url": "https://api.github.com/users/JoFAM/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-09-21T14:19:49Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/kashenfelter/following{/other_user}", 
+            "events_url": "https://api.github.com/users/kashenfelter/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/kashenfelter/orgs", 
+            "url": "https://api.github.com/users/kashenfelter", 
+            "gists_url": "https://api.github.com/users/kashenfelter/gists{/gist_id}", 
+            "html_url": "https://github.com/kashenfelter", 
+            "subscriptions_url": "https://api.github.com/users/kashenfelter/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/32109425?v=4", 
+            "repos_url": "https://api.github.com/users/kashenfelter/repos", 
+            "received_events_url": "https://api.github.com/users/kashenfelter/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/kashenfelter/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "kashenfelter", 
+            "type": "User", 
+            "id": 32109425, 
+            "followers_url": "https://api.github.com/users/kashenfelter/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-11-11T11:30:02Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/Cloud2016/following{/other_user}", 
+            "events_url": "https://api.github.com/users/Cloud2016/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/Cloud2016/orgs", 
+            "url": "https://api.github.com/users/Cloud2016", 
+            "gists_url": "https://api.github.com/users/Cloud2016/gists{/gist_id}", 
+            "html_url": "https://github.com/Cloud2016", 
+            "subscriptions_url": "https://api.github.com/users/Cloud2016/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/12031874?v=4", 
+            "repos_url": "https://api.github.com/users/Cloud2016/repos", 
+            "received_events_url": "https://api.github.com/users/Cloud2016/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/Cloud2016/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "Cloud2016", 
+            "type": "User", 
+            "id": 12031874, 
+            "followers_url": "https://api.github.com/users/Cloud2016/followers"
+        }
+    }
+]

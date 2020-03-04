@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2017-01-12T19:17:47Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/avallecam/following{/other_user}", 
+            "events_url": "https://api.github.com/users/avallecam/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/avallecam/orgs", 
+            "url": "https://api.github.com/users/avallecam", 
+            "gists_url": "https://api.github.com/users/avallecam/gists{/gist_id}", 
+            "html_url": "https://github.com/avallecam", 
+            "subscriptions_url": "https://api.github.com/users/avallecam/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/21230390?v=4", 
+            "repos_url": "https://api.github.com/users/avallecam/repos", 
+            "received_events_url": "https://api.github.com/users/avallecam/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/avallecam/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "avallecam", 
+            "type": "User", 
+            "id": 21230390, 
+            "followers_url": "https://api.github.com/users/avallecam/followers"
+        }
+    }
+]

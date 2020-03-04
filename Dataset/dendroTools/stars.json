@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2017-11-04T18:25:35Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/jernejjevsenak/following{/other_user}", 
+            "events_url": "https://api.github.com/users/jernejjevsenak/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/jernejjevsenak/orgs", 
+            "url": "https://api.github.com/users/jernejjevsenak", 
+            "gists_url": "https://api.github.com/users/jernejjevsenak/gists{/gist_id}", 
+            "html_url": "https://github.com/jernejjevsenak", 
+            "subscriptions_url": "https://api.github.com/users/jernejjevsenak/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/24474135?v=4", 
+            "repos_url": "https://api.github.com/users/jernejjevsenak/repos", 
+            "received_events_url": "https://api.github.com/users/jernejjevsenak/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/jernejjevsenak/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "jernejjevsenak", 
+            "type": "User", 
+            "id": 24474135, 
+            "followers_url": "https://api.github.com/users/jernejjevsenak/followers"
+        }
+    }
+]

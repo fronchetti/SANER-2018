@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2017-08-13T21:16:07Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/bdsegal/following{/other_user}", 
+            "events_url": "https://api.github.com/users/bdsegal/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/bdsegal/orgs", 
+            "url": "https://api.github.com/users/bdsegal", 
+            "gists_url": "https://api.github.com/users/bdsegal/gists{/gist_id}", 
+            "html_url": "https://github.com/bdsegal", 
+            "subscriptions_url": "https://api.github.com/users/bdsegal/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/4032643?v=4", 
+            "repos_url": "https://api.github.com/users/bdsegal/repos", 
+            "received_events_url": "https://api.github.com/users/bdsegal/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/bdsegal/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "bdsegal", 
+            "type": "User", 
+            "id": 4032643, 
+            "followers_url": "https://api.github.com/users/bdsegal/followers"
+        }
+    }
+]

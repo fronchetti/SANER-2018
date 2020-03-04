@@ -1,0 +1,112 @@
+[
+    {
+        "starred_at": "2016-03-29T17:19:37Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/fernandomayer/following{/other_user}", 
+            "events_url": "https://api.github.com/users/fernandomayer/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/fernandomayer/orgs", 
+            "url": "https://api.github.com/users/fernandomayer", 
+            "gists_url": "https://api.github.com/users/fernandomayer/gists{/gist_id}", 
+            "html_url": "https://github.com/fernandomayer", 
+            "subscriptions_url": "https://api.github.com/users/fernandomayer/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/650253?v=4", 
+            "repos_url": "https://api.github.com/users/fernandomayer/repos", 
+            "received_events_url": "https://api.github.com/users/fernandomayer/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/fernandomayer/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "fernandomayer", 
+            "type": "User", 
+            "id": 650253, 
+            "followers_url": "https://api.github.com/users/fernandomayer/followers"
+        }
+    }, 
+    {
+        "starred_at": "2016-03-31T04:21:04Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/JrEduardo/following{/other_user}", 
+            "events_url": "https://api.github.com/users/JrEduardo/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/JrEduardo/orgs", 
+            "url": "https://api.github.com/users/JrEduardo", 
+            "gists_url": "https://api.github.com/users/JrEduardo/gists{/gist_id}", 
+            "html_url": "https://github.com/JrEduardo", 
+            "subscriptions_url": "https://api.github.com/users/JrEduardo/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/7762926?v=4", 
+            "repos_url": "https://api.github.com/users/JrEduardo/repos", 
+            "received_events_url": "https://api.github.com/users/JrEduardo/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/JrEduardo/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "JrEduardo", 
+            "type": "User", 
+            "id": 7762926, 
+            "followers_url": "https://api.github.com/users/JrEduardo/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-07-03T18:50:48Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/evanbiederstedt/following{/other_user}", 
+            "events_url": "https://api.github.com/users/evanbiederstedt/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/evanbiederstedt/orgs", 
+            "url": "https://api.github.com/users/evanbiederstedt", 
+            "gists_url": "https://api.github.com/users/evanbiederstedt/gists{/gist_id}", 
+            "html_url": "https://github.com/evanbiederstedt", 
+            "subscriptions_url": "https://api.github.com/users/evanbiederstedt/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/6968193?v=4", 
+            "repos_url": "https://api.github.com/users/evanbiederstedt/repos", 
+            "received_events_url": "https://api.github.com/users/evanbiederstedt/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/evanbiederstedt/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "evanbiederstedt", 
+            "type": "User", 
+            "id": 6968193, 
+            "followers_url": "https://api.github.com/users/evanbiederstedt/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-07-18T17:36:56Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/brunaw/following{/other_user}", 
+            "events_url": "https://api.github.com/users/brunaw/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/brunaw/orgs", 
+            "url": "https://api.github.com/users/brunaw", 
+            "gists_url": "https://api.github.com/users/brunaw/gists{/gist_id}", 
+            "html_url": "https://github.com/brunaw", 
+            "subscriptions_url": "https://api.github.com/users/brunaw/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/18500161?v=4", 
+            "repos_url": "https://api.github.com/users/brunaw/repos", 
+            "received_events_url": "https://api.github.com/users/brunaw/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/brunaw/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "brunaw", 
+            "type": "User", 
+            "id": 18500161, 
+            "followers_url": "https://api.github.com/users/brunaw/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-09-25T06:18:18Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/BERENZ/following{/other_user}", 
+            "events_url": "https://api.github.com/users/BERENZ/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/BERENZ/orgs", 
+            "url": "https://api.github.com/users/BERENZ", 
+            "gists_url": "https://api.github.com/users/BERENZ/gists{/gist_id}", 
+            "html_url": "https://github.com/BERENZ", 
+            "subscriptions_url": "https://api.github.com/users/BERENZ/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/3464669?v=4", 
+            "repos_url": "https://api.github.com/users/BERENZ/repos", 
+            "received_events_url": "https://api.github.com/users/BERENZ/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/BERENZ/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "BERENZ", 
+            "type": "User", 
+            "id": 3464669, 
+            "followers_url": "https://api.github.com/users/BERENZ/followers"
+        }
+    }
+]

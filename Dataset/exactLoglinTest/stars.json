@@ -1,0 +1,68 @@
+[
+    {
+        "starred_at": "2012-06-24T04:34:31Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/bcaffo/following{/other_user}", 
+            "events_url": "https://api.github.com/users/bcaffo/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/bcaffo/orgs", 
+            "url": "https://api.github.com/users/bcaffo", 
+            "gists_url": "https://api.github.com/users/bcaffo/gists{/gist_id}", 
+            "html_url": "https://github.com/bcaffo", 
+            "subscriptions_url": "https://api.github.com/users/bcaffo/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/1790075?v=4", 
+            "repos_url": "https://api.github.com/users/bcaffo/repos", 
+            "received_events_url": "https://api.github.com/users/bcaffo/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/bcaffo/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "bcaffo", 
+            "type": "User", 
+            "id": 1790075, 
+            "followers_url": "https://api.github.com/users/bcaffo/followers"
+        }
+    }, 
+    {
+        "starred_at": "2013-04-17T17:17:15Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/abhijeetsafai/following{/other_user}", 
+            "events_url": "https://api.github.com/users/abhijeetsafai/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/abhijeetsafai/orgs", 
+            "url": "https://api.github.com/users/abhijeetsafai", 
+            "gists_url": "https://api.github.com/users/abhijeetsafai/gists{/gist_id}", 
+            "html_url": "https://github.com/abhijeetsafai", 
+            "subscriptions_url": "https://api.github.com/users/abhijeetsafai/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/4183418?v=4", 
+            "repos_url": "https://api.github.com/users/abhijeetsafai/repos", 
+            "received_events_url": "https://api.github.com/users/abhijeetsafai/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/abhijeetsafai/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "abhijeetsafai", 
+            "type": "User", 
+            "id": 4183418, 
+            "followers_url": "https://api.github.com/users/abhijeetsafai/followers"
+        }
+    }, 
+    {
+        "starred_at": "2016-10-12T01:28:16Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/spkdroid/following{/other_user}", 
+            "events_url": "https://api.github.com/users/spkdroid/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/spkdroid/orgs", 
+            "url": "https://api.github.com/users/spkdroid", 
+            "gists_url": "https://api.github.com/users/spkdroid/gists{/gist_id}", 
+            "html_url": "https://github.com/spkdroid", 
+            "subscriptions_url": "https://api.github.com/users/spkdroid/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/10376700?v=4", 
+            "repos_url": "https://api.github.com/users/spkdroid/repos", 
+            "received_events_url": "https://api.github.com/users/spkdroid/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/spkdroid/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "spkdroid", 
+            "type": "User", 
+            "id": 10376700, 
+            "followers_url": "https://api.github.com/users/spkdroid/followers"
+        }
+    }
+]

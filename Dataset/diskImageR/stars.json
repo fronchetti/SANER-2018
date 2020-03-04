@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2015-03-28T09:16:23Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/yoavram/following{/other_user}", 
+            "events_url": "https://api.github.com/users/yoavram/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/yoavram/orgs", 
+            "url": "https://api.github.com/users/yoavram", 
+            "gists_url": "https://api.github.com/users/yoavram/gists{/gist_id}", 
+            "html_url": "https://github.com/yoavram", 
+            "subscriptions_url": "https://api.github.com/users/yoavram/subscriptions", 
+            "avatar_url": "https://avatars1.githubusercontent.com/u/1288133?v=4", 
+            "repos_url": "https://api.github.com/users/yoavram/repos", 
+            "received_events_url": "https://api.github.com/users/yoavram/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/yoavram/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "yoavram", 
+            "type": "User", 
+            "id": 1288133, 
+            "followers_url": "https://api.github.com/users/yoavram/followers"
+        }
+    }
+]

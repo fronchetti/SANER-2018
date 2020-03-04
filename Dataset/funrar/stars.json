@@ -1,0 +1,68 @@
+[
+    {
+        "starred_at": "2016-07-07T11:37:19Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/cmtucker/following{/other_user}", 
+            "events_url": "https://api.github.com/users/cmtucker/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/cmtucker/orgs", 
+            "url": "https://api.github.com/users/cmtucker", 
+            "gists_url": "https://api.github.com/users/cmtucker/gists{/gist_id}", 
+            "html_url": "https://github.com/cmtucker", 
+            "subscriptions_url": "https://api.github.com/users/cmtucker/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/8257368?v=4", 
+            "repos_url": "https://api.github.com/users/cmtucker/repos", 
+            "received_events_url": "https://api.github.com/users/cmtucker/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/cmtucker/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "cmtucker", 
+            "type": "User", 
+            "id": 8257368, 
+            "followers_url": "https://api.github.com/users/cmtucker/followers"
+        }
+    }, 
+    {
+        "starred_at": "2016-08-15T08:09:01Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/oliverpurschke/following{/other_user}", 
+            "events_url": "https://api.github.com/users/oliverpurschke/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/oliverpurschke/orgs", 
+            "url": "https://api.github.com/users/oliverpurschke", 
+            "gists_url": "https://api.github.com/users/oliverpurschke/gists{/gist_id}", 
+            "html_url": "https://github.com/oliverpurschke", 
+            "subscriptions_url": "https://api.github.com/users/oliverpurschke/subscriptions", 
+            "avatar_url": "https://avatars3.githubusercontent.com/u/12734336?v=4", 
+            "repos_url": "https://api.github.com/users/oliverpurschke/repos", 
+            "received_events_url": "https://api.github.com/users/oliverpurschke/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/oliverpurschke/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "oliverpurschke", 
+            "type": "User", 
+            "id": 12734336, 
+            "followers_url": "https://api.github.com/users/oliverpurschke/followers"
+        }
+    }, 
+    {
+        "starred_at": "2017-10-03T09:57:28Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/Rekyt/following{/other_user}", 
+            "events_url": "https://api.github.com/users/Rekyt/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/Rekyt/orgs", 
+            "url": "https://api.github.com/users/Rekyt", 
+            "gists_url": "https://api.github.com/users/Rekyt/gists{/gist_id}", 
+            "html_url": "https://github.com/Rekyt", 
+            "subscriptions_url": "https://api.github.com/users/Rekyt/subscriptions", 
+            "avatar_url": "https://avatars0.githubusercontent.com/u/5593751?v=4", 
+            "repos_url": "https://api.github.com/users/Rekyt/repos", 
+            "received_events_url": "https://api.github.com/users/Rekyt/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/Rekyt/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "Rekyt", 
+            "type": "User", 
+            "id": 5593751, 
+            "followers_url": "https://api.github.com/users/Rekyt/followers"
+        }
+    }
+]

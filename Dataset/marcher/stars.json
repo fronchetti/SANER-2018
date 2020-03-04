@@ -1,0 +1,24 @@
+[
+    {
+        "starred_at": "2017-02-24T01:29:18Z", 
+        "user": {
+            "following_url": "https://api.github.com/users/faridcher/following{/other_user}", 
+            "events_url": "https://api.github.com/users/faridcher/events{/privacy}", 
+            "organizations_url": "https://api.github.com/users/faridcher/orgs", 
+            "url": "https://api.github.com/users/faridcher", 
+            "gists_url": "https://api.github.com/users/faridcher/gists{/gist_id}", 
+            "html_url": "https://github.com/faridcher", 
+            "subscriptions_url": "https://api.github.com/users/faridcher/subscriptions", 
+            "avatar_url": "https://avatars2.githubusercontent.com/u/9982519?v=4", 
+            "repos_url": "https://api.github.com/users/faridcher/repos", 
+            "received_events_url": "https://api.github.com/users/faridcher/received_events", 
+            "gravatar_id": "", 
+            "starred_url": "https://api.github.com/users/faridcher/starred{/owner}{/repo}", 
+            "site_admin": false, 
+            "login": "faridcher", 
+            "type": "User", 
+            "id": 9982519, 
+            "followers_url": "https://api.github.com/users/faridcher/followers"
+        }
+    }
+]
